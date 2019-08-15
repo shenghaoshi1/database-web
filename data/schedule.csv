@@ -1,0 +1,1231 @@
+,premier,home,away,time
+0,English Premier League,Newcastle United,Wolverhampton Wanderers,2018-12-09 11:00
+1,Spanish Primera División,Eibar,Levante,2018-12-09 06:00
+2,Spanish Primera División,Huesca,Real Madrid,2018-12-09 10:15
+3,Spanish Primera División,Real Sociedad,Real Valladolid,2018-12-09 12:30
+4,Spanish Primera División,Real Betis,Rayo Vallecano,2018-12-09 14:45
+5,Italian Serie A,Sassuolo,Fiorentina,2018-12-09 06:30
+6,Italian Serie A,Empoli,Bologna,2018-12-09 09:00
+7,Italian Serie A,Parma,Chievo Verona,2018-12-09 09:00
+8,Italian Serie A,Udinese,Atalanta,2018-12-09 09:00
+9,Italian Serie A,Genoa,SPAL,2018-12-09 12:00
+10,Italian Serie A,AC Milan,Torino,2018-12-09 14:30
+11,Mexican Liga BBVA Bancomer,América,Pumas UNAM,2018-12-09 19:45
+12,German Bundesliga,Mainz,Hannover 96,2018-12-09 09:30
+13,German Bundesliga,Borussia Monchengladbach,VfB Stuttgart,2018-12-09 12:00
+14,French Ligue 1,Strasbourg,Caen,2018-12-09 09:00
+15,French Ligue 1,Lille,Stade de Reims,2018-12-09 11:00
+16,CONMEBOL Copa Libertadores,River Plate,Boca Juniors,2018-12-09 14:30
+17,Dutch Eredivisie,FC Utrecht,SC Heracles Almelo,2018-12-09 06:15
+18,Dutch Eredivisie,FC Emmen VV,Feyenoord Rotterdam,2018-12-09 08:30
+19,Dutch Eredivisie,VVV Venlo,FC Groningen,2018-12-09 08:30
+20,Dutch Eredivisie,NAC Breda,Vitesse Arnhem,2018-12-09 10:45
+21,Portuguese Liga,CD Nacional de Madeira,Boavista,2018-12-09 10:00
+22,Portuguese Liga,Moreirense,Santa Clara,2018-12-09 10:00
+23,Portuguese Liga,Guimaraes,Rio Ave,2018-12-09 12:30
+24,Portuguese Liga,Sporting CP,Desportivo Aves,2018-12-09 15:00
+25,Russian Premier League,Dinamo Moscow,Ural Sverdlovsk Oblast,2018-12-09 06:00
+26,Russian Premier League,Krasnodar,FC Ufa,2018-12-09 08:30
+27,Russian Premier League,Zenit St Petersburg,FK Rubin Kazan,2018-12-09 11:00
+28,Scottish Premiership,Dundee,Rangers,2018-12-09 08:30
+29,Turkish Super Lig,Erzurum BB,Yeni Malatyaspor,2018-12-09 05:30
+30,Turkish Super Lig,Bursaspor,Antalyaspor,2018-12-09 08:00
+31,Turkish Super Lig,Akhisar Belediyespor,Fenerbahce,2018-12-09 11:00
+32,Belgian First Division A,Cercle Brugge KSV,Antwerp,2018-12-09 08:30
+33,Belgian First Division A,Anderlecht,Royal Charleroi SC,2018-12-09 12:00
+34,Belgian First Division A,KAA Gent,Eupen,2018-12-09 14:00
+35,Greek Super League,FC Xanthi,Olympiakos,2018-12-09 08:30
+36,Greek Super League,OFI Crete,Panathinaikos,2018-12-09 10:15
+37,Greek Super League,Atromitos,Aris,2018-12-09 12:00
+38,Greek Super League,PAOK Salonika,Larissa FC,2018-12-09 12:30
+39,Swiss Super League,FC Basel,FC Zürich,2018-12-09 10:00
+40,Swiss Super League,FC Lugano,FC Sion,2018-12-09 10:00
+41,Swiss Super League,Grasshoppers,Lucerne,2018-12-09 10:00
+42,Danish SAS-Ligaen,Vendsyssel,Randers FC,2018-12-09 06:00
+43,Danish SAS-Ligaen,AaB,AC Horsens,2018-12-09 08:00
+44,Danish SAS-Ligaen,FC Copenhagen,Esbjerg FB,2018-12-09 10:00
+45,Danish SAS-Ligaen,Vejle BK,Brøndby,2018-12-09 12:00
+46,Austrian Bundesliga,SV Mattersburg,Austria Vienna,2018-12-09 08:30
+47,Austrian Bundesliga,TSV Hartberg,FC Wacker Innsbruck,2018-12-09 08:30
+48,Austrian Bundesliga,Rapid Vienna,SK Sturm Graz,2018-12-09 11:00
+49,Australian A-League,Newcastle Jets,Brisbane Roar,2018-12-09 01:00
+50,Norwegian Eliteserien,Aalesund,Stabaek,2018-12-09 12:00
+51,Israeli Premier League,Hapoel Ra'anana,Hapoel Haifa,2018-12-09 12:00
+52,Israeli Premier League,Maccabi Netanya,Hapoel Hadera,2018-12-09 13:15
+53,Romanian First Division,CSMS Iasi,Dunarea Calarasi,2018-12-09 07:00
+54,Romanian First Division,FK Astra Giurgiu,Concordia Chiajna,2018-12-09 10:00
+55,Romanian First Division,FCSB,Viitorul Constanta,2018-12-09 13:00
+56,Argentine Superliga,Argentinos Juniors,Aldosivi,2018-12-09 17:20
+57,Argentine Superliga,Gimnasia La Plata,Huracán,2018-12-09 17:20
+58,Argentine Superliga,Racing Club,San Martín de San Juan,2018-12-09 19:30
+59,Argentine Nacional B,Gimnasia y Esgrima de Jujuy,Brown de Adrogué,2018-12-09 15:00
+60,Argentine Nacional B,Gimnasia (M),Atletico Rafaela,2018-12-09 16:00
+61,Argentine Nacional B,Instituto de Córdoba,Quilmes,2018-12-09 18:00
+62,Argentine Primera C,Deportivo Armenio,Victoriano Arenas,2018-12-09 15:00
+63,Spanish Segunda División,AD Alcorcon,Reus Deportiu,2018-12-09 06:00
+64,Spanish Segunda División,Cádiz,Rayo Majadahonda,2018-12-09 10:00
+65,Spanish Segunda División,Elche,Sporting Gijón,2018-12-09 12:00
+66,Spanish Segunda División,Lugo,Las Palmas,2018-12-09 14:00
+67,Spanish Segunda División,Real Zaragoza,Cordoba,2018-12-09 14:30
+68,Italian Serie B,Cremonese,Cittadella,2018-12-09 09:00
+69,Italian Serie B,Livorno,Foggia,2018-12-09 09:00
+70,Italian Serie B,Benevento,Hellas Verona,2018-12-09 15:00
+71,German 2. Bundesliga,1. FC Magdeburg,FC Union Berlin,2018-12-09 07:30
+72,German 2. Bundesliga,Arminia Bielefeld,SV Sandhausen,2018-12-09 07:30
+73,German 2. Bundesliga,Dynamo Dresden,Holstein Kiel,2018-12-09 07:30
+74,Bolivian Liga Profesional,Real Potosí,Royal Pari,2018-12-09 14:00
+75,Bolivian Liga Profesional,San José,Oriente Petrolero,2018-12-09 16:15
+76,Bolivian Liga Profesional,Destroyers,Bolívar,2018-12-09 18:30
+77,Bolivian Liga Profesional,Guabirá,Aurora,2018-12-09 18:30
+78,United States NCAA Men's Soccer,Maryland Terrapins,Akron Zips,2018-12-09 20:00
+79,Maltese Premier League,Gzira United,Mosta FC,2018-12-09 08:00
+80,Maltese Premier League,Hibernians,Senglea Athletic FC,2018-12-09 10:00
+81,Costa Rican Primera Division,Alajuelense,Herediano,2018-12-09 12:00
+82,Salvadoran Primera Division,Santa Tecla,Aguila,2018-12-09 17:30
+83,Guatemalan Liga Nacional,Xelaju,Comunicaciones,2018-12-09 19:00
+84,Indian Super League,Bengaluru FC,Mumbai City FC,2018-12-09 09:00
+85,Honduran Primera Division,Olimpia,CD Motagua,2018-12-09 17:00
+86,Indian I-League,Churchill Brothers,Aizawl FC,2018-12-09 06:30
+87,Indonesian Super League,Arema Indonesia,Sriwijaya,2018-12-09 03:30
+88,Indonesian Super League,Persija,Mitra Kukar,2018-12-09 03:30
+89,Indonesian Super League,Persipura,Perseru,2018-12-09 03:30
+90,Indonesian Super League,PSM Makassar,PSMS Medan,2018-12-09 03:30
+91,Indonesian Super League,Pusamania Borneo,PS TIRA,2018-12-09 03:30
+92,South African First Division,TS Galaxy,Stellenbosch FC,2018-12-09 08:30
+93,Ugandan Super League,Vipers,Police FC,2018-12-09 08:00
+94,English Premier League,Everton,Watford,2018-12-10 15:00
+95,Spanish Primera División,Athletic Bilbao,Girona,2018-12-10 15:00
+96,Portuguese Liga,Feirense,Maritimo,2018-12-10 15:15
+97,Russian Premier League,Akhmat Grozny,FC Arsenal Tula,2018-12-10 11:30
+98,Turkish Super Lig,Ankaragucu,Istanbul Basaksehir,2018-12-10 12:00
+99,Turkish Super Lig,Kasimpasa,Kayserispor,2018-12-10 12:00
+100,Greek Super League,Panetolikos,Apollon Smyrni,2018-12-10 12:00
+101,Greek Super League,Panionios,Levadiakos,2018-12-10 12:30
+102,Danish SAS-Ligaen,FC Nordsjaelland,AGF Aarhus,2018-12-10 13:00
+103,Israeli Premier League,Hapoel Tel Aviv,Beitar Jerusalem,2018-12-10 14:00
+104,Romanian First Division,Sepsi Sfantu Gheorghe,FC Botosani,2018-12-10 10:30
+105,Romanian First Division,Universitatea Craiova,Voluntari,2018-12-10 13:00
+106,Argentine Superliga,Patronato,Vélez Sarsfield,2018-12-10 17:00
+107,Argentine Superliga,Belgrano de Córdoba,Tigre,2018-12-10 19:15
+108,Argentine Nacional B,Almagro,Ctral. Córdoba SE,2018-12-10 15:00
+109,Argentine Nacional B,Arsenal de Sarandí,Nueva Chicago,2018-12-10 19:05
+110,Argentine Nacional B,Mitre (SE),Deportivo Morón,2018-12-10 20:00
+111,Argentine Primera B,Comunicaciones (Mercedes),Deportivo Español,2018-12-10 15:00
+112,Argentine Primera B,Justo José Urquiza,Acassuso,2018-12-10 15:00
+113,Argentine Primera B,Sacachispas,Estudiantes de Caseros,2018-12-10 15:00
+114,Argentine Primera C,Argentino Quilmes,Berazategui,2018-12-10 15:00
+115,Argentine Primera C,Deportivo Laferrere,Excursionistas,2018-12-10 15:00
+116,Argentine Primera C,Luján,El Porvenir,2018-12-10 15:00
+117,Argentine Primera D,Atlas,Argentino Rosario,2018-12-10 15:00
+118,Argentine Primera D,Defensores Cambaceres,Lugano,2018-12-10 15:00
+119,Argentine Primera D,Deportivo Muñiz,Puerto Nuevo,2018-12-10 15:00
+120,Italian Serie B,Salernitana,Brescia,2018-12-10 15:00
+121,German 2. Bundesliga,VfL Bochum,St Pauli,2018-12-10 14:30
+122,Dutch Eerste Divisie,AZ Reserves,SC Stormvogels Telstar,2018-12-10 14:00
+123,Dutch Eerste Divisie,Jong PSV,SC Cambuur,2018-12-10 14:00
+124,Bolivian Liga Profesional,Blooming,Nacional Potosí,2018-12-10 19:30
+125,UEFA Champions League,Galatasaray,FC Porto,2018-12-11 12:55
+126,UEFA Champions League,Schalke 04,Lokomotiv Moscow,2018-12-11 12:55
+127,UEFA Champions League,AS Monaco,Borussia Dortmund,2018-12-11 15:00
+128,UEFA Champions League,Barcelona,Tottenham Hotspur,2018-12-11 15:00
+129,UEFA Champions League,Club Brugge,Atletico Madrid,2018-12-11 15:00
+130,UEFA Champions League,Internazionale,PSV Eindhoven,2018-12-11 15:00
+131,UEFA Champions League,Liverpool,Napoli,2018-12-11 15:00
+132,UEFA Champions League,Red Star Belgrade,Paris Saint-Germain,2018-12-11 15:00
+133,English FA Cup,Bradford City,Peterborough United,2018-12-11 14:45
+134,English FA Cup,Newport County,Wrexham,2018-12-11 14:45
+135,English FA Cup,Sunderland,Walsall,2018-12-11 14:45
+136,Scottish Premiership,Aberdeen,Livingston,2018-12-11 14:45
+137,Argentine Nacional B,Santamarina,Sarmiento de Junín,2018-12-11 19:05
+138,Argentine Primera B,Barracas Central,Deportivo Riestra,2018-12-11 15:00
+139,Argentine Primera B,Colegiales,Deportivo Riestra,2018-12-11 15:00
+140,Argentine Primera B,Talleres de Remedios de Escalada,Atlanta,2018-12-11 17:30
+141,Argentine Primera C,Dock Sud,Central Córdoba de Rosario,2018-12-11 15:00
+142,Argentine Primera D,Central Ballester,Liniers,2018-12-11 15:00
+143,Argentine Primera D,Centro Español,Claypole,2018-12-11 15:00
+144,English EFL Trophy,Rochdale,Oldham Athletic,2018-12-11 14:00
+145,English League One,Portsmouth,Charlton Athletic,2018-12-11 14:45
+146,Scottish League Two,Edinburgh City,Peterhead,2018-12-11 14:45
+147,AFF Cup,Malaysia,Vietnam,2018-12-11 07:45
+148,Indian Super League,FC Pune City,FC Goa,2018-12-11 09:00
+149,Indian I-League,Real Kashmir,Shillong Lajong,2018-12-11 03:30
+150,South African Premiership,Cape Town City FC,Chippa United,2018-12-11 12:30
+151,South African Premiership,Free State Stars,Orlando Pirates,2018-12-11 12:30
+152,South African Premiership,Mamelodi Sundowns,Baroka FC,2018-12-11 12:30
+153,South African Premiership,Polokwane City FC,Highlands Park FC,2018-12-11 12:30
+154,UEFA Champions League,Real Madrid,CSKA Moscow,2018-12-12 12:55
+155,UEFA Champions League,Viktoria Plzen,AS Roma,2018-12-12 12:55
+156,UEFA Champions League,Ajax Amsterdam,Bayern Munich,2018-12-12 15:00
+157,UEFA Champions League,Benfica,AEK Athens,2018-12-12 15:00
+158,UEFA Champions League,Manchester City,TSG Hoffenheim,2018-12-12 15:00
+159,UEFA Champions League,Shakhtar Donetsk,Lyon,2018-12-12 15:00
+160,UEFA Champions League,Valencia,Manchester United,2018-12-12 15:00
+161,UEFA Champions League,Young Boys,Juventus,2018-12-12 15:00
+162,CONMEBOL Copa Sudamericana,Atlético-PR,Atlético Junior,2018-12-12 18:45
+163,FIFA Club World Cup,Al-Ain,Team Wellington,2018-12-12 10:30
+164,Argentine Nacional B,Defensores de Belgrano,Temperley,2018-12-12 18:05
+165,Argentine Primera B,Almirante Brown,UAI Urquiza,2018-12-12 15:00
+166,Argentine Primera D,Deportivo Paraguayo,Juventud Unida San Miguel,2018-12-12 15:00
+167,Peruvian Primera Profesional,Alianza Lima,Sporting Cristal,2018-12-12 20:00
+168,Bolivian Liga Profesional,Aurora,Destroyers,2018-12-12 15:00
+169,Bolivian Liga Profesional,Blooming,San José,2018-12-12 15:00
+170,Bolivian Liga Profesional,Bolívar,Real Potosí,2018-12-12 15:00
+171,Bolivian Liga Profesional,Nacional Potosí,The Strongest,2018-12-12 15:00
+172,Bolivian Liga Profesional,Royal Pari,Oriente Petrolero,2018-12-12 15:00
+173,Bolivian Liga Profesional,Sport Boys Warnes,Wilstermann,2018-12-12 15:00
+174,Bolivian Liga Profesional,Universitario de Sucre,Guabirá,2018-12-12 15:00
+175,Indian Super League,Jamshedpur FC,Delhi Dynamos FC,2018-12-12 09:00
+176,South African Premiership,Amazulu,Bloem Celtic,2018-12-12 12:30
+177,South African Premiership,Bidvest Wits,Golden Arrows,2018-12-12 12:30
+178,South African Premiership,Kaizer Chiefs,SuperSport United,2018-12-12 12:30
+179,South African Premiership,Maritzburg Utd,Black Leopards,2018-12-12 12:30
+180,UEFA Europa League,Akhisar Belediyespor,Standard Liege,2018-12-13 12:55
+181,UEFA Europa League,Besiktas,Malmo FF,2018-12-13 12:55
+182,UEFA Europa League,Dynamo Kiev,Jablonec,2018-12-13 12:55
+183,UEFA Europa League,Lazio,Eintracht Frankfurt,2018-12-13 12:55
+184,UEFA Europa League,Marseille,Apollon Limassol,2018-12-13 12:55
+185,UEFA Europa League,PAOK Salonika,BATE Borisov,2018-12-13 12:55
+186,UEFA Europa League,Racing Genk,Sarpsborg FK,2018-12-13 12:55
+187,UEFA Europa League,Rapid Vienna,Rangers,2018-12-13 12:55
+188,UEFA Europa League,Sevilla FC,Krasnodar,2018-12-13 12:55
+189,UEFA Europa League,Stade Rennes,FC Astana,2018-12-13 12:55
+190,UEFA Europa League,Vidi,Chelsea,2018-12-13 12:55
+191,UEFA Europa League,Villarreal,Spartak Moscow,2018-12-13 12:55
+192,UEFA Europa League,AEK Larnaca,Bayer Leverkusen,2018-12-13 15:00
+193,UEFA Europa League,Arsenal,FK Qarabag,2018-12-13 15:00
+194,UEFA Europa League,Celtic,FC Salzburg,2018-12-13 15:00
+195,UEFA Europa League,Dinamo Zagreb,Anderlecht,2018-12-13 15:00
+196,UEFA Europa League,F91 Dudelange,Real Betis,2018-12-13 15:00
+197,UEFA Europa League,FC Copenhagen,Bordeaux,2018-12-13 15:00
+198,UEFA Europa League,FC Spartak Trnava,Fenerbahce,2018-12-13 15:00
+199,UEFA Europa League,Ludogorets Razgrad,FC Zürich,2018-12-13 15:00
+200,UEFA Europa League,Olympiakos,AC Milan,2018-12-13 15:00
+201,UEFA Europa League,RB Leipzig,Rosenborg,2018-12-13 15:00
+202,UEFA Europa League,Slavia Prague,Zenit St Petersburg,2018-12-13 15:00
+203,UEFA Europa League,Sporting CP,Vorskla,2018-12-13 15:00
+204,Argentine Superliga,Huracán,Argentinos Juniors,2018-12-13 19:00
+205,Argentine Primera B,Comunicaciones (Mercedes),Tristán Suárez,2018-12-13 15:00
+206,Indian Super League,Bengaluru FC,ATK,2018-12-13 09:00
+207,Spanish Primera División,Celta Vigo,Leganes,2018-12-14 15:00
+208,German Bundesliga,Nurnberg,VfL Wolfsburg,2018-12-14 14:30
+209,French Ligue 1,Nice,Saint-Etienne,2018-12-14 14:45
+210,English League Championship,Sheffield United,West Bromwich Albion,2018-12-14 14:45
+211,Dutch Eredivisie,Willem II Tilburg,ADO Den Haag,2018-12-14 14:00
+212,Portuguese Liga,Portimonense,Vitoria Setubal,2018-12-14 14:00
+213,Portuguese Liga,Braga,Feirense,2018-12-14 16:15
+214,Scottish Premiership,Livingston,Heart of Midlothian,2018-12-14 14:45
+215,Turkish Super Lig,Goztepe,Bursaspor,2018-12-14 12:30
+216,Belgian First Division A,Royal Charleroi SC,KAA Gent,2018-12-14 14:30
+217,Danish SAS-Ligaen,Odense Boldklub,AaB,2018-12-14 13:00
+218,Australian A-League,Brisbane Roar,Melbourne Victory,2018-12-14 03:50
+219,Romanian First Division,Concordia Chiajna,CSMS Iasi,2018-12-14 13:00
+220,Spanish Segunda División,Málaga,Cádiz,2018-12-14 15:00
+221,Italian Serie B,Foggia,Cremonese,2018-12-14 15:00
+222,German 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,2018-12-14 12:30
+223,German 2. Bundesliga,MSV Duisburg,Hamburg SV,2018-12-14 12:30
+224,French Ligue 2,AS Nancy Lorraine,Troyes,2018-12-14 14:00
+225,French Ligue 2,Brest,Beziers AS,2018-12-14 14:00
+226,French Ligue 2,Chateauroux,AJ Auxerre,2018-12-14 14:00
+227,French Ligue 2,Clermont Foot,Lens,2018-12-14 14:00
+228,French Ligue 2,GFC Ajaccio,Le Havre AC,2018-12-14 14:00
+229,French Ligue 2,Grenoble,Paris FC,2018-12-14 14:00
+230,French Ligue 2,Lorient,Niort,2018-12-14 14:00
+231,French Ligue 2,Orléans,AC Ajaccio,2018-12-14 14:00
+232,French Ligue 2,Red Star FC 93,Sochaux,2018-12-14 14:00
+233,French Ligue 2,Valenciennes,Metz,2018-12-14 14:00
+234,Northern Irish Premiership,Glenavon,Coleraine,2018-12-14 14:45
+235,Welsh Premier League,Bala Town,T.N.S.,2018-12-14 14:45
+236,Welsh Premier League,Caernarfon,Aberystwyth,2018-12-14 14:45
+237,Welsh Premier League,Cardiff MU,Llanelli,2018-12-14 14:45
+238,Welsh Premier League,Carmarthen,Barry Town,2018-12-14 14:45
+239,Welsh Premier League,Cefn Druids,Connah's Quay,2018-12-14 14:45
+240,Dutch Eerste Divisie,Almere City,Jong Ajax,2018-12-14 14:00
+241,Dutch Eerste Divisie,FC Eindhoven,RKC Waalwijk,2018-12-14 14:00
+242,Dutch Eerste Divisie,FC Oss,Helmond Sport,2018-12-14 14:00
+243,Dutch Eerste Divisie,Go Ahead Eagles,FC Den Bosch,2018-12-14 14:00
+244,Dutch Eerste Divisie,Jong FC Utrecht,Dordrecht '90,2018-12-14 14:00
+245,Dutch Eerste Divisie,NEC Nijmegen,MVV Maastricht,2018-12-14 14:00
+246,Dutch Eerste Divisie,Roda JC Kerkrade,FC Volendam,2018-12-14 14:00
+247,Dutch Eerste Divisie,SC Cambuur,FC Twente,2018-12-14 14:00
+248,Dutch Eerste Divisie,SC Stormvogels Telstar,Jong PSV,2018-12-14 14:00
+249,Dutch Eerste Divisie,Sparta Rotterdam,AZ Reserves,2018-12-14 14:00
+250,Maltese Premier League,Gzira United,St Andrews,2018-12-14 13:00
+251,Indian Super League,FC Goa,NorthEast United FC,2018-12-14 09:00
+252,Indian I-League,Indian Arrows,Aizawl FC,2018-12-14 06:30
+253,South African Premiership,Chippa United,Polokwane City FC,2018-12-14 13:00
+254,English Premier League,Manchester City,Everton,2018-12-15 07:30
+255,English Premier League,Crystal Palace,Leicester City,2018-12-15 10:00
+256,English Premier League,Huddersfield Town,Newcastle United,2018-12-15 10:00
+257,English Premier League,Tottenham Hotspur,Burnley,2018-12-15 10:00
+258,English Premier League,Watford,Cardiff City,2018-12-15 10:00
+259,English Premier League,Wolverhampton Wanderers,AFC Bournemouth,2018-12-15 10:00
+260,English Premier League,Fulham,West Ham United,2018-12-15 12:30
+261,Spanish Primera División,Getafe,Real Sociedad,2018-12-15 07:00
+262,Spanish Primera División,Real Valladolid,Atletico Madrid,2018-12-15 10:15
+263,Spanish Primera División,Real Madrid,Rayo Vallecano,2018-12-15 12:30
+264,Spanish Primera División,Eibar,Valencia,2018-12-15 14:45
+265,Italian Serie A,Internazionale,Udinese,2018-12-15 12:00
+266,Italian Serie A,Torino,Juventus,2018-12-15 14:30
+267,German Bundesliga,FC Augsburg,Schalke 04,2018-12-15 09:30
+268,German Bundesliga,Fortuna Düsseldorf,SC Freiburg,2018-12-15 09:30
+269,German Bundesliga,Hannover 96,Bayern Munich,2018-12-15 09:30
+270,German Bundesliga,TSG Hoffenheim,Borussia Monchengladbach,2018-12-15 09:30
+271,German Bundesliga,VfB Stuttgart,Hertha Berlin,2018-12-15 09:30
+272,German Bundesliga,Borussia Dortmund,Werder Bremen,2018-12-15 12:30
+273,French Ligue 1,Dijon FCO,Paris Saint-Germain,2018-12-15 11:00
+274,French Ligue 1,Caen,Toulouse,2018-12-15 14:00
+275,French Ligue 1,Nantes,Montpellier,2018-12-15 14:00
+276,French Ligue 1,SC Amiens,Angers,2018-12-15 14:00
+277,French Ligue 1,Stade de Reims,Strasbourg,2018-12-15 14:00
+278,English League Championship,Aston Villa,Stoke City,2018-12-15 10:00
+279,English League Championship,Blackburn Rovers,Birmingham City,2018-12-15 10:00
+280,English League Championship,Bolton Wanderers,Leeds United,2018-12-15 10:00
+281,English League Championship,Hull City,Brentford,2018-12-15 10:00
+282,English League Championship,Ipswich Town,Wigan Athletic,2018-12-15 10:00
+283,English League Championship,Preston North End,Millwall,2018-12-15 10:00
+284,English League Championship,Queens Park Rangers,Middlesbrough,2018-12-15 10:00
+285,English League Championship,Rotherham United,Reading,2018-12-15 10:00
+286,English League Championship,Swansea City,Sheffield Wednesday,2018-12-15 10:00
+287,English League Championship,Bristol City,Norwich City,2018-12-15 12:30
+288,FIFA Club World Cup,Kashima Antlers,Guadalajara,2018-12-15 08:00
+289,FIFA Club World Cup,Esperance Sportive de Tunis,TBD,2018-12-15 11:30
+290,Dutch Eredivisie,PEC Zwolle,NAC Breda,2018-12-15 12:30
+291,Dutch Eredivisie,AZ Alkmaar,Excelsior,2018-12-15 13:45
+292,Dutch Eredivisie,SC Heracles Almelo,PSV Eindhoven,2018-12-15 13:45
+293,Dutch Eredivisie,Vitesse Arnhem,VVV Venlo,2018-12-15 14:45
+294,Portuguese Liga,Boavista,Tondela,2018-12-15 10:30
+295,Portuguese Liga,GD Chaves,Moreirense,2018-12-15 10:30
+296,Portuguese Liga,Desportivo Aves,Guimaraes,2018-12-15 13:00
+297,Portuguese Liga,Santa Clara,FC Porto,2018-12-15 15:30
+298,Scottish Premiership,Kilmarnock,Dundee,2018-12-15 10:00
+299,Scottish Premiership,St Johnstone,Motherwell,2018-12-15 10:00
+300,Scottish Premiership,St Mirren,Aberdeen,2018-12-15 10:00
+301,Turkish Super Lig,Caykur Rizespor,Alanyaspor K,2018-12-15 05:30
+302,Turkish Super Lig,Sivasspor,Ankaragucu,2018-12-15 05:30
+303,Turkish Super Lig,Konyaspor,Kasimpasa,2018-12-15 08:00
+304,Turkish Super Lig,Istanbul Basaksehir,Galatasaray,2018-12-15 11:00
+305,Belgian First Division A,KV Kortrijk,Club Brugge,2018-12-15 12:00
+306,Belgian First Division A,Eupen,Mouscron,2018-12-15 14:00
+307,Belgian First Division A,KSC Lokeren,Sint-Truidense,2018-12-15 14:00
+308,Belgian First Division A,Antwerp,Waasland-Beveren,2018-12-15 14:30
+309,Greek Super League,Pas Giannina,Panionios,2018-12-15 10:15
+310,Greek Super League,Aris,Panetolikos,2018-12-15 12:00
+311,Greek Super League,Asteras Tripoli,OFI Crete,2018-12-15 12:30
+312,Swiss Super League,FC Sion,FC Basel,2018-12-15 13:00
+313,Swiss Super League,FC Thun,Grasshoppers,2018-12-15 13:00
+314,Danish SAS-Ligaen,Randers FC,Vejle BK,2018-12-15 10:00
+315,Austrian Bundesliga,FC Wacker Innsbruck,RZ Pellets WAC,2018-12-15 11:00
+316,Austrian Bundesliga,LASK Linz,SV Mattersburg,2018-12-15 11:00
+317,Austrian Bundesliga,SK Sturm Graz,FC Admira Wacker Modling,2018-12-15 11:00
+318,Australian A-League,Wellington Phoenix FC,Central Coast Mariners,2018-12-15 01:35
+319,Australian A-League,Western Sydney Wanderers,Sydney FC,2018-12-15 03:50
+320,Israeli Premier League,Bnei Yehuda,Moadon Sport Ashdod,2018-12-15 10:00
+321,Israeli Premier League,Hapoel Be'er,Hapoel Kiryat Shmona,2018-12-15 10:00
+322,Israeli Premier League,Hapoel Ra'anana,Bnei Sakhnin,2018-12-15 10:00
+323,Israeli Premier League,Hapoel Tel Aviv,Hapoel Hadera,2018-12-15 10:00
+324,Israeli Premier League,Maccabi Netanya,Hapoel Haifa,2018-12-15 10:00
+325,Romanian First Division,Voluntari,FK Astra Giurgiu,2018-12-15 07:00
+326,Romanian First Division,Gaz Metan,Hermannstadt,2018-12-15 10:00
+327,Romanian First Division,Dinamo Bucuresti,Universitatea Craiova,2018-12-15 13:00
+328,Friendly,Flers,AG Caennaise,2018-12-15 12:00
+329,English League One,Doncaster Rovers,Scunthorpe United,2018-12-15 07:15
+330,English League One,Barnsley,Portsmouth,2018-12-15 10:00
+331,English League One,Bradford City,Walsall,2018-12-15 10:00
+332,English League One,Charlton Athletic,AFC Wimbledon,2018-12-15 10:00
+333,English League One,Coventry City,Luton Town,2018-12-15 10:00
+334,English League One,Fleetwood Town,Burton Albion,2018-12-15 10:00
+335,English League One,Gillingham,Wycombe Wanderers,2018-12-15 10:00
+336,English League One,Oxford United,Blackpool,2018-12-15 10:00
+337,English League One,Rochdale,Plymouth Argyle,2018-12-15 10:00
+338,English League One,Shrewsbury Town,Peterborough United,2018-12-15 10:00
+339,English League One,Southend United,Accrington Stanley,2018-12-15 10:00
+340,English League One,Sunderland,Bristol Rovers,2018-12-15 10:00
+341,English League Two,Cambridge United,Yeovil Town,2018-12-15 10:00
+342,English League Two,Carlisle United,Colchester United,2018-12-15 10:00
+343,English League Two,Exeter City,Crewe Alexandra,2018-12-15 10:00
+344,English League Two,Forest Green Rovers,Mansfield Town,2018-12-15 10:00
+345,English League Two,Grimsby Town,Swindon Town,2018-12-15 10:00
+346,English League Two,Lincoln City,Morecambe,2018-12-15 10:00
+347,English League Two,Macclesfield Town,Crawley Town,2018-12-15 10:00
+348,English League Two,Newport County,Milton Keynes Dons,2018-12-15 10:00
+349,English League Two,Northampton Town,Stevenage,2018-12-15 10:00
+350,English League Two,Notts County,Tranmere Rovers,2018-12-15 10:00
+351,English League Two,Oldham Athletic,Bury,2018-12-15 10:00
+352,English League Two,Port Vale,Cheltenham Town,2018-12-15 10:00
+353,Scottish Championship,Ayr United,Ross County,2018-12-15 10:00
+354,Scottish Championship,Falkirk,Greenock Morton,2018-12-15 10:00
+355,Scottish Championship,Inverness Caledonian Thistle,Dundee United,2018-12-15 10:00
+356,Scottish Championship,Partick Thistle,Alloa Athletic,2018-12-15 10:00
+357,Scottish Championship,Queen of the South,Dunfermline Athletic,2018-12-15 10:00
+358,Scottish League One,Airdrieonians,Arbroath,2018-12-15 10:00
+359,Scottish League One,Forfar Athletic,Montrose,2018-12-15 10:00
+360,Scottish League One,Raith Rovers,Dumbarton,2018-12-15 10:00
+361,Scottish League One,Stenhousemuir,East Fife,2018-12-15 10:00
+362,Scottish League One,Stranraer,Brechin City,2018-12-15 10:00
+363,Scottish League Two,Berwick Rangers,Queen's Park,2018-12-15 10:00
+364,Scottish League Two,Clyde,Annan Athletic,2018-12-15 10:00
+365,Scottish League Two,Edinburgh City,Elgin City,2018-12-15 10:00
+366,Scottish League Two,Peterhead,Cowdenbeath,2018-12-15 10:00
+367,Scottish League Two,Stirling Albion,Albion Rovers,2018-12-15 10:00
+368,Spanish Segunda División,Granada,Real Oviedo,2018-12-15 10:00
+369,Spanish Segunda División,Numancia,Albacete,2018-12-15 12:00
+370,Spanish Segunda División,Reus Deportiu,Cordoba,2018-12-15 12:00
+371,Spanish Segunda División,Sporting Gijón,Mallorca,2018-12-15 14:00
+372,Italian Serie B,Ascoli,Cittadella,2018-12-15 09:00
+373,Italian Serie B,Palermo,Livorno,2018-12-15 09:00
+374,Italian Serie B,Perugia,Spezia,2018-12-15 09:00
+375,Italian Serie B,Cosenza,Benevento,2018-12-15 12:00
+376,German 2. Bundesliga,FC Union Berlin,VfL Bochum,2018-12-15 07:00
+377,German 2. Bundesliga,SC Paderborn 07,Dynamo Dresden,2018-12-15 07:00
+378,German 2. Bundesliga,St Pauli,SpVgg Greuther Furth,2018-12-15 07:00
+379,Northern Irish Premiership,Newry City AFC,Linfield,2018-12-15 08:00
+380,Northern Irish Premiership,Ards,Cliftonville,2018-12-15 10:00
+381,Northern Irish Premiership,Ballymena,Institute,2018-12-15 10:00
+382,Northern Irish Premiership,Crusaders,Dungannon Swifts,2018-12-15 10:00
+383,Northern Irish Premiership,Glentoran,Warrenpoint Town,2018-12-15 10:00
+384,Welsh Premier League,Newtown,Llandudno Town,2018-12-15 14:30
+385,Maltese Premier League,Mosta FC,Qormi FC,2018-12-15 08:00
+386,Maltese Premier League,Pieta Hotspurs,Sliema Wanderers,2018-12-15 10:15
+387,AFF Cup,Vietnam,Malaysia,2018-12-15 07:30
+388,Indian Super League,Chennaiyin FC,Delhi Dynamos FC,2018-12-15 09:00
+389,Indian I-League,NEROCA FC,Churchill Brothers,2018-12-15 03:30
+390,Indian I-League,Gokulam Kerala FC,Real Kashmir,2018-12-15 06:30
+391,South African Premiership,Black Leopards,Amazulu,2018-12-15 08:30
+392,South African Premiership,SuperSport United,Maritzburg Utd,2018-12-15 11:00
+393,South African First Division,Mbombela United,Maccabi FC,2018-12-15 08:30
+394,South African First Division,Pretoria Univ,Richards Bay,2018-12-15 08:30
+395,South African First Division,Stellenbosch FC,Cape Umoya United,2018-12-15 08:30
+396,South African First Division,TS Sporting,TS Galaxy,2018-12-15 08:30
+397,South African First Division,Uthongathi,Jomo Cosmos,2018-12-15 08:30
+398,South African First Division,Witbank Spurs,Royal Eagles,2018-12-15 08:30
+399,English Premier League,Brighton & Hove Albion,Chelsea,2018-12-16 08:30
+400,English Premier League,Southampton,Arsenal,2018-12-16 08:30
+401,English Premier League,Liverpool,Manchester United,2018-12-16 11:00
+402,Spanish Primera División,Sevilla FC,Girona,2018-12-16 06:00
+403,Spanish Primera División,Espanyol,Real Betis,2018-12-16 10:15
+404,Spanish Primera División,Huesca,Villarreal,2018-12-16 12:30
+405,Spanish Primera División,Levante,Barcelona,2018-12-16 14:45
+406,Italian Serie A,SPAL,Chievo Verona,2018-12-16 06:30
+407,Italian Serie A,Fiorentina,Empoli,2018-12-16 09:00
+408,Italian Serie A,Frosinone,Sassuolo,2018-12-16 09:00
+409,Italian Serie A,Sampdoria,Parma,2018-12-16 09:00
+410,Italian Serie A,Cagliari,Napoli,2018-12-16 12:00
+411,Italian Serie A,AS Roma,Genoa,2018-12-16 14:30
+412,German Bundesliga,RB Leipzig,Mainz,2018-12-16 09:30
+413,German Bundesliga,Eintracht Frankfurt,Bayer Leverkusen,2018-12-16 12:00
+414,French Ligue 1,Lyon,AS Monaco,2018-12-16 07:00
+415,French Ligue 1,Nimes,Lille,2018-12-16 09:00
+416,French Ligue 1,Guingamp,Stade Rennes,2018-12-16 11:00
+417,French Ligue 1,Marseille,Bordeaux,2018-12-16 15:00
+418,Dutch Eredivisie,Heerenveen,FC Utrecht,2018-12-16 06:15
+419,Dutch Eredivisie,Ajax Amsterdam,De Graafschap,2018-12-16 08:30
+420,Dutch Eredivisie,FC Groningen,FC Emmen VV,2018-12-16 08:30
+421,Dutch Eredivisie,Feyenoord Rotterdam,Fortuna Sittard,2018-12-16 10:45
+422,Portuguese Liga,Rio Ave,Belenenses,2018-12-16 10:00
+423,Portuguese Liga,Maritimo,Benfica,2018-12-16 12:30
+424,Portuguese Liga,Sporting CP,CD Nacional de Madeira,2018-12-16 15:00
+425,Scottish Premiership,Hibernian,Celtic,2018-12-16 07:30
+426,Scottish Premiership,Rangers,Hamilton Academical,2018-12-16 10:00
+427,Turkish Super Lig,Yeni Malatyaspor,Antalyaspor,2018-12-16 05:30
+428,Turkish Super Lig,Kayserispor,Akhisar Belediyespor,2018-12-16 08:00
+429,Turkish Super Lig,Besiktas,Trabzonspor,2018-12-16 11:00
+430,Belgian First Division A,Cercle Brugge KSV,Anderlecht,2018-12-16 08:30
+431,Belgian First Division A,Racing Genk,KV Oostende,2018-12-16 12:00
+432,Belgian First Division A,Standard Liege,Zulte-Waregem,2018-12-16 14:00
+433,Greek Super League,Apollon Smyrni,FC Xanthi,2018-12-16 09:00
+434,Greek Super League,Larissa FC,AEK Athens,2018-12-16 10:15
+435,Greek Super League,Panathinaikos,Atromitos,2018-12-16 12:00
+436,Greek Super League,Olympiakos,Lamia,2018-12-16 12:30
+437,Swiss Super League,FC Zürich,FC Lugano,2018-12-16 10:00
+438,Swiss Super League,Lucerne,St Gallen,2018-12-16 10:00
+439,Swiss Super League,Neuchatel Xamax,Young Boys,2018-12-16 10:00
+440,Danish SAS-Ligaen,Esbjerg FB,FC Nordsjaelland,2018-12-16 06:00
+441,Danish SAS-Ligaen,AC Horsens,FC Midtjylland,2018-12-16 08:00
+442,Danish SAS-Ligaen,Sonderjyske,FC Copenhagen,2018-12-16 10:00
+443,Danish SAS-Ligaen,Brøndby,Vendsyssel,2018-12-16 12:00
+444,Austrian Bundesliga,FC Salzburg,St. Pölten,2018-12-16 08:30
+445,Austrian Bundesliga,SC Rheindorf Altach,TSV Hartberg,2018-12-16 08:30
+446,Austrian Bundesliga,Austria Vienna,Rapid Vienna,2018-12-16 11:00
+447,Australian A-League,Newcastle Jets,Perth Glory,2018-12-16 01:00
+448,Australian A-League,Adelaide United,Melbourne City FC,2018-12-16 03:00
+449,Israeli Premier League,Beitar Jerusalem,Maccabi Petach-Tikva,2018-12-16 13:30
+450,Romanian First Division,Dunarea Calarasi,Sepsi Sfantu Gheorghe,2018-12-16 07:00
+451,Romanian First Division,FC Botosani,FCSB,2018-12-16 13:00
+452,Spanish Segunda División,Rayo Majadahonda,Elche,2018-12-16 06:00
+453,Spanish Segunda División,Osasuna,AD Alcorcon,2018-12-16 10:00
+454,Spanish Segunda División,Extremadura UD,Gimnastic de Tarragona,2018-12-16 12:00
+455,Spanish Segunda División,Las Palmas,Tenerife,2018-12-16 12:00
+456,Spanish Segunda División,Almeria,Lugo,2018-12-16 14:00
+457,Spanish Segunda División,Deportivo La Coruña,Real Zaragoza,2018-12-16 14:30
+458,Italian Serie B,Carpi,Salernitana,2018-12-16 09:00
+459,Italian Serie B,Crotone,Venezia FC,2018-12-16 09:00
+460,Italian Serie B,Brescia,Lecce,2018-12-16 15:00
+461,German 2. Bundesliga,FC Erzgebirge Aue,SV Darmstadt 98,2018-12-16 07:30
+462,German 2. Bundesliga,FC Ingolstadt 04,1. FC Heidenheim,2018-12-16 07:30
+463,German 2. Bundesliga,SV Sandhausen,SSV Jahn Regensburg,2018-12-16 07:30
+464,Colombian Primera A,Independiente Medellín,Atlético Junior,2018-12-16 16:30
+465,Peruvian Primera Profesional,Sporting Cristal,Alianza Lima,2018-12-16 16:00
+466,Bolivian Liga Profesional,Destroyers,Universitario de Sucre,2018-12-16 15:00
+467,Bolivian Liga Profesional,Guabirá,Sport Boys Warnes,2018-12-16 15:00
+468,Bolivian Liga Profesional,Oriente Petrolero,Bolívar,2018-12-16 15:00
+469,Bolivian Liga Profesional,Real Potosí,Aurora,2018-12-16 15:00
+470,Bolivian Liga Profesional,San José,Royal Pari,2018-12-16 15:00
+471,Bolivian Liga Profesional,The Strongest,Blooming,2018-12-16 15:00
+472,Bolivian Liga Profesional,Wilstermann,Nacional Potosí,2018-12-16 15:00
+473,Maltese Premier League,Senglea Athletic FC,Birkirkara,2018-12-16 08:00
+474,Maltese Premier League,Floriana FC,Tarxien Rainbows,2018-12-16 10:00
+475,Indian Super League,Mumbai City FC,Kerala Blasters FC,2018-12-16 09:00
+476,Honduran Primera Division,CD Motagua,Olimpia,2018-12-16 17:00
+477,Indian I-League,Minerva Punjab,Chennai City,2018-12-16 03:30
+478,Indian I-League,East Bengal,Mohun Bagan,2018-12-16 06:30
+479,South African Premiership,Baroka FC,Bidvest Wits,2018-12-16 08:30
+480,South African First Division,Ubuntu Cape Town,Real Kings,2018-12-16 08:30
+481,Spanish Primera División,Alavés,Athletic Bilbao,2018-12-17 15:00
+482,Italian Serie A,Atalanta,Lazio,2018-12-17 14:30
+483,English League Championship,Derby County,Nottingham Forest,2018-12-17 14:45
+484,English FA Cup,Southport,Tranmere Rovers,2018-12-17 14:45
+485,Turkish Super Lig,Fenerbahce,Erzurum BB,2018-12-17 12:00
+486,Greek Super League,Levadiakos,PAOK Salonika,2018-12-17 12:30
+487,Danish SAS-Ligaen,AGF Aarhus,Hobro IK,2018-12-17 13:00
+488,Israeli Premier League,Maccabi Haifa,Maccabi Tel-Aviv,2018-12-17 14:00
+489,Romanian First Division,Viitorul Constanta,CFR Cluj-Napoca,2018-12-17 13:00
+490,Italian Serie B,Hellas Verona,US Pescara,2018-12-17 15:00
+491,German 2. Bundesliga,FC Cologne,1. FC Magdeburg,2018-12-17 14:30
+492,Maltese Premier League,Balzan FC,Hibernians,2018-12-17 12:00
+493,Maltese Premier League,Valletta,Hamrun Spartans,2018-12-17 14:00
+494,South African Premiership,Bloem Celtic,Highlands Park FC,2018-12-17 08:30
+495,South African First Division,Tshakhuma Tsha Madzivhandila,Ajax Cape Town,2018-12-17 08:30
+496,Italian Serie A,Bologna,AC Milan,2018-12-18 14:30
+497,German Bundesliga,Borussia Monchengladbach,Nurnberg,2018-12-18 12:30
+498,German Bundesliga,Fortuna Düsseldorf,Borussia Dortmund,2018-12-18 14:30
+499,German Bundesliga,Hertha Berlin,FC Augsburg,2018-12-18 14:30
+500,German Bundesliga,VfL Wolfsburg,VfB Stuttgart,2018-12-18 14:30
+501,English FA Cup,Blackpool,Solihull Moors,2018-12-18 14:45
+502,English Carabao Cup,Leicester City,Manchester City,2018-12-18 14:45
+503,English Carabao Cup,Middlesbrough,Burton Albion,2018-12-18 14:45
+504,French Coupe de la Ligue,Orléans,Paris Saint-Germain,2018-12-18 15:00
+505,FIFA Club World Cup,Quarter-Final Loser 1,Quarter-Final Loser 2,2018-12-18 08:30
+506,Scottish Premiership,Aberdeen,Dundee,2018-12-18 14:45
+507,Dutch KNVB Beker,Willem II Tilburg,AFC,2018-12-18 12:30
+508,Dutch KNVB Beker,FC Twente,RKC Waalwijk,2018-12-18 13:45
+509,Dutch KNVB Beker,AZ Alkmaar,PEC Zwolle,2018-12-18 14:45
+510,English EFL Trophy,Oxford United,Tottenham U21,2018-12-18 14:45
+511,German Bundesliga,Schalke 04,Bayer Leverkusen,2018-12-19 12:30
+512,German Bundesliga,Bayern Munich,RB Leipzig,2018-12-19 14:30
+513,German Bundesliga,Mainz,Eintracht Frankfurt,2018-12-19 14:30
+514,German Bundesliga,SC Freiburg,Hannover 96,2018-12-19 14:30
+515,German Bundesliga,Werder Bremen,TSG Hoffenheim,2018-12-19 14:30
+516,English Carabao Cup,Arsenal,Tottenham Hotspur,2018-12-19 14:45
+517,English Carabao Cup,Chelsea,AFC Bournemouth,2018-12-19 14:45
+518,French Coupe de la Ligue,SC Amiens,Lyon,2018-12-19 12:45
+519,French Coupe de la Ligue,AS Monaco,Lorient,2018-12-19 15:05
+520,French Coupe de la Ligue,Dijon FCO,Bordeaux,2018-12-19 15:05
+521,French Coupe de la Ligue,Le Havre AC,Nimes,2018-12-19 15:05
+522,French Coupe de la Ligue,Marseille,Strasbourg,2018-12-19 15:05
+523,French Coupe de la Ligue,Nice,Guingamp,2018-12-19 15:05
+524,French Coupe de la Ligue,Stade Rennes,Nantes,2018-12-19 15:05
+525,FIFA Club World Cup,TBD,Real Madrid,2018-12-19 11:30
+526,Scottish Premiership,Celtic,Motherwell,2018-12-19 14:45
+527,Scottish Premiership,Hibernian,Rangers,2018-12-19 14:45
+528,Romanian First Division,Universitatea Craiova,Gaz Metan,2018-12-19 13:00
+529,Dutch KNVB Beker,ODIN '59,Heerenveen,2018-12-19 12:30
+530,Dutch KNVB Beker,Fortuna Sittard,SC Cambuur,2018-12-19 13:45
+531,Dutch KNVB Beker,Roda JC Kerkrade,Ajax Amsterdam,2018-12-19 14:45
+532,Indian I-League,Minerva Punjab,Mohun Bagan,2018-12-19 03:30
+533,Romanian First Division,FC Botosani,Dunarea Calarasi,2018-12-20 10:30
+534,Romanian First Division,FK Astra Giurgiu,Dinamo Bucuresti,2018-12-20 13:00
+535,Dutch KNVB Beker,Kozakken Boys,Vitesse Arnhem,2018-12-20 12:30
+536,Dutch KNVB Beker,Feyenoord Rotterdam,FC Utrecht,2018-12-20 14:45
+537,Indian I-League,Churchill Brothers,East Bengal,2018-12-20 06:30
+538,English Premier League,Wolverhampton Wanderers,Liverpool,2018-12-21 15:00
+539,Spanish Primera División,Girona,Getafe,2018-12-21 13:30
+540,Spanish Primera División,Real Sociedad,Alavés,2018-12-21 15:00
+541,German Bundesliga,Borussia Dortmund,Borussia Monchengladbach,2018-12-21 14:30
+542,Dutch Eredivisie,VVV Venlo,PEC Zwolle,2018-12-21 14:00
+543,Belgian First Division A,KAA Gent,Cercle Brugge KSV,2018-12-21 14:30
+544,Australian A-League,Perth Glory,Sydney FC,2018-12-21 05:00
+545,Romanian First Division,CSMS Iasi,Voluntari,2018-12-21 10:30
+546,Romanian First Division,Sepsi Sfantu Gheorghe,Concordia Chiajna,2018-12-21 13:00
+547,Spanish Segunda División,Tenerife,Granada,2018-12-21 13:00
+548,Spanish Segunda División,Mallorca,Gimnastic de Tarragona,2018-12-21 15:00
+549,Italian Serie B,Ascoli,Brescia,2018-12-21 15:00
+550,German 2. Bundesliga,FC Cologne,VfL Bochum,2018-12-21 12:30
+551,German 2. Bundesliga,SV Sandhausen,SpVgg Greuther Furth,2018-12-21 12:30
+552,French Ligue 2,AJ Auxerre,Grenoble,2018-12-21 14:30
+553,French Ligue 2,Beziers AS,Orléans,2018-12-21 14:30
+554,French Ligue 2,Chateauroux,GFC Ajaccio,2018-12-21 14:30
+555,French Ligue 2,Metz,AS Nancy Lorraine,2018-12-21 14:30
+556,French Ligue 2,Niort,Brest,2018-12-21 14:30
+557,French Ligue 2,Paris FC,Red Star FC 93,2018-12-21 14:30
+558,French Ligue 2,Troyes,Clermont Foot,2018-12-21 14:30
+559,Northern Irish Premiership,Newry City AFC,Glentoran,2018-12-21 14:45
+560,Welsh Premier League,Aberystwyth,Cefn Druids,2018-12-21 14:45
+561,Dutch Eerste Divisie,AZ Reserves,FC Eindhoven,2018-12-21 14:00
+562,Dutch Eerste Divisie,Dordrecht '90,FC Oss,2018-12-21 14:00
+563,Dutch Eerste Divisie,FC Twente,NEC Nijmegen,2018-12-21 14:00
+564,Dutch Eerste Divisie,FC Volendam,SC Stormvogels Telstar,2018-12-21 14:00
+565,Dutch Eerste Divisie,Helmond Sport,Jong FC Utrecht,2018-12-21 14:00
+566,Dutch Eerste Divisie,Jong Ajax,Sparta Rotterdam,2018-12-21 14:00
+567,Dutch Eerste Divisie,Jong PSV,Almere City,2018-12-21 14:00
+568,Dutch Eerste Divisie,RKC Waalwijk,Go Ahead Eagles,2018-12-21 14:00
+569,Indian I-League,Indian Arrows,Gokulam Kerala FC,2018-12-21 06:30
+570,South African Premiership,Bidvest Wits,Chippa United,2018-12-21 13:00
+571,English Premier League,Arsenal,Burnley,2018-12-22 07:30
+572,English Premier League,AFC Bournemouth,Brighton & Hove Albion,2018-12-22 10:00
+573,English Premier League,Chelsea,Leicester City,2018-12-22 10:00
+574,English Premier League,Huddersfield Town,Southampton,2018-12-22 10:00
+575,English Premier League,Manchester City,Crystal Palace,2018-12-22 10:00
+576,English Premier League,Newcastle United,Fulham,2018-12-22 10:00
+577,English Premier League,West Ham United,Watford,2018-12-22 10:00
+578,English Premier League,Cardiff City,Manchester United,2018-12-22 12:30
+579,Spanish Primera División,Real Betis,Eibar,2018-12-22 07:00
+580,Spanish Primera División,Atletico Madrid,Espanyol,2018-12-22 10:15
+581,Spanish Primera División,Barcelona,Celta Vigo,2018-12-22 12:30
+582,Spanish Primera División,Athletic Bilbao,Real Valladolid,2018-12-22 14:45
+583,Italian Serie A,Lazio,Cagliari,2018-12-22 06:30
+584,Italian Serie A,AC Milan,Fiorentina,2018-12-22 09:00
+585,Italian Serie A,Empoli,Sampdoria,2018-12-22 09:00
+586,Italian Serie A,Genoa,Atalanta,2018-12-22 09:00
+587,Italian Serie A,Napoli,SPAL,2018-12-22 09:00
+588,Italian Serie A,Parma,Bologna,2018-12-22 09:00
+589,Italian Serie A,Sassuolo,Torino,2018-12-22 09:00
+590,Italian Serie A,Udinese,Frosinone,2018-12-22 09:00
+591,Italian Serie A,Chievo Verona,Internazionale,2018-12-22 12:00
+592,Italian Serie A,Juventus,AS Roma,2018-12-22 14:30
+593,German Bundesliga,Bayer Leverkusen,Hertha Berlin,2018-12-22 09:30
+594,German Bundesliga,Hannover 96,Fortuna Düsseldorf,2018-12-22 09:30
+595,German Bundesliga,Nurnberg,SC Freiburg,2018-12-22 09:30
+596,German Bundesliga,RB Leipzig,Werder Bremen,2018-12-22 09:30
+597,German Bundesliga,VfB Stuttgart,Schalke 04,2018-12-22 09:30
+598,German Bundesliga,Eintracht Frankfurt,Bayern Munich,2018-12-22 12:30
+599,French Ligue 1,Angers,Marseille,2018-12-22 15:00
+600,French Ligue 1,AS Monaco,Guingamp,2018-12-22 15:00
+601,French Ligue 1,Bordeaux,SC Amiens,2018-12-22 15:00
+602,French Ligue 1,Lille,Toulouse,2018-12-22 15:00
+603,French Ligue 1,Montpellier,Lyon,2018-12-22 15:00
+604,French Ligue 1,Paris Saint-Germain,Nantes,2018-12-22 15:00
+605,French Ligue 1,Saint-Etienne,Dijon FCO,2018-12-22 15:00
+606,French Ligue 1,Stade de Reims,Caen,2018-12-22 15:00
+607,French Ligue 1,Stade Rennes,Nimes,2018-12-22 15:00
+608,French Ligue 1,Strasbourg,Nice,2018-12-22 15:00
+609,English League Championship,Blackburn Rovers,Norwich City,2018-12-22 10:00
+610,English League Championship,Brentford,Bolton Wanderers,2018-12-22 10:00
+611,English League Championship,Derby County,Bristol City,2018-12-22 10:00
+612,English League Championship,Ipswich Town,Sheffield United,2018-12-22 10:00
+613,English League Championship,Nottingham Forest,Queens Park Rangers,2018-12-22 10:00
+614,English League Championship,Reading,Middlesbrough,2018-12-22 10:00
+615,English League Championship,Rotherham United,West Bromwich Albion,2018-12-22 10:00
+616,English League Championship,Sheffield Wednesday,Preston North End,2018-12-22 10:00
+617,English League Championship,Stoke City,Millwall,2018-12-22 10:00
+618,English League Championship,Wigan Athletic,Birmingham City,2018-12-22 10:00
+619,English League Championship,Hull City,Swansea City,2018-12-22 12:30
+620,FIFA Club World Cup,semifinal 1 loser,semifinal 2 loser,2018-12-22 08:30
+621,FIFA Club World Cup,semifinal 1 winner,semifinal 2 winner,2018-12-22 11:30
+622,Dutch Eredivisie,Fortuna Sittard,FC Groningen,2018-12-22 12:30
+623,Dutch Eredivisie,NAC Breda,Heerenveen,2018-12-22 13:45
+624,Dutch Eredivisie,PSV Eindhoven,AZ Alkmaar,2018-12-22 13:45
+625,Dutch Eredivisie,Excelsior,SC Heracles Almelo,2018-12-22 14:45
+626,Portuguese Liga,Feirense,Portimonense,2018-12-22 10:30
+627,Portuguese Liga,Tondela,Maritimo,2018-12-22 10:30
+628,Portuguese Liga,Vitoria Setubal,Santa Clara,2018-12-22 10:30
+629,Portuguese Liga,Belenenses,Desportivo Aves,2018-12-22 13:00
+630,Portuguese Liga,Moreirense,Boavista,2018-12-22 15:30
+631,Scottish Premiership,Aberdeen,Heart of Midlothian,2018-12-22 10:00
+632,Scottish Premiership,Celtic,Dundee,2018-12-22 10:00
+633,Scottish Premiership,Hamilton Academical,Kilmarnock,2018-12-22 10:00
+634,Scottish Premiership,Hibernian,Livingston,2018-12-22 10:00
+635,Scottish Premiership,Motherwell,St Mirren,2018-12-22 10:00
+636,Turkish Super Lig,Ankaragucu,Goztepe,2018-12-22 05:30
+637,Turkish Super Lig,Alanyaspor K,Istanbul Basaksehir,2018-12-22 08:00
+638,Turkish Super Lig,Kasimpasa,Besiktas,2018-12-22 11:00
+639,Belgian First Division A,Mouscron,Anderlecht,2018-12-22 12:00
+640,Belgian First Division A,Sint-Truidense,KV Kortrijk,2018-12-22 14:00
+641,Belgian First Division A,Waasland-Beveren,KSC Lokeren,2018-12-22 14:00
+642,Belgian First Division A,Standard Liege,KV Oostende,2018-12-22 14:30
+643,Greek Super League,Panetolikos,Panathinaikos,2018-12-22 09:00
+644,Greek Super League,OFI Crete,Atromitos,2018-12-22 10:15
+645,Greek Super League,Panionios,Asteras Tripoli,2018-12-22 12:30
+646,Australian A-League,Wellington Phoenix FC,Brisbane Roar,2018-12-22 01:35
+647,Australian A-League,Melbourne City FC,Melbourne Victory,2018-12-22 03:50
+648,Romanian First Division,Hermannstadt,Viitorul Constanta,2018-12-22 06:00
+649,Romanian First Division,FCSB,CFR Cluj-Napoca,2018-12-22 13:00
+650,Brazilian Campeonato Carioca,Nova Iguaçu,Goytacaz,2018-12-22 13:00
+651,Brazilian Campeonato Carioca,Resende,Macaé,2018-12-22 13:00
+652,English League One,Blackpool,Barnsley,2018-12-22 10:00
+653,English League One,Bradford City,Scunthorpe United,2018-12-22 10:00
+654,English League One,Bristol Rovers,Fleetwood Town,2018-12-22 10:00
+655,English League One,Charlton Athletic,Gillingham,2018-12-22 10:00
+656,English League One,Doncaster Rovers,Oxford United,2018-12-22 10:00
+657,English League One,Luton Town,Burton Albion,2018-12-22 10:00
+658,English League One,Peterborough United,Walsall,2018-12-22 10:00
+659,English League One,Plymouth Argyle,Accrington Stanley,2018-12-22 10:00
+660,English League One,Portsmouth,Sunderland,2018-12-22 10:00
+661,English League One,Shrewsbury Town,Coventry City,2018-12-22 10:00
+662,English League One,Southend United,Rochdale,2018-12-22 10:00
+663,English League One,Wycombe Wanderers,AFC Wimbledon,2018-12-22 10:00
+664,English League Two,Bury,Tranmere Rovers,2018-12-22 10:00
+665,English League Two,Crawley Town,Carlisle United,2018-12-22 10:00
+666,English League Two,Forest Green Rovers,Crewe Alexandra,2018-12-22 10:00
+667,English League Two,Grimsby Town,Notts County,2018-12-22 10:00
+668,English League Two,Lincoln City,Newport County,2018-12-22 10:00
+669,English League Two,Macclesfield Town,Port Vale,2018-12-22 10:00
+670,English League Two,Milton Keynes Dons,Colchester United,2018-12-22 10:00
+671,English League Two,Morecambe,Cambridge United,2018-12-22 10:00
+672,English League Two,Oldham Athletic,Exeter City,2018-12-22 10:00
+673,English League Two,Stevenage,Mansfield Town,2018-12-22 10:00
+674,English League Two,Swindon Town,Cheltenham Town,2018-12-22 10:00
+675,English League Two,Yeovil Town,Northampton Town,2018-12-22 10:00
+676,English National League,Barnet,Dover,2018-12-22 07:35
+677,English National League,AFC Fylde,Ebbsfleet United,2018-12-22 10:00
+678,English National League,Aldershot Town,Wrexham,2018-12-22 10:00
+679,English National League,Braintree Town,Boreham Wood,2018-12-22 10:00
+680,English National League,Bromley,Maidenhead Utd,2018-12-22 10:00
+681,English National League,Eastleigh,Harrogate Town,2018-12-22 10:00
+682,English National League,Halifax,Sutton United,2018-12-22 10:00
+683,English National League,Hartlepool United,Havant & Waterlooville,2018-12-22 10:00
+684,English National League,Leyton Orient,Chesterfield,2018-12-22 10:00
+685,English National League,Maidstone United,Gateshead,2018-12-22 10:00
+686,English National League,Salford City,Dagenham & Redbridge,2018-12-22 10:00
+687,English National League,Solihull Moors,Barrow,2018-12-22 10:00
+688,Scottish Championship,Alloa Athletic,Queen of the South,2018-12-22 10:00
+689,Scottish Championship,Dundee United,Falkirk,2018-12-22 10:00
+690,Scottish Championship,Dunfermline Athletic,Ayr United,2018-12-22 10:00
+691,Scottish Championship,Greenock Morton,Inverness Caledonian Thistle,2018-12-22 10:00
+692,Scottish Championship,Ross County,Partick Thistle,2018-12-22 10:00
+693,Scottish League One,Arbroath,Raith Rovers,2018-12-22 10:00
+694,Scottish League One,Brechin City,Airdrieonians,2018-12-22 10:00
+695,Scottish League One,Dumbarton,Stranraer,2018-12-22 10:00
+696,Scottish League One,East Fife,Forfar Athletic,2018-12-22 10:00
+697,Scottish League One,Montrose,Stenhousemuir,2018-12-22 10:00
+698,Scottish League Two,Albion Rovers,Clyde,2018-12-22 10:00
+699,Scottish League Two,Annan Athletic,Berwick Rangers,2018-12-22 10:00
+700,Scottish League Two,Cowdenbeath,Edinburgh City,2018-12-22 10:00
+701,Scottish League Two,Peterhead,Stirling Albion,2018-12-22 10:00
+702,Scottish League Two,Queen's Park,Elgin City,2018-12-22 10:00
+703,Spanish Segunda División,Lugo,Sporting Gijón,2018-12-22 07:00
+704,Spanish Segunda División,Real Oviedo,Málaga,2018-12-22 10:00
+705,Spanish Segunda División,Real Zaragoza,Extremadura UD,2018-12-22 12:00
+706,Spanish Segunda División,Elche,Almeria,2018-12-22 14:00
+707,Spanish Segunda División,Cordoba,Las Palmas,2018-12-22 14:30
+708,Spanish Segunda División,Cádiz,Deportivo La Coruña,2018-12-22 14:45
+709,Italian Serie B,Cremonese,Carpi,2018-12-22 09:00
+710,Italian Serie B,Livorno,Hellas Verona,2018-12-22 09:00
+711,German 2. Bundesliga,Arminia Bielefeld,1. FC Heidenheim,2018-12-22 07:00
+712,German 2. Bundesliga,FC Ingolstadt 04,SSV Jahn Regensburg,2018-12-22 07:00
+713,German 2. Bundesliga,St Pauli,1. FC Magdeburg,2018-12-22 07:00
+714,French Ligue 2,Le Havre AC,Valenciennes,2018-12-22 09:00
+715,French Ligue 2,Lens,AC Ajaccio,2018-12-22 09:00
+716,French Ligue 2,Sochaux,Lorient,2018-12-22 09:00
+717,Northern Irish Premiership,Ballymena,Ards,2018-12-22 10:00
+718,Northern Irish Premiership,Coleraine,Dungannon Swifts,2018-12-22 10:00
+719,Northern Irish Premiership,Crusaders,Warrenpoint Town,2018-12-22 10:00
+720,Northern Irish Premiership,Institute,Cliftonville,2018-12-22 10:00
+721,Northern Irish Premiership,Linfield,Glenavon,2018-12-22 10:00
+722,Welsh Premier League,Connah's Quay,Cardiff MU,2018-12-22 09:30
+723,Welsh Premier League,Llandudno Town,T.N.S.,2018-12-22 09:30
+724,Welsh Premier League,Llanelli,Bala Town,2018-12-22 09:30
+725,Welsh Premier League,Newtown,Carmarthen,2018-12-22 09:30
+726,Welsh Premier League,Barry Town,Caernarfon,2018-12-22 14:35
+727,Dutch Eerste Divisie,FC Den Bosch,Roda JC Kerkrade,2018-12-22 13:45
+728,Indian I-League,Chennai City,Real Kashmir,2018-12-22 09:00
+729,South African Premiership,Amazulu,Golden Arrows,2018-12-22 08:30
+730,South African Premiership,Cape Town City FC,Bloem Celtic,2018-12-22 11:00
+731,South African Premiership,Maritzburg Utd,Baroka FC,2018-12-22 13:15
+732,South African First Division,Cape Umoya United,Pretoria Univ,2018-12-22 09:00
+733,South African First Division,Jomo Cosmos,Witbank Spurs,2018-12-22 09:00
+734,South African First Division,Maccabi FC,Stellenbosch FC,2018-12-22 09:00
+735,South African First Division,Royal Eagles,Ubuntu Cape Town,2018-12-22 09:00
+736,English Premier League,Everton,Tottenham Hotspur,2018-12-23 11:00
+737,Spanish Primera División,Valencia,Huesca,2018-12-23 06:00
+738,Spanish Primera División,Leganes,Sevilla FC,2018-12-23 10:15
+739,Spanish Primera División,Rayo Vallecano,Levante,2018-12-23 12:30
+740,German Bundesliga,FC Augsburg,VfL Wolfsburg,2018-12-23 09:30
+741,German Bundesliga,TSG Hoffenheim,Mainz,2018-12-23 12:00
+742,English League Championship,Aston Villa,Leeds United,2018-12-23 08:30
+743,Dutch Eredivisie,FC Utrecht,Ajax Amsterdam,2018-12-23 06:15
+744,Dutch Eredivisie,ADO Den Haag,Feyenoord Rotterdam,2018-12-23 08:30
+745,Dutch Eredivisie,De Graafschap,Vitesse Arnhem,2018-12-23 08:30
+746,Dutch Eredivisie,FC Emmen VV,Willem II Tilburg,2018-12-23 10:45
+747,Portuguese Liga,CD Nacional de Madeira,GD Chaves,2018-12-23 10:00
+748,Portuguese Liga,FC Porto,Rio Ave,2018-12-23 10:00
+749,Portuguese Liga,Benfica,Braga,2018-12-23 12:30
+750,Portuguese Liga,Guimaraes,Sporting CP,2018-12-23 15:00
+751,Scottish Premiership,St Johnstone,Rangers,2018-12-23 07:15
+752,Turkish Super Lig,Erzurum BB,Kayserispor,2018-12-23 05:30
+753,Turkish Super Lig,Bursaspor,Yeni Malatyaspor,2018-12-23 08:00
+754,Turkish Super Lig,Trabzonspor,Caykur Rizespor,2018-12-23 08:00
+755,Turkish Super Lig,Galatasaray,Sivasspor,2018-12-23 11:00
+756,Belgian First Division A,Club Brugge,Antwerp,2018-12-23 08:30
+757,Belgian First Division A,Eupen,Racing Genk,2018-12-23 12:00
+758,Belgian First Division A,Zulte-Waregem,Royal Charleroi SC,2018-12-23 14:00
+759,Greek Super League,AEK Athens,Levadiakos,2018-12-23 08:00
+760,Greek Super League,Lamia,Apollon Smyrni,2018-12-23 09:00
+761,Greek Super League,Olympiakos,Larissa FC,2018-12-23 10:15
+762,Greek Super League,FC Xanthi,Aris,2018-12-23 12:00
+763,Greek Super League,PAOK Salonika,Pas Giannina,2018-12-23 12:30
+764,Australian A-League,Central Coast Mariners,Newcastle Jets,2018-12-23 01:00
+765,Spanish Segunda División,Reus Deportiu,Osasuna,2018-12-23 06:00
+766,Spanish Segunda División,Albacete,Rayo Majadahonda,2018-12-23 10:00
+767,Spanish Segunda División,AD Alcorcon,Numancia,2018-12-23 12:00
+768,Italian Serie B,Salernitana,Foggia,2018-12-23 06:30
+769,Italian Serie B,Cittadella,Perugia,2018-12-23 09:00
+770,Italian Serie B,Lecce,Padova,2018-12-23 09:00
+771,Italian Serie B,Venezia FC,Cosenza,2018-12-23 09:00
+772,Italian Serie B,Spezia,Palermo,2018-12-23 11:30
+773,Italian Serie B,Benevento,Crotone,2018-12-23 15:00
+774,German 2. Bundesliga,FC Erzgebirge Aue,FC Union Berlin,2018-12-23 07:30
+775,German 2. Bundesliga,Holstein Kiel,Hamburg SV,2018-12-23 07:30
+776,German 2. Bundesliga,MSV Duisburg,Dynamo Dresden,2018-12-23 07:30
+777,German 2. Bundesliga,SC Paderborn 07,SV Darmstadt 98,2018-12-23 07:30
+778,Dutch Eerste Divisie,MVV Maastricht,SC Cambuur,2018-12-23 08:30
+779,Indian I-League,NEROCA FC,Minerva Punjab,2018-12-23 03:30
+780,Indian I-League,Mohun Bagan,Shillong Lajong,2018-12-23 06:30
+781,South African Premiership,Highlands Park FC,SuperSport United,2018-12-23 08:30
+782,South African First Division,Ajax Cape Town,Mbombela United,2018-12-23 09:00
+783,South African First Division,Real Kings,TS Sporting,2018-12-23 09:00
+784,South African First Division,Richards Bay,Tshakhuma Tsha Madzivhandila,2018-12-23 09:00
+785,South African First Division,TS Galaxy,Uthongathi,2018-12-23 09:00
+786,Turkish Super Lig,Akhisar Belediyespor,Konyaspor,2018-12-24 12:00
+787,Turkish Super Lig,Antalyaspor,Fenerbahce,2018-12-24 12:00
+788,Israeli Premier League,Bnei Sakhnin,Maccabi Netanya,2018-12-25 10:00
+789,Israeli Premier League,Hapoel Hadera,Beitar Jerusalem,2018-12-25 10:00
+790,Israeli Premier League,Hapoel Haifa,Hapoel Tel Aviv,2018-12-25 10:00
+791,Israeli Premier League,Hapoel Kiryat Shmona,Hapoel Ra'anana,2018-12-25 10:00
+792,Israeli Premier League,Maccabi Petach-Tikva,Bnei Yehuda,2018-12-25 10:00
+793,Israeli Premier League,Maccabi Tel-Aviv,Hapoel Be'er,2018-12-25 10:00
+794,Israeli Premier League,Moadon Sport Ashdod,Maccabi Haifa,2018-12-25 10:00
+795,English Premier League,Fulham,Wolverhampton Wanderers,2018-12-26 07:30
+796,English Premier League,Burnley,Everton,2018-12-26 10:00
+797,English Premier League,Crystal Palace,Cardiff City,2018-12-26 10:00
+798,English Premier League,Leicester City,Manchester City,2018-12-26 10:00
+799,English Premier League,Liverpool,Newcastle United,2018-12-26 10:00
+800,English Premier League,Manchester United,Huddersfield Town,2018-12-26 10:00
+801,English Premier League,Tottenham Hotspur,AFC Bournemouth,2018-12-26 10:00
+802,English Premier League,Brighton & Hove Albion,Arsenal,2018-12-26 12:15
+803,English Premier League,Watford,Chelsea,2018-12-26 14:30
+804,Italian Serie A,Frosinone,AC Milan,2018-12-26 06:30
+805,Italian Serie A,Atalanta,Juventus,2018-12-26 09:00
+806,Italian Serie A,Bologna,Lazio,2018-12-26 09:00
+807,Italian Serie A,Cagliari,Genoa,2018-12-26 09:00
+808,Italian Serie A,Fiorentina,Parma,2018-12-26 09:00
+809,Italian Serie A,Sampdoria,Chievo Verona,2018-12-26 09:00
+810,Italian Serie A,SPAL,Udinese,2018-12-26 09:00
+811,Italian Serie A,AS Roma,Sassuolo,2018-12-26 12:00
+812,Italian Serie A,Torino,Empoli,2018-12-26 12:00
+813,Italian Serie A,Internazionale,Napoli,2018-12-26 14:30
+814,English League Championship,Birmingham City,Stoke City,2018-12-26 10:00
+815,English League Championship,Bolton Wanderers,Rotherham United,2018-12-26 10:00
+816,English League Championship,Bristol City,Brentford,2018-12-26 10:00
+817,English League Championship,Leeds United,Blackburn Rovers,2018-12-26 10:00
+818,English League Championship,Middlesbrough,Sheffield Wednesday,2018-12-26 10:00
+819,English League Championship,Millwall,Reading,2018-12-26 10:00
+820,English League Championship,Norwich City,Nottingham Forest,2018-12-26 10:00
+821,English League Championship,Preston North End,Hull City,2018-12-26 10:00
+822,English League Championship,Queens Park Rangers,Ipswich Town,2018-12-26 10:00
+823,English League Championship,Sheffield United,Derby County,2018-12-26 10:00
+824,English League Championship,Swansea City,Aston Villa,2018-12-26 10:00
+825,English League Championship,West Bromwich Albion,Wigan Athletic,2018-12-26 10:00
+826,Scottish Premiership,Aberdeen,Celtic,2018-12-26 09:00
+827,Scottish Premiership,St Mirren,St Johnstone,2018-12-26 09:00
+828,Scottish Premiership,Dundee,Livingston,2018-12-26 10:00
+829,Scottish Premiership,Heart of Midlothian,Hamilton Academical,2018-12-26 10:00
+830,Scottish Premiership,Motherwell,Kilmarnock,2018-12-26 10:00
+831,Scottish Premiership,Rangers,Hibernian,2018-12-26 10:00
+832,Belgian First Division A,Antwerp,Mouscron,2018-12-26 08:30
+833,Belgian First Division A,Cercle Brugge KSV,Eupen,2018-12-26 08:30
+834,Belgian First Division A,KV Kortrijk,Zulte-Waregem,2018-12-26 08:30
+835,Belgian First Division A,KV Oostende,Sint-Truidense,2018-12-26 08:30
+836,Belgian First Division A,Royal Charleroi SC,Standard Liege,2018-12-26 12:00
+837,Belgian First Division A,Racing Genk,KAA Gent,2018-12-26 14:30
+838,Australian A-League,Adelaide United,Western Sydney Wanderers,2018-12-26 03:50
+839,English League One,Gillingham,Portsmouth,2018-12-26 08:00
+840,English League One,Accrington Stanley,Shrewsbury Town,2018-12-26 10:00
+841,English League One,AFC Wimbledon,Plymouth Argyle,2018-12-26 10:00
+842,English League One,Barnsley,Peterborough United,2018-12-26 10:00
+843,English League One,Burton Albion,Wycombe Wanderers,2018-12-26 10:00
+844,English League One,Coventry City,Charlton Athletic,2018-12-26 10:00
+845,English League One,Fleetwood Town,Doncaster Rovers,2018-12-26 10:00
+846,English League One,Oxford United,Southend United,2018-12-26 10:00
+847,English League One,Rochdale,Blackpool,2018-12-26 10:00
+848,English League One,Scunthorpe United,Luton Town,2018-12-26 10:00
+849,English League One,Sunderland,Bradford City,2018-12-26 10:00
+850,English League One,Walsall,Bristol Rovers,2018-12-26 10:00
+851,English League Two,Cambridge United,Crawley Town,2018-12-26 08:00
+852,English League Two,Exeter City,Yeovil Town,2018-12-26 08:00
+853,English League Two,Carlisle United,Oldham Athletic,2018-12-26 10:00
+854,English League Two,Cheltenham Town,Milton Keynes Dons,2018-12-26 10:00
+855,English League Two,Colchester United,Stevenage,2018-12-26 10:00
+856,English League Two,Crewe Alexandra,Lincoln City,2018-12-26 10:00
+857,English League Two,Mansfield Town,Bury,2018-12-26 10:00
+858,English League Two,Newport County,Forest Green Rovers,2018-12-26 10:00
+859,English League Two,Northampton Town,Swindon Town,2018-12-26 10:00
+860,English League Two,Notts County,Macclesfield Town,2018-12-26 10:00
+861,English League Two,Port Vale,Grimsby Town,2018-12-26 10:00
+862,English League Two,Tranmere Rovers,Morecambe,2018-12-26 10:00
+863,English National League,Maidenhead Utd,Aldershot Town,2018-12-26 07:30
+864,English National League,Boreham Wood,Barnet,2018-12-26 08:00
+865,English National League,Dagenham & Redbridge,Leyton Orient,2018-12-26 08:00
+866,English National League,Barrow,AFC Fylde,2018-12-26 10:00
+867,English National League,Chesterfield,Solihull Moors,2018-12-26 10:00
+868,English National League,Dover,Maidstone United,2018-12-26 10:00
+869,English National League,Ebbsfleet United,Braintree Town,2018-12-26 10:00
+870,English National League,Gateshead,Hartlepool United,2018-12-26 10:00
+871,English National League,Harrogate Town,Halifax,2018-12-26 10:00
+872,English National League,Havant & Waterlooville,Eastleigh,2018-12-26 10:00
+873,English National League,Sutton United,Bromley,2018-12-26 10:00
+874,English National League,Wrexham,Salford City,2018-12-26 10:00
+875,Italian Serie B,Brescia,Cremonese,2018-12-26 09:00
+876,Italian Serie B,Carpi,Livorno,2018-12-26 09:00
+877,Northern Irish Premiership,Ballymena,Coleraine,2018-12-26 10:00
+878,Northern Irish Premiership,Cliftonville,Crusaders,2018-12-26 10:00
+879,Northern Irish Premiership,Dungannon Swifts,Glenavon,2018-12-26 10:00
+880,Northern Irish Premiership,Institute,Ards,2018-12-26 10:00
+881,Northern Irish Premiership,Linfield,Glentoran,2018-12-26 10:00
+882,Northern Irish Premiership,Warrenpoint Town,Newry City AFC,2018-12-26 10:00
+883,Welsh Premier League,Llanelli,Carmarthen,2018-12-26 07:00
+884,Welsh Premier League,Aberystwyth,Newtown,2018-12-26 09:30
+885,Welsh Premier League,Bala Town,Connah's Quay,2018-12-26 09:30
+886,Welsh Premier League,Barry Town,Cardiff MU,2018-12-26 09:30
+887,Welsh Premier League,Caernarfon,Llandudno Town,2018-12-26 09:30
+888,Welsh Premier League,T.N.S.,Cefn Druids,2018-12-26 09:30
+889,English Premier League,Southampton,West Ham United,2018-12-27 14:45
+890,Belgian First Division A,KSC Lokeren,Club Brugge,2018-12-27 12:00
+891,Belgian First Division A,Anderlecht,Waasland-Beveren,2018-12-27 14:30
+892,Italian Serie B,US Pescara,Venezia FC,2018-12-27 13:00
+893,Italian Serie B,Cosenza,Salernitana,2018-12-27 15:00
+894,Italian Serie B,Crotone,Spezia,2018-12-27 15:00
+895,Italian Serie B,Hellas Verona,Cittadella,2018-12-27 15:00
+896,Italian Serie B,Padova,Benevento,2018-12-27 15:00
+897,Italian Serie B,Palermo,Ascoli,2018-12-27 15:00
+898,Italian Serie B,Perugia,Foggia,2018-12-27 15:00
+899,Australian A-League,Melbourne Victory,Wellington Phoenix FC,2018-12-28 03:50
+900,Indian I-League,NEROCA FC,Mohun Bagan,2018-12-28 03:30
+901,Indian I-League,East Bengal,Real Kashmir,2018-12-28 06:30
+902,English Premier League,Brighton & Hove Albion,Everton,2018-12-29 10:00
+903,English Premier League,Fulham,Huddersfield Town,2018-12-29 10:00
+904,English Premier League,Leicester City,Cardiff City,2018-12-29 10:00
+905,English Premier League,Tottenham Hotspur,Wolverhampton Wanderers,2018-12-29 10:00
+906,English Premier League,Watford,Newcastle United,2018-12-29 10:00
+907,English Premier League,Liverpool,Arsenal,2018-12-29 12:30
+908,Italian Serie A,Juventus,Sampdoria,2018-12-29 06:30
+909,Italian Serie A,Chievo Verona,Frosinone,2018-12-29 09:00
+910,Italian Serie A,Empoli,Internazionale,2018-12-29 09:00
+911,Italian Serie A,Genoa,Fiorentina,2018-12-29 09:00
+912,Italian Serie A,Lazio,Torino,2018-12-29 09:00
+913,Italian Serie A,Parma,AS Roma,2018-12-29 09:00
+914,Italian Serie A,Sassuolo,Atalanta,2018-12-29 09:00
+915,Italian Serie A,Udinese,Cagliari,2018-12-29 09:00
+916,Italian Serie A,Napoli,Bologna,2018-12-29 12:00
+917,Italian Serie A,AC Milan,SPAL,2018-12-29 14:30
+918,English League Championship,Birmingham City,Brentford,2018-12-29 10:00
+919,English League Championship,Bolton Wanderers,Stoke City,2018-12-29 10:00
+920,English League Championship,Bristol City,Rotherham United,2018-12-29 10:00
+921,English League Championship,Leeds United,Hull City,2018-12-29 10:00
+922,English League Championship,Middlesbrough,Ipswich Town,2018-12-29 10:00
+923,English League Championship,Millwall,Nottingham Forest,2018-12-29 10:00
+924,English League Championship,Norwich City,Derby County,2018-12-29 10:00
+925,English League Championship,Preston North End,Aston Villa,2018-12-29 10:00
+926,English League Championship,Queens Park Rangers,Reading,2018-12-29 10:00
+927,English League Championship,Sheffield United,Blackburn Rovers,2018-12-29 10:00
+928,English League Championship,Swansea City,Wigan Athletic,2018-12-29 10:00
+929,English League Championship,West Bromwich Albion,Sheffield Wednesday,2018-12-29 10:00
+930,Scottish Premiership,Rangers,Celtic,2018-12-29 07:30
+931,Scottish Premiership,Dundee,St Johnstone,2018-12-29 10:00
+932,Scottish Premiership,Hamilton Academical,Motherwell,2018-12-29 10:00
+933,Scottish Premiership,Kilmarnock,St Mirren,2018-12-29 10:00
+934,Scottish Premiership,Livingston,Aberdeen,2018-12-29 10:00
+935,Scottish Premiership,Hibernian,Heart of Midlothian,2018-12-29 12:30
+936,Australian A-League,Sydney FC,Brisbane Roar,2018-12-29 03:50
+937,Israeli Premier League,Hapoel Ra'anana,Maccabi Tel-Aviv,2018-12-29 09:00
+938,Israeli Premier League,Maccabi Netanya,Hapoel Kiryat Shmona,2018-12-29 11:00
+939,Israeli Premier League,Hapoel Be'er,Moadon Sport Ashdod,2018-12-29 11:15
+940,Israeli Premier League,Maccabi Haifa,Bnei Yehuda,2018-12-29 13:30
+941,Brazilian Campeonato Carioca,América-RJ,Resende,2018-12-29 13:00
+942,Brazilian Campeonato Carioca,Macaé,Nova Iguaçu,2018-12-29 13:00
+943,English League One,Oxford United,Bristol Rovers,2018-12-29 08:00
+944,English League One,Accrington Stanley,Peterborough United,2018-12-29 10:00
+945,English League One,AFC Wimbledon,Blackpool,2018-12-29 10:00
+946,English League One,Barnsley,Charlton Athletic,2018-12-29 10:00
+947,English League One,Burton Albion,Plymouth Argyle,2018-12-29 10:00
+948,English League One,Coventry City,Southend United,2018-12-29 10:00
+949,English League One,Fleetwood Town,Portsmouth,2018-12-29 10:00
+950,English League One,Gillingham,Doncaster Rovers,2018-12-29 10:00
+951,English League One,Rochdale,Bradford City,2018-12-29 10:00
+952,English League One,Scunthorpe United,Wycombe Wanderers,2018-12-29 10:00
+953,English League One,Sunderland,Shrewsbury Town,2018-12-29 10:00
+954,English League One,Walsall,Luton Town,2018-12-29 10:00
+955,English League Two,Cambridge United,Lincoln City,2018-12-29 10:00
+956,English League Two,Carlisle United,Macclesfield Town,2018-12-29 10:00
+957,English League Two,Cheltenham Town,Forest Green Rovers,2018-12-29 10:00
+958,English League Two,Colchester United,Morecambe,2018-12-29 10:00
+959,English League Two,Crewe Alexandra,Stevenage,2018-12-29 10:00
+960,English League Two,Exeter City,Grimsby Town,2018-12-29 10:00
+961,English League Two,Mansfield Town,Swindon Town,2018-12-29 10:00
+962,English League Two,Newport County,Crawley Town,2018-12-29 10:00
+963,English League Two,Northampton Town,Milton Keynes Dons,2018-12-29 10:00
+964,English League Two,Notts County,Bury,2018-12-29 10:00
+965,English League Two,Port Vale,Oldham Athletic,2018-12-29 10:00
+966,English League Two,Tranmere Rovers,Yeovil Town,2018-12-29 10:00
+967,English National League,Barrow,Salford City,2018-12-29 07:35
+968,English National League,Boreham Wood,Maidstone United,2018-12-29 10:00
+969,English National League,Chesterfield,Hartlepool United,2018-12-29 10:00
+970,English National League,Dagenham & Redbridge,Barnet,2018-12-29 10:00
+971,English National League,Dover,Leyton Orient,2018-12-29 10:00
+972,English National League,Ebbsfleet United,Eastleigh,2018-12-29 10:00
+973,English National League,Gateshead,Halifax,2018-12-29 10:00
+974,English National League,Harrogate Town,AFC Fylde,2018-12-29 10:00
+975,English National League,Havant & Waterlooville,Bromley,2018-12-29 10:00
+976,English National League,Maidenhead Utd,Braintree Town,2018-12-29 10:00
+977,English National League,Sutton United,Aldershot Town,2018-12-29 10:00
+978,English National League,Wrexham,Solihull Moors,2018-12-29 10:00
+979,Scottish Championship,Alloa Athletic,Dundee United,2018-12-29 10:00
+980,Scottish Championship,Falkirk,Dunfermline Athletic,2018-12-29 10:00
+981,Scottish Championship,Partick Thistle,Greenock Morton,2018-12-29 10:00
+982,Scottish Championship,Queen of the South,Ayr United,2018-12-29 10:00
+983,Scottish Championship,Ross County,Inverness Caledonian Thistle,2018-12-29 10:00
+984,Scottish League One,Airdrieonians,Stranraer,2018-12-29 10:00
+985,Scottish League One,Forfar Athletic,Brechin City,2018-12-29 10:00
+986,Scottish League One,Montrose,Arbroath,2018-12-29 10:00
+987,Scottish League One,Raith Rovers,East Fife,2018-12-29 10:00
+988,Scottish League One,Stenhousemuir,Dumbarton,2018-12-29 10:00
+989,Scottish League Two,Albion Rovers,Annan Athletic,2018-12-29 10:00
+990,Scottish League Two,Berwick Rangers,Edinburgh City,2018-12-29 10:00
+991,Scottish League Two,Clyde,Queen's Park,2018-12-29 10:00
+992,Scottish League Two,Elgin City,Peterhead,2018-12-29 10:00
+993,Scottish League Two,Stirling Albion,Cowdenbeath,2018-12-29 10:00
+994,Northern Irish Premiership,Ballymena,Newry City AFC,2018-12-29 10:00
+995,Northern Irish Premiership,Cliftonville,Linfield,2018-12-29 10:00
+996,Northern Irish Premiership,Dungannon Swifts,Ards,2018-12-29 10:00
+997,Northern Irish Premiership,Glenavon,Institute,2018-12-29 10:00
+998,Northern Irish Premiership,Glentoran,Crusaders,2018-12-29 10:00
+999,Northern Irish Premiership,Warrenpoint Town,Coleraine,2018-12-29 10:00
+1000,Indian I-League,Aizawl FC,Gokulam Kerala FC,2018-12-29 03:30
+1001,Indian I-League,Chennai City,Shillong Lajong,2018-12-29 06:30
+1002,English Premier League,Crystal Palace,Chelsea,2018-12-30 07:00
+1003,English Premier League,Burnley,West Ham United,2018-12-30 09:15
+1004,English Premier League,Southampton,Manchester City,2018-12-30 09:15
+1005,English Premier League,Manchester United,AFC Bournemouth,2018-12-30 11:30
+1006,Australian A-League,Newcastle Jets,Adelaide United,2018-12-30 03:00
+1007,Israeli Premier League,Hapoel Hadera,Maccabi Petach-Tikva,2018-12-30 12:00
+1008,Israeli Premier League,Hapoel Tel Aviv,Bnei Sakhnin,2018-12-30 13:30
+1009,Italian Serie B,Foggia,Hellas Verona,2018-12-30 06:30
+1010,Italian Serie B,Ascoli,Crotone,2018-12-30 09:00
+1011,Italian Serie B,Cittadella,Palermo,2018-12-30 09:00
+1012,Italian Serie B,Cremonese,Perugia,2018-12-30 09:00
+1013,Italian Serie B,Salernitana,US Pescara,2018-12-30 09:00
+1014,Italian Serie B,Venezia FC,Carpi,2018-12-30 09:00
+1015,Italian Serie B,Benevento,Brescia,2018-12-30 10:00
+1016,Italian Serie B,Livorno,Padova,2018-12-30 12:00
+1017,Italian Serie B,Spezia,Lecce,2018-12-30 15:00
+1018,Welsh Premier League,Newtown,Aberystwyth,2018-12-30 09:30
+1019,Indian I-League,Indian Arrows,Churchill Brothers,2018-12-30 06:30
+1020,International Friendly,South Korea,Saudi Arabia,2018-12-31 11:00
+1021,Australian A-League,Central Coast Mariners,Perth Glory,2018-12-31 03:00
+1022,Israeli Premier League,Beitar Jerusalem,Hapoel Haifa,2018-12-31 14:00
+1023,Welsh Premier League,Cardiff MU,Barry Town,2018-12-31 14:45
+1024,English Premier League,Everton,Leicester City,2019-01-01 07:30
+1025,English Premier League,Arsenal,Fulham,2019-01-01 10:00
+1026,English Premier League,Cardiff City,Tottenham Hotspur,2019-01-01 12:30
+1027,English League Championship,Aston Villa,Queens Park Rangers,2019-01-01 10:00
+1028,English League Championship,Blackburn Rovers,West Bromwich Albion,2019-01-01 10:00
+1029,English League Championship,Brentford,Norwich City,2019-01-01 10:00
+1030,English League Championship,Derby County,Middlesbrough,2019-01-01 10:00
+1031,English League Championship,Hull City,Bolton Wanderers,2019-01-01 10:00
+1032,English League Championship,Ipswich Town,Millwall,2019-01-01 10:00
+1033,English League Championship,Nottingham Forest,Leeds United,2019-01-01 10:00
+1034,English League Championship,Reading,Swansea City,2019-01-01 10:00
+1035,English League Championship,Rotherham United,Preston North End,2019-01-01 10:00
+1036,English League Championship,Sheffield Wednesday,Birmingham City,2019-01-01 10:00
+1037,English League Championship,Stoke City,Bristol City,2019-01-01 10:00
+1038,English League Championship,Wigan Athletic,Sheffield United,2019-01-01 10:00
+1039,Australian A-League,Western Sydney Wanderers,Melbourne City FC,2019-01-01 03:50
+1040,English League One,Blackpool,Sunderland,2019-01-01 10:00
+1041,English League One,Bradford City,Accrington Stanley,2019-01-01 10:00
+1042,English League One,Bristol Rovers,Burton Albion,2019-01-01 10:00
+1043,English League One,Charlton Athletic,Walsall,2019-01-01 10:00
+1044,English League One,Doncaster Rovers,Rochdale,2019-01-01 10:00
+1045,English League One,Luton Town,Barnsley,2019-01-01 10:00
+1046,English League One,Peterborough United,Scunthorpe United,2019-01-01 10:00
+1047,English League One,Plymouth Argyle,Oxford United,2019-01-01 10:00
+1048,English League One,Portsmouth,AFC Wimbledon,2019-01-01 10:00
+1049,English League One,Shrewsbury Town,Fleetwood Town,2019-01-01 10:00
+1050,English League One,Southend United,Gillingham,2019-01-01 10:00
+1051,English League One,Wycombe Wanderers,Coventry City,2019-01-01 10:00
+1052,English League Two,Grimsby Town,Mansfield Town,2019-01-01 08:00
+1053,English League Two,Bury,Crewe Alexandra,2019-01-01 10:00
+1054,English League Two,Crawley Town,Colchester United,2019-01-01 10:00
+1055,English League Two,Forest Green Rovers,Northampton Town,2019-01-01 10:00
+1056,English League Two,Lincoln City,Port Vale,2019-01-01 10:00
+1057,English League Two,Macclesfield Town,Tranmere Rovers,2019-01-01 10:00
+1058,English League Two,Milton Keynes Dons,Cambridge United,2019-01-01 10:00
+1059,English League Two,Morecambe,Carlisle United,2019-01-01 10:00
+1060,English League Two,Oldham Athletic,Notts County,2019-01-01 10:00
+1061,English League Two,Stevenage,Newport County,2019-01-01 10:00
+1062,English League Two,Swindon Town,Exeter City,2019-01-01 10:00
+1063,English League Two,Yeovil Town,Cheltenham Town,2019-01-01 10:00
+1064,English National League,AFC Fylde,Barrow,2019-01-01 10:00
+1065,English National League,Aldershot Town,Maidenhead Utd,2019-01-01 10:00
+1066,English National League,Barnet,Boreham Wood,2019-01-01 10:00
+1067,English National League,Braintree Town,Ebbsfleet United,2019-01-01 10:00
+1068,English National League,Eastleigh,Havant & Waterlooville,2019-01-01 10:00
+1069,English National League,Halifax,Harrogate Town,2019-01-01 10:00
+1070,English National League,Hartlepool United,Gateshead,2019-01-01 10:00
+1071,English National League,Leyton Orient,Dagenham & Redbridge,2019-01-01 10:00
+1072,English National League,Maidstone United,Dover,2019-01-01 10:00
+1073,English National League,Salford City,Wrexham,2019-01-01 10:00
+1074,English National League,Solihull Moors,Chesterfield,2019-01-01 10:00
+1075,English National League,Bromley,Sutton United,2019-01-01 14:45
+1076,Northern Irish Premiership,Ards,Linfield,2019-01-01 10:00
+1077,Northern Irish Premiership,Coleraine,Cliftonville,2019-01-01 10:00
+1078,Northern Irish Premiership,Crusaders,Ballymena,2019-01-01 10:00
+1079,Northern Irish Premiership,Glenavon,Warrenpoint Town,2019-01-01 10:00
+1080,Northern Irish Premiership,Glentoran,Dungannon Swifts,2019-01-01 10:00
+1081,Northern Irish Premiership,Newry City AFC,Institute,2019-01-01 10:00
+1082,Welsh Premier League,Cefn Druids,T.N.S.,2019-01-01 09:30
+1083,Welsh Premier League,Connah's Quay,Bala Town,2019-01-01 09:30
+1084,Welsh Premier League,Llandudno Town,Caernarfon,2019-01-01 09:30
+1085,Welsh Premier League,Carmarthen,Llanelli,2019-01-01 12:15
+1086,English Premier League,AFC Bournemouth,Watford,2019-01-02 14:45
+1087,English Premier League,Chelsea,Southampton,2019-01-02 14:45
+1088,English Premier League,Huddersfield Town,Burnley,2019-01-02 14:45
+1089,English Premier League,West Ham United,Brighton & Hove Albion,2019-01-02 14:45
+1090,English Premier League,Wolverhampton Wanderers,Crystal Palace,2019-01-02 14:45
+1091,English Premier League,Newcastle United,Manchester United,2019-01-02 15:00
+1092,Portuguese Liga,Boavista,Vitoria Setubal,2019-01-02 07:00
+1093,Portuguese Liga,Braga,Maritimo,2019-01-02 07:00
+1094,Portuguese Liga,CD Nacional de Madeira,Guimaraes,2019-01-02 07:00
+1095,Portuguese Liga,Desportivo Aves,FC Porto,2019-01-02 07:00
+1096,Portuguese Liga,GD Chaves,Feirense,2019-01-02 07:00
+1097,Portuguese Liga,Portimonense,Benfica,2019-01-02 07:00
+1098,Portuguese Liga,Rio Ave,Moreirense,2019-01-02 07:00
+1099,Portuguese Liga,Santa Clara,Tondela,2019-01-02 07:00
+1100,Portuguese Liga,Sporting CP,Belenenses,2019-01-02 07:00
+1101,Australian A-League,Newcastle Jets,Brisbane Roar,2019-01-02 03:50
+1102,English Premier League,Manchester City,Liverpool,2019-01-03 15:00
+1103,Spanish Primera División,Villarreal,Real Madrid,2019-01-03 15:30
+1104,English FA Cup,TBD,Tottenham Hotspur,2019-01-04 14:45
+1105,Australian A-League,Sydney FC,Central Coast Mariners,2019-01-04 03:50
+1106,Scottish Championship,Greenock Morton,Ross County,2019-01-04 14:45
+1107,Welsh Premier League,Aberystwyth,Connah's Quay,2019-01-04 14:45
+1108,Welsh Premier League,T.N.S.,Newtown,2019-01-04 14:45
+1109,Indian I-League,NEROCA FC,Shillong Lajong,2019-01-04 03:30
+1110,Indian I-League,Chennai City,Gokulam Kerala FC,2019-01-04 09:00
+1111,South African Premiership,Chippa United,Bloem Celtic,2019-01-04 13:00
+1112,English FA Cup,AFC Bournemouth,Brighton & Hove Albion,2019-01-05 07:30
+1113,English FA Cup,Burnley,Barnsley,2019-01-05 07:30
+1114,English FA Cup,Manchester United,Reading,2019-01-05 07:30
+1115,English FA Cup,Sheffield Wednesday,Luton Town,2019-01-05 07:30
+1116,English FA Cup,Shrewsbury Town,Stoke City,2019-01-05 07:30
+1117,English FA Cup,West Bromwich Albion,Wigan Athletic,2019-01-05 07:30
+1118,English FA Cup,West Ham United,Birmingham City,2019-01-05 07:30
+1119,English FA Cup,Accrington Stanley,Ipswich Town,2019-01-05 10:00
+1120,English FA Cup,Aston Villa,Swansea City,2019-01-05 10:00
+1121,English FA Cup,Bolton Wanderers,TBD,2019-01-05 10:00
+1122,English FA Cup,Brentford,Oxford United,2019-01-05 10:00
+1123,English FA Cup,Chelsea,Nottingham Forest,2019-01-05 10:00
+1124,English FA Cup,Derby County,Southampton,2019-01-05 10:00
+1125,English FA Cup,Everton,Lincoln City,2019-01-05 10:00
+1126,English FA Cup,Fleetwood Town,AFC Wimbledon,2019-01-05 10:00
+1127,English FA Cup,Gillingham,Cardiff City,2019-01-05 10:00
+1128,English FA Cup,Middlesbrough,TBD,2019-01-05 10:00
+1129,English FA Cup,Bristol City,Huddersfield Town,2019-01-05 12:30
+1130,English FA Cup,Crystal Palace,Grimsby Town,2019-01-05 12:30
+1131,English FA Cup,Newcastle United,Blackburn Rovers,2019-01-05 12:30
+1132,English FA Cup,Norwich City,Portsmouth,2019-01-05 12:30
+1133,English FA Cup,TBD,Arsenal,2019-01-05 12:30
+1134,Australian A-League,Adelaide United,Wellington Phoenix FC,2019-01-05 01:35
+1135,Australian A-League,Western Sydney Wanderers,Melbourne Victory,2019-01-05 03:50
+1136,Israeli Premier League,Bnei Sakhnin,Beitar Jerusalem,2019-01-05 10:00
+1137,Israeli Premier League,Bnei Yehuda,Hapoel Be'er,2019-01-05 10:00
+1138,Israeli Premier League,Hapoel Haifa,Hapoel Hadera,2019-01-05 10:00
+1139,Israeli Premier League,Hapoel Kiryat Shmona,Hapoel Tel Aviv,2019-01-05 10:00
+1140,Israeli Premier League,Maccabi Petach-Tikva,Maccabi Haifa,2019-01-05 10:00
+1141,Israeli Premier League,Maccabi Tel-Aviv,Maccabi Netanya,2019-01-05 10:00
+1142,Israeli Premier League,Moadon Sport Ashdod,Hapoel Ra'anana,2019-01-05 10:00
+1143,AFC Asian Cup,United Arab Emirates,Bahrain,2019-01-05 11:00
+1144,English League One,Blackpool,Wycombe Wanderers,2019-01-05 10:00
+1145,English League One,Bristol Rovers,Peterborough United,2019-01-05 10:00
+1146,English League One,Charlton Athletic,Sunderland,2019-01-05 10:00
+1147,English League One,Plymouth Argyle,Walsall,2019-01-05 10:00
+1148,English League One,Rochdale,Burton Albion,2019-01-05 10:00
+1149,English League One,Scunthorpe United,Coventry City,2019-01-05 10:00
+1150,English League Two,Cambridge United,Stevenage,2019-01-05 10:00
+1151,English League Two,Carlisle United,Mansfield Town,2019-01-05 10:00
+1152,English League Two,Colchester United,Notts County,2019-01-05 10:00
+1153,English League Two,Crawley Town,Cheltenham Town,2019-01-05 10:00
+1154,English League Two,Macclesfield Town,Swindon Town,2019-01-05 10:00
+1155,English League Two,Morecambe,Crewe Alexandra,2019-01-05 10:00
+1156,English League Two,Newport County,Port Vale,2019-01-05 10:00
+1157,English League Two,Tranmere Rovers,Northampton Town,2019-01-05 10:00
+1158,English League Two,Yeovil Town,Bury,2019-01-05 10:00
+1159,English National League,Bromley,AFC Fylde,2019-01-05 10:00
+1160,English National League,Chesterfield,Ebbsfleet United,2019-01-05 10:00
+1161,English National League,Dagenham & Redbridge,Boreham Wood,2019-01-05 10:00
+1162,English National League,Gateshead,Maidenhead Utd,2019-01-05 10:00
+1163,English National League,Halifax,Braintree Town,2019-01-05 10:00
+1164,English National League,Hartlepool United,Maidstone United,2019-01-05 10:00
+1165,English National League,Havant & Waterlooville,Barrow,2019-01-05 10:00
+1166,English National League,Leyton Orient,Salford City,2019-01-05 10:00
+1167,English National League,Solihull Moors,Eastleigh,2019-01-05 10:00
+1168,English National League,Sutton United,Harrogate Town,2019-01-05 10:00
+1169,English National League,Wrexham,Dover,2019-01-05 10:00
+1170,Scottish Championship,Ayr United,Falkirk,2019-01-05 10:00
+1171,Scottish Championship,Dundee United,Partick Thistle,2019-01-05 10:00
+1172,Scottish Championship,Dunfermline Athletic,Alloa Athletic,2019-01-05 10:00
+1173,Scottish Championship,Inverness Caledonian Thistle,Queen of the South,2019-01-05 10:00
+1174,Scottish League One,Arbroath,Brechin City,2019-01-05 10:00
+1175,Scottish League One,Dumbarton,Forfar Athletic,2019-01-05 10:00
+1176,Scottish League One,East Fife,Airdrieonians,2019-01-05 10:00
+1177,Scottish League One,Raith Rovers,Stenhousemuir,2019-01-05 10:00
+1178,Scottish League One,Stranraer,Montrose,2019-01-05 10:00
+1179,Scottish League Two,Annan Athletic,Elgin City,2019-01-05 10:00
+1180,Scottish League Two,Cowdenbeath,Berwick Rangers,2019-01-05 10:00
+1181,Scottish League Two,Edinburgh City,Stirling Albion,2019-01-05 10:00
+1182,Scottish League Two,Peterhead,Clyde,2019-01-05 10:00
+1183,Scottish League Two,Queen's Park,Albion Rovers,2019-01-05 10:00
+1184,Welsh Premier League,Caernarfon,Carmarthen,2019-01-05 09:30
+1185,Welsh Premier League,Cardiff MU,Bala Town,2019-01-05 09:30
+1186,Welsh Premier League,Cefn Druids,Barry Town,2019-01-05 09:30
+1187,Welsh Premier League,Llanelli,Llandudno Town,2019-01-05 09:30
+1188,Indian I-League,Aizawl FC,Indian Arrows,2019-01-05 03:30
+1189,Indian I-League,Churchill Brothers,Minerva Punjab,2019-01-05 06:30
+1190,South African Premiership,Kaizer Chiefs,Mamelodi Sundowns,2019-01-05 08:30
+1191,South African Premiership,Polokwane City FC,Amazulu,2019-01-05 08:30
+1192,South African Premiership,Free State Stars,Bidvest Wits,2019-01-05 11:00
+1193,South African Premiership,Highlands Park FC,Orlando Pirates,2019-01-05 13:15
+1194,South African Premiership,SuperSport United,Cape Town City FC,2019-01-05 13:15
+1195,South African First Division,Pretoria Univ,Real Kings,2019-01-05 09:00
+1196,South African First Division,Tshakhuma Tsha Madzivhandila,Uthongathi,2019-01-05 09:00
+1197,South African First Division,Ubuntu Cape Town,Ajax Cape Town,2019-01-05 09:00
+1198,South African First Division,Witbank Spurs,Cape Umoya United,2019-01-05 09:00
+1199,English FA Cup,Fulham,Oldham Athletic,2019-01-06 09:00
+1200,English FA Cup,Manchester City,Rotherham United,2019-01-06 09:00
+1201,English FA Cup,Millwall,Hull City,2019-01-06 09:00
+1202,English FA Cup,Preston North End,Doncaster Rovers,2019-01-06 09:00
+1203,English FA Cup,Queens Park Rangers,Leeds United,2019-01-06 09:00
+1204,English FA Cup,Sheffield United,Barnet,2019-01-06 09:00
+1205,English FA Cup,Woking,Watford,2019-01-06 09:00
+1206,English FA Cup,TBD,Leicester City,2019-01-06 11:30
+1207,Portuguese Liga,Belenenses,Guimaraes,2019-01-06 07:00
+1208,Portuguese Liga,Benfica,Rio Ave,2019-01-06 07:00
+1209,Portuguese Liga,Braga,Boavista,2019-01-06 07:00
+1210,Portuguese Liga,FC Porto,CD Nacional de Madeira,2019-01-06 07:00
+1211,Portuguese Liga,Feirense,Santa Clara,2019-01-06 07:00
+1212,Portuguese Liga,Maritimo,Portimonense,2019-01-06 07:00
+1213,Portuguese Liga,Moreirense,Desportivo Aves,2019-01-06 07:00
+1214,Portuguese Liga,Tondela,Sporting CP,2019-01-06 07:00
+1215,Portuguese Liga,Vitoria Setubal,GD Chaves,2019-01-06 07:00
+1216,Australian A-League,Melbourne City FC,Newcastle Jets,2019-01-06 01:00
+1217,Australian A-League,Brisbane Roar,Perth Glory,2019-01-06 03:00
+1218,AFC Asian Cup,Australia,Jordan,2019-01-06 06:00
+1219,AFC Asian Cup,Thailand,India,2019-01-06 08:30
+1220,AFC Asian Cup,Syria,Palestine,2019-01-06 11:00
+1221,Brazilian Campeonato Carioca,América-RJ,Macaé,2019-01-06 13:00
+1222,Brazilian Campeonato Carioca,Resende,Goytacaz,2019-01-06 13:00
+1223,Indian I-League,Mohun Bagan,Real Kashmir,2019-01-06 03:30
+1224,South African Premiership,Baroka FC,Black Leopards,2019-01-06 08:30
+1225,South African Premiership,Golden Arrows,Maritzburg Utd,2019-01-06 08:30
+1226,South African First Division,Jomo Cosmos,Maccabi FC,2019-01-06 09:00
+1227,South African First Division,Stellenbosch FC,Royal Eagles,2019-01-06 09:00
+1228,South African First Division,TS Galaxy,Richards Bay,2019-01-06 09:00
+1229,South African First Division,TS Sporting,Mbombela United,2019-01-06 09:00

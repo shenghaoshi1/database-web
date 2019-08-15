@@ -1,0 +1,3151 @@
+﻿Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,Season
+F1,2007/8/10,Auxerre,Lorient,2,2,1011
+F1,2007/8/10,Lens,Nancy,1,2,1011
+F1,2007/8/10,Lyon,Monaco,0,0,1011
+F1,2007/8/10,Marseille,Caen,1,2,1011
+F1,2007/8/10,Nice,Valenciennes,0,0,1011
+F1,2007/8/10,Paris SG,St Etienne,3,1,1011
+F1,2007/8/10,Rennes,Lille,1,1,1011
+F1,2007/8/10,Sochaux,Arles,2,1,1011
+F1,2007/8/10,Toulouse,Brest,2,0,1011
+F1,2008/8/10,Montpellier,Bordeaux,1,0,1011
+F1,2014/8/10,Arles,Lens,0,1,1011
+F1,2015/8/10,Bordeaux,Toulouse,1,2,1011
+F1,2014/8/10,Brest,Auxerre,1,1,1011
+F1,2015/8/10,Caen,Lyon,3,2,1011
+F1,2015/8/10,Lille,Paris SG,0,0,1011
+F1,2014/8/10,Lorient,Nice,1,2,1011
+F1,2014/8/10,Nancy,Rennes,0,3,1011
+F1,2014/8/10,St Etienne,Sochaux,3,2,1011
+F1,2014/8/10,Valenciennes,Marseille,3,2,1011
+F1,2017/8/10,Monaco,Montpellier,0,0,1011
+F1,2021/8/10,Auxerre,Valenciennes,1,1,1011
+F1,2021/8/10,Lens,Monaco,2,2,1011
+F1,2021/8/10,Lyon,Brest,1,0,1011
+F1,2021/8/10,Marseille,Lorient,2,0,1011
+F1,2021/8/10,Nice,Nancy,1,1,1011
+F1,2021/8/10,Rennes,St Etienne,0,0,1011
+F1,2021/8/10,Toulouse,Arles,2,1,1011
+F1,2022/8/10,Montpellier,Caen,0,0,1011
+F1,2022/8/10,Paris SG,Bordeaux,1,2,1011
+F1,2022/8/10,Sochaux,Lille,0,0,1011
+F1,2028/8/10,Arles,Rennes,0,1,1011
+F1,2028/8/10,Caen,Brest,0,2,1011
+F1,2028/8/10,Lorient,Lyon,2,0,1011
+F1,2028/8/10,Nancy,Toulouse,0,2,1011
+F1,2028/8/10,St Etienne,Lens,3,1,1011
+F1,2028/8/10,Valenciennes,Montpellier,0,1,1011
+F1,2029/8/10,Bordeaux,Marseille,1,1,1011
+F1,2029/8/10,Lille,Nice,1,1,1011
+F1,2029/8/10,Monaco,Auxerre,2,0,1011
+F1,2029/8/10,Sochaux,Paris SG,3,1,1011
+F1,2011/9/10,Auxerre,Caen,1,1,1011
+F1,2011/9/10,Lens,Lille,1,4,1011
+F1,2011/9/10,Lyon,Valenciennes,1,1,1011
+F1,2011/9/10,Montpellier,Nancy,1,2,1011
+F1,2011/9/10,Paris SG,Arles,4,0,1011
+F1,2011/9/10,Rennes,Sochaux,2,1,1011
+F1,2011/9/10,Toulouse,St Etienne,0,1,1011
+F1,2012/9/10,Brest,Lorient,0,0,1011
+F1,2012/9/10,Marseille,Monaco,2,2,1011
+F1,2012/9/10,Nice,Bordeaux,2,1,1011
+F1,2018/9/10,Arles,Marseille,0,3,1011
+F1,2018/9/10,Lorient,Caen,0,1,1011
+F1,2018/9/10,Monaco,Toulouse,0,0,1011
+F1,2018/9/10,Nancy,Brest,0,2,1011
+F1,2018/9/10,Sochaux,Nice,4,0,1011
+F1,2018/9/10,St Etienne,Montpellier,3,0,1011
+F1,2018/9/10,Valenciennes,Lens,1,1,1011
+F1,2019/9/10,Bordeaux,Lyon,2,0,1011
+F1,2019/9/10,Lille,Auxerre,1,0,1011
+F1,2019/9/10,Paris SG,Rennes,0,0,1011
+F1,2025/9/10,Auxerre,Nancy,2,2,1011
+F1,2025/9/10,Caen,Bordeaux,0,0,1011
+F1,2025/9/10,Lorient,Monaco,2,1,1011
+F1,2025/9/10,Lyon,St Etienne,0,1,1011
+F1,2025/9/10,Marseille,Sochaux,2,1,1011
+F1,2025/9/10,Montpellier,Arles,3,1,1011
+F1,2025/9/10,Nice,Rennes,1,2,1011
+F1,2026/9/10,Brest,Valenciennes,1,0,1011
+F1,2026/9/10,Lens,Paris SG,0,2,1011
+F1,2026/9/10,Toulouse,Lille,1,1,1011
+F1,2002/10/10,Arles,Auxerre,0,4,1011
+F1,2002/10/10,Bordeaux,Lorient,1,0,1011
+F1,2002/10/10,Monaco,Brest,0,1,1011
+F1,2002/10/10,Nancy,Lyon,2,3,1011
+F1,2002/10/10,Sochaux,Lens,3,0,1011
+F1,2002/10/10,St Etienne,Marseille,1,1,1011
+F1,2002/10/10,Valenciennes,Caen,2,1,1011
+F1,2003/10/10,Lille,Montpellier,3,1,1011
+F1,2003/10/10,Paris SG,Nice,0,0,1011
+F1,2003/10/10,Rennes,Toulouse,3,1,1011
+F1,2016/10/10,Auxerre,Bordeaux,0,1,1011
+F1,2016/10/10,Brest,Arles,0,0,1011
+F1,2016/10/10,Caen,Monaco,0,0,1011
+F1,2016/10/10,Marseille,Nancy,1,0,1011
+F1,2016/10/10,Montpellier,Sochaux,2,0,1011
+F1,2016/10/10,Toulouse,Paris SG,0,2,1011
+F1,2017/10/10,Lens,Rennes,0,0,1011
+F1,2017/10/10,Lorient,Valenciennes,2,1,1011
+F1,2017/10/10,Lyon,Lille,3,1,1011
+F1,2017/10/10,Nice,St Etienne,2,1,1011
+F1,2023/10/10,Bordeaux,Brest,0,2,1011
+F1,2023/10/10,Lens,Nice,1,0,1011
+F1,2023/10/10,Monaco,Valenciennes,0,2,1011
+F1,2023/10/10,Nancy,Lorient,1,0,1011
+F1,2023/10/10,Rennes,Montpellier,0,1,1011
+F1,2023/10/10,Sochaux,Toulouse,1,3,1011
+F1,2023/10/10,St Etienne,Caen,1,1,1011
+F1,2024/10/10,Arles,Lyon,1,1,1011
+F1,2024/10/10,Lille,Marseille,1,3,1011
+F1,2024/10/10,Paris SG,Auxerre,2,3,1011
+F1,1930/10/10,Auxerre,Nice,2,0,1011
+F1,1930/10/10,Brest,St Etienne,2,0,1011
+F1,1930/10/10,Caen,Nancy,2,3,1011
+F1,1930/10/10,Lorient,Arles,2,0,1011
+F1,1930/10/10,Lyon,Sochaux,2,1,1011
+F1,1930/10/10,Toulouse,Lens,1,1,1011
+F1,1931/10/10,Montpellier,Paris SG,1,1,1011
+F1,1931/10/10,Valenciennes,Lille,1,1,1011
+F1,2002/11/10,Monaco,Bordeaux,2,2,1011
+F1,2006/11/10,Arles,Caen,3,2,1011
+F1,2006/11/10,Bordeaux,Valenciennes,1,1,1011
+F1,2006/11/10,Rennes,Lyon,1,1,1011
+F1,2006/11/10,Sochaux,Auxerre,1,1,1011
+F1,2006/11/10,St Etienne,Lorient,1,2,1011
+F1,2007/11/10,Lens,Montpellier,2,0,1011
+F1,2007/11/10,Lille,Brest,3,1,1011
+F1,2007/11/10,Nancy,Monaco,0,4,1011
+F1,2007/11/10,Nice,Toulouse,2,0,1011
+F1,2007/11/10,Paris SG,Marseille,2,1,1011
+F1,2013/11/10,Bordeaux,Nancy,2,1,1011
+F1,2013/11/10,Brest,Sochaux,1,1,1011
+F1,2013/11/10,Caen,Lille,2,5,1011
+F1,2013/11/10,Marseille,Lens,1,1,1011
+F1,2013/11/10,Monaco,Arles,0,0,1011
+F1,2013/11/10,Montpellier,Toulouse,1,0,1011
+F1,2014/11/10,Auxerre,Rennes,2,1,1011
+F1,2014/11/10,Lorient,Paris SG,1,1,1011
+F1,2014/11/10,Lyon,Nice,1,0,1011
+F1,2020/11/10,Nancy,Valenciennes,2,0,1011
+F1,2020/11/10,Nice,Montpellier,0,1,1011
+F1,2020/11/10,Paris SG,Caen,2,1,1011
+F1,2020/11/10,Rennes,Brest,2,1,1011
+F1,2020/11/10,Sochaux,Lorient,2,0,1011
+F1,2020/11/10,St Etienne,Auxerre,1,1,1011
+F1,2020/11/10,Toulouse,Marseille,0,1,1011
+F1,2021/11/10,Arles,Bordeaux,2,4,1011
+F1,2021/11/10,Lens,Lyon,1,3,1011
+F1,2021/11/10,Lille,Monaco,2,1,1011
+F1,2027/11/10,Bordeaux,Lille,1,1,1011
+F1,2027/11/10,Lorient,Rennes,2,0,1011
+F1,2027/11/10,Marseille,Montpellier,4,0,1011
+F1,2027/11/10,Monaco,Nice,1,1,1011
+F1,2027/11/10,Nancy,St Etienne,1,1,1011
+F1,2027/11/10,Valenciennes,Arles,3,0,1011
+F1,2028/11/10,Auxerre,Toulouse,1,2,1011
+F1,2028/11/10,Caen,Sochaux,0,3,1011
+F1,2028/11/10,Lyon,Paris SG,2,2,1011
+F1,1930/11/10,Brest,Lens,4,1,1011
+F1,2001/12/10,Marseille,Rennes,0,0,1011
+F1,2001/12/10,Valenciennes,St Etienne,1,1,1011
+F1,2004/12/10,Arles,Nancy,1,1,1011
+F1,2004/12/10,Lens,Auxerre,1,1,1011
+F1,2004/12/10,Lille,Lorient,6,3,1011
+F1,2004/12/10,Montpellier,Lyon,1,2,1011
+F1,2004/12/10,Rennes,Monaco,1,0,1011
+F1,2004/12/10,Sochaux,Valenciennes,2,1,1011
+F1,2004/12/10,Toulouse,Caen,1,0,1011
+F1,2005/12/10,Nice,Marseille,1,0,1011
+F1,2005/12/10,Paris SG,Brest,3,1,1011
+F1,2005/12/10,St Etienne,Bordeaux,2,2,1011
+F1,2011/12/10,Arles,Lille,0,1,1011
+F1,2011/12/10,Auxerre,Marseille,1,1,1011
+F1,2011/12/10,Brest,Montpellier,0,0,1011
+F1,2011/12/10,Caen,Nice,0,0,1011
+F1,2011/12/10,Lorient,Lens,3,0,1011
+F1,2011/12/10,Nancy,Sochaux,1,0,1011
+F1,2011/12/10,Valenciennes,Paris SG,1,2,1011
+F1,2012/12/10,Bordeaux,Rennes,0,0,1011
+F1,2012/12/10,Lyon,Toulouse,2,0,1011
+F1,2012/12/10,Monaco,St Etienne,0,2,1011
+F1,2018/12/10,Montpellier,Auxerre,1,1,1011
+F1,2018/12/10,Nice,Brest,1,1,1011
+F1,2018/12/10,Paris SG,Monaco,2,2,1011
+F1,2018/12/10,Rennes,Valenciennes,1,0,1011
+F1,2018/12/10,St Etienne,Arles,2,0,1011
+F1,2018/12/10,Toulouse,Lorient,3,0,1011
+F1,2019/12/10,Marseille,Lyon,1,1,1011
+F1,2019/12/10,Sochaux,Bordeaux,1,1,1011
+F1,2021/12/10,Lorient,Montpellier,0,0,1011
+F1,2022/12/10,Arles,Nice,0,0,1011
+F1,2022/12/10,Bordeaux,Lens,2,2,1011
+F1,2022/12/10,Brest,Marseille,0,0,1011
+F1,2022/12/10,Caen,Rennes,1,0,1011
+F1,2022/12/10,Lille,St Etienne,1,1,1011
+F1,2022/12/10,Lyon,Auxerre,1,1,1011
+F1,2022/12/10,Monaco,Sochaux,2,1,1011
+F1,2022/12/10,Nancy,Paris SG,2,0,1011
+F1,2022/12/10,Valenciennes,Toulouse,2,1,1011
+F1,2015/1/11,Auxerre,Monaco,1,1,1011
+F1,2015/1/11,Brest,Caen,1,3,1011
+F1,2015/1/11,Lens,St Etienne,2,1,1011
+F1,2015/1/11,Lyon,Lorient,3,0,1011
+F1,2015/1/11,Montpellier,Valenciennes,2,1,1011
+F1,2015/1/11,Nice,Lille,0,2,1011
+F1,2015/1/11,Paris SG,Sochaux,2,1,1011
+F1,2015/1/11,Rennes,Arles,4,0,1011
+F1,2015/1/11,Toulouse,Nancy,1,0,1011
+F1,2016/1/11,Marseille,Bordeaux,2,1,1011
+F1,2019/1/11,Lille,Nancy,3,0,1011
+F1,2022/1/11,Lens,Caen,2,0,1011
+F1,2029/1/11,Arles,Paris SG,1,2,1011
+F1,2029/1/11,Caen,Auxerre,2,0,1011
+F1,2029/1/11,Lille,Lens,1,0,1011
+F1,2029/1/11,Lorient,Brest,2,0,1011
+F1,2029/1/11,Sochaux,Rennes,5,1,1011
+F1,2029/1/11,St Etienne,Toulouse,2,1,1011
+F1,2029/1/11,Valenciennes,Lyon,2,1,1011
+F1,1930/1/11,Bordeaux,Nice,2,0,1011
+F1,1930/1/11,Monaco,Marseille,0,0,1011
+F1,1930/1/11,Nancy,Montpellier,1,2,1011
+F1,2005/2/11,Brest,Nancy,2,1,1011
+F1,2005/2/11,Caen,Lorient,0,2,1011
+F1,2005/2/11,Lens,Valenciennes,1,1,1011
+F1,2005/2/11,Marseille,Arles,1,0,1011
+F1,2005/2/11,Montpellier,St Etienne,1,2,1011
+F1,2005/2/11,Nice,Sochaux,1,0,1011
+F1,2005/2/11,Rennes,Paris SG,1,0,1011
+F1,2006/2/11,Auxerre,Lille,1,1,1011
+F1,2006/2/11,Lyon,Bordeaux,0,0,1011
+F1,2006/2/11,Toulouse,Monaco,2,0,1011
+F1,2012/2/11,Arles,Montpellier,0,0,1011
+F1,2012/2/11,Bordeaux,Caen,1,2,1011
+F1,2012/2/11,Monaco,Lorient,3,1,1011
+F1,2012/2/11,Nancy,Auxerre,3,1,1011
+F1,2012/2/11,Paris SG,Lens,0,0,1011
+F1,2012/2/11,Sochaux,Marseille,1,2,1011
+F1,2012/2/11,St Etienne,Lyon,1,4,1011
+F1,2013/2/11,Lille,Toulouse,2,0,1011
+F1,2013/2/11,Rennes,Nice,2,0,1011
+F1,2013/2/11,Valenciennes,Brest,3,0,1011
+F1,2018/2/11,Lyon,Nancy,4,0,1011
+F1,2019/2/11,Auxerre,Arles,1,1,1011
+F1,2019/2/11,Brest,Monaco,2,0,1011
+F1,2019/2/11,Caen,Valenciennes,2,2,1011
+F1,2019/2/11,Lens,Sochaux,2,3,1011
+F1,2019/2/11,Lorient,Bordeaux,5,1,1011
+F1,2019/2/11,Marseille,St Etienne,2,1,1011
+F1,2020/2/11,Montpellier,Lille,1,0,1011
+F1,2020/2/11,Nice,Paris SG,0,3,1011
+F1,2020/2/11,Toulouse,Rennes,1,2,1011
+F1,2026/2/11,Arles,Brest,1,1,1011
+F1,2026/2/11,Bordeaux,Auxerre,3,0,1011
+F1,2026/2/11,Monaco,Caen,2,2,1011
+F1,2026/2/11,Rennes,Lens,2,0,1011
+F1,2026/2/11,Sochaux,Montpellier,0,0,1011
+F1,2026/2/11,St Etienne,Nice,0,2,1011
+F1,2026/2/11,Valenciennes,Lorient,0,0,1011
+F1,2027/2/11,Lille,Lyon,1,1,1011
+F1,2027/2/11,Nancy,Marseille,1,2,1011
+F1,2027/2/11,Paris SG,Toulouse,2,1,1011
+F1,2005/3/11,Auxerre,Paris SG,1,0,1011
+F1,2005/3/11,Caen,St Etienne,1,0,1011
+F1,2005/3/11,Lorient,Nancy,0,0,1011
+F1,2005/3/11,Montpellier,Rennes,0,1,1011
+F1,2005/3/11,Nice,Lens,0,0,1011
+F1,2005/3/11,Toulouse,Sochaux,0,1,1011
+F1,2005/3/11,Valenciennes,Monaco,0,0,1011
+F1,2006/3/11,Brest,Bordeaux,1,3,1011
+F1,2006/3/11,Lyon,Arles,5,0,1011
+F1,2006/3/11,Marseille,Lille,1,2,1011
+F1,2011/3/11,Rennes,Marseille,0,2,1011
+F1,2012/3/11,Arles,Lorient,3,3,1011
+F1,2012/3/11,Lens,Toulouse,0,1,1011
+F1,2012/3/11,Nancy,Caen,2,0,1011
+F1,2012/3/11,Nice,Auxerre,1,0,1011
+F1,2012/3/11,Sochaux,Lyon,0,2,1011
+F1,2012/3/11,St Etienne,Brest,2,0,1011
+F1,2013/3/11,Bordeaux,Monaco,0,1,1011
+F1,2013/3/11,Lille,Valenciennes,2,1,1011
+F1,2013/3/11,Paris SG,Montpellier,2,2,1011
+F1,2019/3/11,Auxerre,Sochaux,2,0,1011
+F1,2019/3/11,Brest,Lille,1,2,1011
+F1,2019/3/11,Lorient,St Etienne,0,0,1011
+F1,2019/3/11,Lyon,Rennes,1,1,1011
+F1,2019/3/11,Montpellier,Lens,1,4,1011
+F1,2019/3/11,Toulouse,Nice,1,1,1011
+F1,2019/3/11,Valenciennes,Bordeaux,2,2,1011
+F1,2020/3/11,Caen,Arles,2,0,1011
+F1,2020/3/11,Marseille,Paris SG,2,1,1011
+F1,2020/3/11,Monaco,Nancy,0,1,1011
+F1,2002/4/11,Arles,Monaco,0,2,1011
+F1,2002/4/11,Lille,Caen,3,1,1011
+F1,2002/4/11,Nancy,Bordeaux,0,0,1011
+F1,2002/4/11,Paris SG,Lorient,0,0,1011
+F1,2002/4/11,Rennes,Auxerre,0,0,1011
+F1,2002/4/11,Sochaux,Brest,2,1,1011
+F1,2002/4/11,Toulouse,Montpellier,0,1,1011
+F1,2003/4/11,Lens,Marseille,0,1,1011
+F1,2003/4/11,Nice,Lyon,2,2,1011
+F1,2003/4/11,St Etienne,Valenciennes,1,1,1011
+F1,2009/4/11,Auxerre,St Etienne,2,2,1011
+F1,2009/4/11,Bordeaux,Arles,0,0,1011
+F1,2009/4/11,Brest,Rennes,2,0,1011
+F1,2009/4/11,Caen,Paris SG,1,2,1011
+F1,2009/4/11,Lorient,Sochaux,1,1,1011
+F1,2009/4/11,Monaco,Lille,1,0,1011
+F1,2009/4/11,Valenciennes,Nancy,1,1,1011
+F1,2010/4/11,Lyon,Lens,3,0,1011
+F1,2010/4/11,Marseille,Toulouse,2,2,1011
+F1,2010/4/11,Montpellier,Nice,1,1,1011
+F1,2016/4/11,Lens,Brest,1,1,1011
+F1,2016/4/11,Lille,Bordeaux,1,1,1011
+F1,2016/4/11,Nice,Monaco,3,2,1011
+F1,2016/4/11,Rennes,Lorient,1,2,1011
+F1,2016/4/11,Sochaux,Caen,3,2,1011
+F1,2016/4/11,St Etienne,Nancy,2,1,1011
+F1,2016/4/11,Toulouse,Auxerre,0,1,1011
+F1,2017/4/11,Arles,Valenciennes,0,1,1011
+F1,2017/4/11,Montpellier,Marseille,1,2,1011
+F1,2017/4/11,Paris SG,Lyon,1,0,1011
+F1,2024/4/11,Auxerre,Lens,1,1,1011
+F1,2024/4/11,Bordeaux,St Etienne,2,0,1011
+F1,2024/4/11,Brest,Paris SG,2,2,1011
+F1,2024/4/11,Caen,Toulouse,1,1,1011
+F1,2024/4/11,Lorient,Lille,1,1,1011
+F1,2024/4/11,Monaco,Rennes,1,0,1011
+F1,2024/4/11,Nancy,Arles,0,0,1011
+F1,2024/4/11,Valenciennes,Sochaux,1,1,1011
+F1,2027/4/11,Lyon,Montpellier,3,2,1011
+F1,2027/4/11,Marseille,Nice,4,2,1011
+F1,1930/4/11,Lens,Lorient,2,3,1011
+F1,1930/4/11,Lille,Arles,5,0,1011
+F1,1930/4/11,Paris SG,Valenciennes,3,1,1011
+F1,1930/4/11,Rennes,Bordeaux,0,0,1011
+F1,1930/4/11,Sochaux,Nancy,1,0,1011
+F1,2001/5/11,Marseille,Auxerre,1,1,1011
+F1,2001/5/11,Montpellier,Brest,0,0,1011
+F1,2001/5/11,Nice,Caen,0,4,1011
+F1,2001/5/11,St Etienne,Monaco,1,1,1011
+F1,2001/5/11,Toulouse,Lyon,2,0,1011
+F1,2007/5/11,Arles,St Etienne,0,1,1011
+F1,2007/5/11,Auxerre,Montpellier,1,0,1011
+F1,2007/5/11,Bordeaux,Sochaux,0,4,1011
+F1,2007/5/11,Brest,Nice,0,0,1011
+F1,2007/5/11,Caen,Lens,1,1,1011
+F1,2007/5/11,Lorient,Toulouse,0,0,1011
+F1,2007/5/11,Monaco,Paris SG,1,1,1011
+F1,2007/5/11,Nancy,Lille,0,1,1011
+F1,2008/5/11,Lyon,Marseille,3,2,1011
+F1,2008/5/11,Valenciennes,Rennes,2,0,1011
+F1,2010/5/11,Paris SG,Nancy,2,2,1011
+F1,2010/5/11,St Etienne,Lille,1,2,1011
+F1,2011/5/11,Auxerre,Lyon,4,0,1011
+F1,2011/5/11,Lens,Bordeaux,1,0,1011
+F1,2011/5/11,Marseille,Brest,3,0,1011
+F1,2011/5/11,Montpellier,Lorient,3,1,1011
+F1,2011/5/11,Nice,Arles,3,2,1011
+F1,2011/5/11,Rennes,Caen,1,1,1011
+F1,2011/5/11,Sochaux,Monaco,3,0,1011
+F1,2011/5/11,Toulouse,Valenciennes,0,0,1011
+F1,2015/5/11,Arles,Toulouse,1,0,1011
+F1,2015/5/11,Caen,Montpellier,2,0,1011
+F1,2015/5/11,Lorient,Marseille,2,2,1011
+F1,2015/5/11,Monaco,Lens,1,1,1011
+F1,2015/5/11,Nancy,Nice,3,0,1011
+F1,2015/5/11,St Etienne,Rennes,1,2,1011
+F1,2015/5/11,Valenciennes,Auxerre,1,1,1011
+F1,2016/5/11,Brest,Lyon,1,1,1011
+F1,2018/5/11,Bordeaux,Paris SG,1,0,1011
+F1,2018/5/11,Lille,Sochaux,1,0,1011
+F1,2021/5/11,Auxerre,Brest,0,1,1011
+F1,2021/5/11,Lens,Arles,0,1,1011
+F1,2021/5/11,Lyon,Caen,0,0,1011
+F1,2021/5/11,Marseille,Valenciennes,2,2,1011
+F1,2021/5/11,Montpellier,Monaco,0,1,1011
+F1,2021/5/11,Nice,Lorient,2,0,1011
+F1,2021/5/11,Paris SG,Lille,2,2,1011
+F1,2021/5/11,Rennes,Nancy,0,2,1011
+F1,2021/5/11,Sochaux,St Etienne,2,1,1011
+F1,2021/5/11,Toulouse,Bordeaux,2,0,1011
+F1,2029/5/11,Arles,Sochaux,1,3,1011
+F1,2029/5/11,Bordeaux,Montpellier,2,0,1011
+F1,2029/5/11,Brest,Toulouse,0,2,1011
+F1,2029/5/11,Caen,Marseille,2,2,1011
+F1,2029/5/11,Lille,Rennes,3,2,1011
+F1,2029/5/11,Lorient,Auxerre,1,2,1011
+F1,2029/5/11,Monaco,Lyon,0,2,1011
+F1,2029/5/11,Nancy,Lens,4,0,1011
+F1,2029/5/11,St Etienne,Paris SG,1,1,1011
+F1,2029/5/11,Valenciennes,Nice,2,1,1011
+F1,2006/8/11,Ajaccio,Toulouse,0,2,1112
+F1,2006/8/11,Brest,Evian Thonon Gaillard,2,2,1112
+F1,2006/8/11,Caen,Valenciennes,1,0,1112
+F1,2006/8/11,Marseille,Sochaux,2,2,1112
+F1,2006/8/11,Montpellier,Auxerre,3,1,1112
+F1,2006/8/11,Nancy,Lille,1,1,1112
+F1,2006/8/11,Nice,Lyon,1,3,1112
+F1,2006/8/11,Paris SG,Lorient,0,1,1112
+F1,2007/8/11,Bordeaux,St Etienne,1,2,1112
+F1,2007/8/11,Dijon,Rennes,1,5,1112
+F1,2013/8/11,Lorient,Bordeaux,1,1,1112
+F1,2013/8/11,Lyon,Ajaccio,1,1,1112
+F1,2013/8/11,Rennes,Paris SG,1,1,1112
+F1,2013/8/11,Sochaux,Caen,1,2,1112
+F1,2013/8/11,St Etienne,Nancy,1,0,1112
+F1,2013/8/11,Toulouse,Dijon,2,0,1112
+F1,2013/8/11,Valenciennes,Brest,0,0,1112
+F1,2014/8/11,Auxerre,Marseille,2,2,1112
+F1,2014/8/11,Evian Thonon Gaillard,Nice,1,0,1112
+F1,2014/8/11,Lille,Montpellier,0,1,1112
+F1,2020/8/11,Ajaccio,Evian Thonon Gaillard,1,1,1112
+F1,2020/8/11,Bordeaux,Auxerre,1,1,1112
+F1,2020/8/11,Brest,Lyon,1,1,1112
+F1,2020/8/11,Caen,Lille,1,2,1112
+F1,2020/8/11,Dijon,Lorient,2,0,1112
+F1,2020/8/11,Nice,Toulouse,1,1,1112
+F1,2021/8/11,Marseille,St Etienne,0,0,1112
+F1,2021/8/11,Montpellier,Rennes,4,0,1112
+F1,2021/8/11,Nancy,Sochaux,1,2,1112
+F1,2021/8/11,Paris SG,Valenciennes,2,1,1112
+F1,2027/8/11,Auxerre,Ajaccio,4,1,1112
+F1,2027/8/11,Evian Thonon Gaillard,Dijon,0,1,1112
+F1,2027/8/11,Lorient,Nancy,2,1,1112
+F1,2027/8/11,Lyon,Montpellier,2,1,1112
+F1,2027/8/11,Nice,Brest,0,0,1112
+F1,2027/8/11,Valenciennes,Bordeaux,1,2,1112
+F1,2028/8/11,Lille,Marseille,3,2,1112
+F1,2028/8/11,Rennes,Caen,3,2,1112
+F1,2028/8/11,Sochaux,St Etienne,2,1,1112
+F1,2028/8/11,Toulouse,Paris SG,1,3,1112
+F1,2010/9/11,Ajaccio,Valenciennes,3,1,1112
+F1,2010/9/11,Bordeaux,Evian Thonon Gaillard,0,0,1112
+F1,2010/9/11,Caen,Toulouse,0,1,1112
+F1,2010/9/11,Dijon,Lyon,1,2,1112
+F1,2010/9/11,Marseille,Rennes,0,1,1112
+F1,2010/9/11,Sochaux,Lorient,1,1,1112
+F1,2010/9/11,St Etienne,Lille,1,3,1112
+F1,2011/9/11,Montpellier,Nice,1,0,1112
+F1,2011/9/11,Nancy,Auxerre,0,0,1112
+F1,2011/9/11,Paris SG,Brest,1,0,1112
+F1,2017/9/11,Auxerre,Caen,1,1,1112
+F1,2017/9/11,Brest,Montpellier,2,2,1112
+F1,2017/9/11,Lille,Sochaux,2,2,1112
+F1,2017/9/11,Lorient,St Etienne,3,0,1112
+F1,2017/9/11,Nice,Ajaccio,3,0,1112
+F1,2017/9/11,Toulouse,Bordeaux,3,2,1112
+F1,2017/9/11,Valenciennes,Dijon,4,0,1112
+F1,2018/9/11,Evian Thonon Gaillard,Paris SG,2,2,1112
+F1,2018/9/11,Lyon,Marseille,2,0,1112
+F1,2018/9/11,Rennes,Nancy,1,1,1112
+F1,2020/9/11,Bordeaux,Lille,1,1,1112
+F1,2021/9/11,Ajaccio,Montpellier,1,3,1112
+F1,2021/9/11,Caen,Lyon,1,0,1112
+F1,2021/9/11,Dijon,Brest,1,0,1112
+F1,2021/9/11,Lorient,Auxerre,1,1,1112
+F1,2021/9/11,Marseille,Evian Thonon Gaillard,2,0,1112
+F1,2021/9/11,Nancy,Valenciennes,1,1,1112
+F1,2021/9/11,Paris SG,Nice,2,1,1112
+F1,2021/9/11,Sochaux,Rennes,2,6,1112
+F1,2021/9/11,St Etienne,Toulouse,1,1,1112
+F1,2024/9/11,Evian Thonon Gaillard,Caen,2,4,1112
+F1,2024/9/11,Lille,Lorient,1,1,1112
+F1,2024/9/11,Lyon,Bordeaux,3,1,1112
+F1,2024/9/11,Montpellier,Paris SG,0,3,1112
+F1,2024/9/11,Nice,Dijon,1,1,1112
+F1,2024/9/11,Toulouse,Nancy,1,0,1112
+F1,2024/9/11,Valenciennes,Marseille,1,1,1112
+F1,2025/9/11,Auxerre,Sochaux,4,1,1112
+F1,2025/9/11,Brest,Ajaccio,1,1,1112
+F1,2025/9/11,Rennes,St Etienne,1,1,1112
+F1,2001/10/11,Bordeaux,Montpellier,2,2,1112
+F1,2001/10/11,Caen,Nice,1,1,1112
+F1,2001/10/11,Dijon,Ajaccio,1,1,1112
+F1,2001/10/11,Lorient,Valenciennes,2,0,1112
+F1,2001/10/11,Nancy,Evian Thonon Gaillard,1,1,1112
+F1,2001/10/11,Sochaux,Toulouse,3,0,1112
+F1,2001/10/11,St Etienne,Auxerre,1,1,1112
+F1,2002/10/11,Lille,Rennes,2,0,1112
+F1,2002/10/11,Marseille,Brest,1,1,1112
+F1,2002/10/11,Paris SG,Lyon,2,0,1112
+F1,2015/10/11,Auxerre,Lille,1,3,1112
+F1,2015/10/11,Brest,Caen,1,1,1112
+F1,2015/10/11,Evian Thonon Gaillard,St Etienne,1,2,1112
+F1,2015/10/11,Lyon,Nancy,3,1,1112
+F1,2015/10/11,Montpellier,Dijon,5,3,1112
+F1,2015/10/11,Nice,Bordeaux,3,0,1112
+F1,2015/10/11,Toulouse,Marseille,0,0,1112
+F1,2016/10/11,Ajaccio,Paris SG,1,3,1112
+F1,2016/10/11,Rennes,Lorient,2,0,1112
+F1,2016/10/11,Valenciennes,Sochaux,3,0,1112
+F1,2022/10/11,Bordeaux,Brest,1,1,1112
+F1,2022/10/11,Caen,Montpellier,1,3,1112
+F1,2022/10/11,Lorient,Toulouse,0,0,1112
+F1,2022/10/11,Marseille,Ajaccio,2,0,1112
+F1,2022/10/11,Nancy,Nice,1,0,1112
+F1,2022/10/11,Sochaux,Evian Thonon Gaillard,1,1,1112
+F1,2022/10/11,St Etienne,Valenciennes,1,0,1112
+F1,2023/10/11,Auxerre,Rennes,0,1,1112
+F1,2023/10/11,Lille,Lyon,3,1,1112
+F1,2023/10/11,Paris SG,Dijon,2,0,1112
+F1,2029/10/11,Ajaccio,Bordeaux,0,2,1112
+F1,2029/10/11,Brest,Lorient,3,1,1112
+F1,2029/10/11,Dijon,Marseille,2,3,1112
+F1,2029/10/11,Evian Thonon Gaillard,Auxerre,3,1,1112
+F1,2029/10/11,Lyon,St Etienne,2,0,1112
+F1,2029/10/11,Montpellier,Nancy,2,0,1112
+F1,2029/10/11,Paris SG,Caen,4,2,1112
+F1,1930/10/11,Nice,Sochaux,1,1,1112
+F1,1930/10/11,Toulouse,Rennes,1,0,1112
+F1,1930/10/11,Valenciennes,Lille,0,0,1112
+F1,2005/11/11,Lille,Evian Thonon Gaillard,1,1,1112
+F1,2006/11/11,Auxerre,Toulouse,2,0,1112
+F1,2006/11/11,Bordeaux,Paris SG,1,1,1112
+F1,2006/11/11,Caen,Dijon,3,0,1112
+F1,2006/11/11,Lorient,Ajaccio,2,0,1112
+F1,2006/11/11,Marseille,Nice,2,0,1112
+F1,2006/11/11,Nancy,Brest,2,1,1112
+F1,2006/11/11,Rennes,Valenciennes,1,1,1112
+F1,2006/11/11,Sochaux,Lyon,2,1,1112
+F1,2006/11/11,St Etienne,Montpellier,1,1,1112
+F1,2018/11/11,Lyon,Rennes,1,2,1112
+F1,2018/11/11,Toulouse,Lille,0,0,1112
+F1,2019/11/11,Ajaccio,Caen,2,2,1112
+F1,2019/11/11,Dijon,Bordeaux,2,0,1112
+F1,2019/11/11,Evian Thonon Gaillard,Lorient,2,1,1112
+F1,2019/11/11,Montpellier,Marseille,1,0,1112
+F1,2019/11/11,Nice,St Etienne,0,2,1112
+F1,2020/11/11,Brest,Sochaux,2,0,1112
+F1,2020/11/11,Paris SG,Nancy,0,1,1112
+F1,2020/11/11,Valenciennes,Auxerre,2,1,1112
+F1,2026/11/11,Bordeaux,Caen,2,0,1112
+F1,2026/11/11,Lille,Brest,2,0,1112
+F1,2026/11/11,Nancy,Dijon,1,2,1112
+F1,2026/11/11,Rennes,Evian Thonon Gaillard,3,2,1112
+F1,2026/11/11,Sochaux,Montpellier,1,3,1112
+F1,2026/11/11,St Etienne,Ajaccio,3,1,1112
+F1,2026/11/11,Toulouse,Valenciennes,2,0,1112
+F1,2027/11/11,Auxerre,Lyon,0,3,1112
+F1,2027/11/11,Lorient,Nice,1,0,1112
+F1,2027/11/11,Marseille,Paris SG,3,0,1112
+F1,2002/12/11,Caen,Marseille,1,2,1112
+F1,2003/12/11,Ajaccio,Lille,2,3,1112
+F1,2003/12/11,Brest,St Etienne,2,2,1112
+F1,2003/12/11,Dijon,Sochaux,0,0,1112
+F1,2003/12/11,Evian Thonon Gaillard,Valenciennes,2,1,1112
+F1,2003/12/11,Montpellier,Lorient,4,0,1112
+F1,2003/12/11,Nice,Rennes,2,0,1112
+F1,2004/12/11,Bordeaux,Nancy,2,0,1112
+F1,2004/12/11,Lyon,Toulouse,3,2,1112
+F1,2004/12/11,Paris SG,Auxerre,3,2,1112
+F1,2010/12/11,Marseille,Bordeaux,0,0,1112
+F1,2010/12/11,Nancy,Ajaccio,2,2,1112
+F1,2010/12/11,Rennes,Brest,1,1,1112
+F1,2010/12/11,Sochaux,Paris SG,0,1,1112
+F1,2010/12/11,St Etienne,Caen,2,0,1112
+F1,2010/12/11,Toulouse,Evian Thonon Gaillard,2,1,1112
+F1,2010/12/11,Valenciennes,Montpellier,1,0,1112
+F1,2011/12/11,Auxerre,Nice,2,1,1112
+F1,2011/12/11,Lille,Dijon,2,0,1112
+F1,2011/12/11,Lorient,Lyon,0,1,1112
+F1,2017/12/11,Brest,Auxerre,1,0,1112
+F1,2017/12/11,Caen,Nancy,1,2,1112
+F1,2017/12/11,Dijon,St Etienne,1,2,1112
+F1,2017/12/11,Lyon,Evian Thonon Gaillard,2,1,1112
+F1,2017/12/11,Marseille,Lorient,2,1,1112
+F1,2017/12/11,Montpellier,Toulouse,1,1,1112
+F1,2017/12/11,Nice,Valenciennes,2,0,1112
+F1,2018/12/11,Ajaccio,Rennes,1,0,1112
+F1,2018/12/11,Bordeaux,Sochaux,1,0,1112
+F1,2018/12/11,Paris SG,Lille,0,0,1112
+F1,2020/12/11,Nancy,Marseille,1,3,1112
+F1,2021/12/11,Auxerre,Dijon,2,2,1112
+F1,2021/12/11,Evian Thonon Gaillard,Montpellier,4,2,1112
+F1,2021/12/11,Lille,Nice,4,4,1112
+F1,2021/12/11,Lorient,Caen,0,0,1112
+F1,2021/12/11,Rennes,Bordeaux,1,0,1112
+F1,2021/12/11,Sochaux,Ajaccio,0,2,1112
+F1,2021/12/11,St Etienne,Paris SG,0,1,1112
+F1,2021/12/11,Toulouse,Brest,0,0,1112
+F1,2021/12/11,Valenciennes,Lyon,1,0,1112
+F1,2014/1/12,Ajaccio,Auxerre,2,1,1112
+F1,2014/1/12,Bordeaux,Valenciennes,2,1,1112
+F1,2014/1/12,Brest,Nice,1,0,1112
+F1,2014/1/12,Caen,Rennes,0,2,1112
+F1,2014/1/12,Dijon,Evian Thonon Gaillard,3,1,1112
+F1,2014/1/12,Montpellier,Lyon,1,0,1112
+F1,2014/1/12,Nancy,Lorient,2,2,1112
+F1,2014/1/12,Paris SG,Toulouse,3,1,1112
+F1,2014/1/12,St Etienne,Sochaux,1,0,1112
+F1,2015/1/12,Marseille,Lille,2,0,1112
+F1,2028/1/12,Auxerre,Nancy,1,3,1112
+F1,2028/1/12,Brest,Paris SG,0,1,1112
+F1,2028/1/12,Lille,St Etienne,3,0,1112
+F1,2028/1/12,Lorient,Sochaux,1,1,1112
+F1,2028/1/12,Lyon,Dijon,3,1,1112
+F1,2028/1/12,Nice,Montpellier,0,1,1112
+F1,2028/1/12,Toulouse,Caen,1,0,1112
+F1,2029/1/12,Evian Thonon Gaillard,Bordeaux,0,0,1112
+F1,2029/1/12,Rennes,Marseille,1,2,1112
+F1,2029/1/12,Valenciennes,Ajaccio,1,2,1112
+F1,2004/2/12,Ajaccio,Nice,1,1,1112
+F1,2004/2/12,Bordeaux,Toulouse,2,0,1112
+F1,2004/2/12,Dijon,Valenciennes,1,2,1112
+F1,2004/2/12,Montpellier,Brest,1,0,1112
+F1,2004/2/12,Nancy,Rennes,0,0,1112
+F1,2004/2/12,Paris SG,Evian Thonon Gaillard,3,1,1112
+F1,2005/2/12,Marseille,Lyon,2,2,1112
+F1,2011/2/12,Auxerre,Lorient,1,1,1112
+F1,2011/2/12,Brest,Dijon,1,1,1112
+F1,2011/2/12,Lyon,Caen,1,2,1112
+F1,2011/2/12,Montpellier,Ajaccio,3,0,1112
+F1,2011/2/12,Rennes,Sochaux,1,0,1112
+F1,2011/2/12,Valenciennes,Nancy,1,0,1112
+F1,2012/2/12,Lille,Bordeaux,4,5,1112
+F1,2012/2/12,Nice,Paris SG,0,0,1112
+F1,2012/2/12,Toulouse,St Etienne,0,1,1112
+F1,2018/2/12,Ajaccio,Brest,0,0,1112
+F1,2018/2/12,Caen,Evian Thonon Gaillard,2,2,1112
+F1,2018/2/12,Dijon,Nice,3,0,1112
+F1,2018/2/12,Lorient,Lille,0,1,1112
+F1,2018/2/12,Marseille,Valenciennes,1,1,1112
+F1,2018/2/12,Nancy,Toulouse,0,3,1112
+F1,2018/2/12,Sochaux,Auxerre,0,0,1112
+F1,2019/2/12,Bordeaux,Lyon,1,0,1112
+F1,2019/2/12,Paris SG,Montpellier,2,2,1112
+F1,2019/2/12,St Etienne,Rennes,4,0,1112
+F1,2022/2/12,Caen,Auxerre,2,1,1112
+F1,2022/2/12,Sochaux,Lille,0,1,1112
+F1,2022/2/12,St Etienne,Lorient,4,2,1112
+F1,2025/2/12,Ajaccio,Dijon,2,1,1112
+F1,2025/2/12,Auxerre,St Etienne,0,0,1112
+F1,2025/2/12,Evian Thonon Gaillard,Nancy,2,0,1112
+F1,2025/2/12,Lyon,Paris SG,4,4,1112
+F1,2025/2/12,Montpellier,Bordeaux,1,0,1112
+F1,2025/2/12,Nice,Caen,1,0,1112
+F1,2025/2/12,Valenciennes,Lorient,2,0,1112
+F1,2026/2/12,Brest,Marseille,1,0,1112
+F1,2026/2/12,Rennes,Lille,1,1,1112
+F1,2026/2/12,Toulouse,Sochaux,2,0,1112
+F1,2003/3/12,Bordeaux,Nice,1,2,1112
+F1,2003/3/12,Dijon,Montpellier,1,1,1112
+F1,2003/3/12,Lille,Auxerre,2,2,1112
+F1,2003/3/12,Marseille,Toulouse,0,1,1112
+F1,2003/3/12,Nancy,Lyon,2,0,1112
+F1,2003/3/12,Sochaux,Valenciennes,1,1,1112
+F1,2003/3/12,St Etienne,Evian Thonon Gaillard,0,2,1112
+F1,2004/3/12,Caen,Brest,0,0,1112
+F1,2004/3/12,Lorient,Rennes,0,2,1112
+F1,2004/3/12,Paris SG,Ajaccio,4,1,1112
+F1,2006/3/12,Evian Thonon Gaillard,Marseille,2,0,1112
+F1,2009/3/12,Ajaccio,Marseille,1,0,1112
+F1,2010/3/12,Brest,Bordeaux,0,2,1112
+F1,2010/3/12,Evian Thonon Gaillard,Sochaux,2,3,1112
+F1,2010/3/12,Lyon,Lille,2,1,1112
+F1,2010/3/12,Nice,Nancy,1,1,1112
+F1,2010/3/12,Toulouse,Lorient,1,1,1112
+F1,2010/3/12,Valenciennes,St Etienne,1,2,1112
+F1,2011/3/12,Dijon,Paris SG,1,2,1112
+F1,2011/3/12,Montpellier,Caen,3,0,1112
+F1,2011/3/12,Rennes,Auxerre,1,1,1112
+F1,2017/3/12,Auxerre,Evian Thonon Gaillard,0,2,1112
+F1,2017/3/12,Bordeaux,Ajaccio,1,1,1112
+F1,2017/3/12,Caen,Paris SG,2,2,1112
+F1,2017/3/12,Lorient,Brest,2,1,1112
+F1,2017/3/12,Marseille,Dijon,1,2,1112
+F1,2017/3/12,Nancy,Montpellier,1,0,1112
+F1,2017/3/12,St Etienne,Lyon,0,1,1112
+F1,2018/3/12,Lille,Valenciennes,4,0,1112
+F1,2018/3/12,Rennes,Toulouse,0,1,1112
+F1,2018/3/12,Sochaux,Nice,2,0,1112
+F1,2024/3/12,Ajaccio,Lorient,1,1,1112
+F1,2024/3/12,Brest,Nancy,0,1,1112
+F1,2024/3/12,Evian Thonon Gaillard,Lille,0,3,1112
+F1,2024/3/12,Lyon,Sochaux,2,1,1112
+F1,2024/3/12,Montpellier,St Etienne,1,0,1112
+F1,2024/3/12,Nice,Marseille,1,1,1112
+F1,2024/3/12,Valenciennes,Rennes,1,0,1112
+F1,2025/3/12,Dijon,Caen,2,0,1112
+F1,2025/3/12,Paris SG,Bordeaux,1,1,1112
+F1,2025/3/12,Toulouse,Auxerre,1,0,1112
+F1,1931/3/12,Auxerre,Valenciennes,2,0,1112
+F1,1931/3/12,Bordeaux,Dijon,1,1,1112
+F1,1931/3/12,Lorient,Evian Thonon Gaillard,0,1,1112
+F1,1931/3/12,Nancy,Paris SG,2,1,1112
+F1,1931/3/12,Sochaux,Brest,2,1,1112
+F1,1931/3/12,St Etienne,Nice,2,3,1112
+F1,2001/4/12,Caen,Ajaccio,0,0,1112
+F1,2001/4/12,Lille,Toulouse,2,1,1112
+F1,2001/4/12,Rennes,Lyon,1,1,1112
+F1,2007/4/12,Ajaccio,St Etienne,1,1,1112
+F1,2007/4/12,Brest,Lille,3,1,1112
+F1,2007/4/12,Dijon,Nancy,0,2,1112
+F1,2007/4/12,Evian Thonon Gaillard,Rennes,1,3,1112
+F1,2007/4/12,Lyon,Auxerre,2,1,1112
+F1,2007/4/12,Montpellier,Sochaux,2,1,1112
+F1,2007/4/12,Valenciennes,Toulouse,2,0,1112
+F1,2008/4/12,Caen,Bordeaux,1,0,1112
+F1,2008/4/12,Nice,Lorient,2,0,1112
+F1,2008/4/12,Paris SG,Marseille,2,1,1112
+F1,2011/4/12,Marseille,Montpellier,1,3,1112
+F1,2015/4/12,Auxerre,Paris SG,1,1,1112
+F1,2015/4/12,Lille,Ajaccio,4,1,1112
+F1,2015/4/12,Lorient,Montpellier,2,1,1112
+F1,2015/4/12,Nancy,Bordeaux,2,2,1112
+F1,2015/4/12,Sochaux,Dijon,1,0,1112
+F1,2015/4/12,St Etienne,Brest,2,1,1112
+F1,2015/4/12,Valenciennes,Evian Thonon Gaillard,0,3,1112
+F1,2016/4/12,Rennes,Nice,3,1,1112
+F1,2018/4/12,Marseille,Caen,1,1,1112
+F1,2018/4/12,Toulouse,Lyon,3,0,1112
+F1,2021/4/12,Bordeaux,Marseille,2,1,1112
+F1,2021/4/12,Brest,Rennes,0,1,1112
+F1,2021/4/12,Caen,St Etienne,1,4,1112
+F1,2021/4/12,Dijon,Lille,0,2,1112
+F1,2021/4/12,Evian Thonon Gaillard,Toulouse,2,1,1112
+F1,2021/4/12,Montpellier,Valenciennes,1,0,1112
+F1,2021/4/12,Nice,Auxerre,1,0,1112
+F1,2022/4/12,Ajaccio,Nancy,0,0,1112
+F1,2022/4/12,Lyon,Lorient,3,2,1112
+F1,2022/4/12,Paris SG,Sochaux,6,1,1112
+F1,2027/4/12,Lorient,Marseille,2,1,1112
+F1,2027/4/12,Toulouse,Montpellier,0,1,1112
+F1,2029/4/12,Auxerre,Brest,4,0,1112
+F1,2029/4/12,Lille,Paris SG,2,1,1112
+F1,2029/4/12,Nancy,Caen,1,1,1112
+F1,2029/4/12,Rennes,Ajaccio,3,1,1112
+F1,2029/4/12,Sochaux,Bordeaux,0,3,1112
+F1,2029/4/12,St Etienne,Dijon,1,0,1112
+F1,2029/4/12,Valenciennes,Nice,2,0,1112
+F1,2001/5/12,Montpellier,Evian Thonon Gaillard,2,2,1112
+F1,2002/5/12,Ajaccio,Sochaux,2,1,1112
+F1,2002/5/12,Bordeaux,Rennes,2,0,1112
+F1,2002/5/12,Brest,Toulouse,0,0,1112
+F1,2002/5/12,Caen,Lorient,1,0,1112
+F1,2002/5/12,Lyon,Valenciennes,4,1,1112
+F1,2002/5/12,Marseille,Nancy,1,0,1112
+F1,2002/5/12,Nice,Lille,0,1,1112
+F1,2002/5/12,Paris SG,St Etienne,2,0,1112
+F1,2003/5/12,Dijon,Auxerre,0,2,1112
+F1,2006/5/12,Evian Thonon Gaillard,Ajaccio,2,1,1112
+F1,2006/5/12,Lyon,Brest,1,1,1112
+F1,2006/5/12,Valenciennes,Paris SG,3,4,1112
+F1,2007/5/12,Auxerre,Bordeaux,2,4,1112
+F1,2007/5/12,Lille,Caen,3,0,1112
+F1,2007/5/12,Lorient,Dijon,0,0,1112
+F1,2007/5/12,Rennes,Montpellier,0,2,1112
+F1,2007/5/12,Sochaux,Nancy,1,0,1112
+F1,2007/5/12,St Etienne,Marseille,0,0,1112
+F1,2007/5/12,Toulouse,Nice,0,0,1112
+F1,2010/5/12,Evian Thonon Gaillard,Lyon,1,3,1112
+F1,2013/5/12,Ajaccio,Lyon,1,1,1112
+F1,2013/5/12,Bordeaux,Lorient,1,0,1112
+F1,2013/5/12,Brest,Valenciennes,1,0,1112
+F1,2013/5/12,Caen,Sochaux,1,3,1112
+F1,2013/5/12,Dijon,Toulouse,1,1,1112
+F1,2013/5/12,Marseille,Auxerre,3,0,1112
+F1,2013/5/12,Montpellier,Lille,1,0,1112
+F1,2013/5/12,Nancy,St Etienne,3,2,1112
+F1,2013/5/12,Nice,Evian Thonon Gaillard,1,1,1112
+F1,2013/5/12,Paris SG,Rennes,3,0,1112
+F1,2020/5/12,Auxerre,Montpellier,1,2,1112
+F1,2020/5/12,Evian Thonon Gaillard,Brest,0,1,1112
+F1,2020/5/12,Lille,Nancy,4,1,1112
+F1,2020/5/12,Lorient,Paris SG,1,2,1112
+F1,2020/5/12,Lyon,Nice,3,4,1112
+F1,2020/5/12,Rennes,Dijon,5,0,1112
+F1,2020/5/12,Sochaux,Marseille,1,0,1112
+F1,2020/5/12,St Etienne,Bordeaux,2,3,1112
+F1,2020/5/12,Toulouse,Ajaccio,0,2,1112
+F1,2020/5/12,Valenciennes,Caen,3,1,1112
+F1,2010/8/12,Montpellier,Toulouse,1,1,1213
+F1,2011/8/12,Evian Thonon Gaillard,Bordeaux,2,3,1213
+F1,2011/8/12,Nancy,Brest,1,0,1213
+F1,2011/8/12,Nice,Ajaccio,0,1,1213
+F1,2011/8/12,Paris SG,Lorient,2,2,1213
+F1,2011/8/12,Rennes,Lyon,0,1,1213
+F1,2011/8/12,Sochaux,Bastia,2,3,1213
+F1,2011/8/12,St Etienne,Lille,1,2,1213
+F1,2011/8/12,Troyes,Valenciennes,0,1,1213
+F1,2012/8/12,Reims,Marseille,0,1,1213
+F1,2017/8/12,Lille,Nancy,1,1,1213
+F1,2018/8/12,Bastia,Reims,2,1,1213
+F1,2018/8/12,Brest,Evian Thonon Gaillard,1,0,1213
+F1,2018/8/12,Lorient,Montpellier,2,1,1213
+F1,2018/8/12,Lyon,Troyes,4,1,1213
+F1,2018/8/12,Toulouse,St Etienne,2,1,1213
+F1,2018/8/12,Valenciennes,Nice,0,0,1213
+F1,2019/8/12,Ajaccio,Paris SG,0,0,1213
+F1,2019/8/12,Bordeaux,Rennes,1,0,1213
+F1,2019/8/12,Marseille,Sochaux,2,0,1213
+F1,2024/8/12,Evian Thonon Gaillard,Lyon,1,1,1213
+F1,2025/8/12,Nancy,Toulouse,0,1,1213
+F1,2025/8/12,Nice,Lille,2,2,1213
+F1,2025/8/12,Reims,Sochaux,1,0,1213
+F1,2025/8/12,Rennes,Bastia,3,2,1213
+F1,2025/8/12,Troyes,Lorient,2,2,1213
+F1,2025/8/12,Valenciennes,Ajaccio,3,0,1213
+F1,2026/8/12,Montpellier,Marseille,0,1,1213
+F1,2026/8/12,Paris SG,Bordeaux,0,0,1213
+F1,2026/8/12,St Etienne,Brest,4,0,1213
+F1,2001/9/12,Ajaccio,Evian Thonon Gaillard,2,0,1213
+F1,2001/9/12,Bastia,St Etienne,0,3,1213
+F1,2001/9/12,Brest,Troyes,2,1,1213
+F1,2001/9/12,Lorient,Nancy,3,0,1213
+F1,2001/9/12,Lyon,Valenciennes,3,2,1213
+F1,2001/9/12,Sochaux,Montpellier,1,3,1213
+F1,2001/9/12,Toulouse,Reims,1,1,1213
+F1,2002/9/12,Bordeaux,Nice,1,1,1213
+F1,2002/9/12,Lille,Paris SG,1,2,1213
+F1,2002/9/12,Marseille,Rennes,3,1,1213
+F1,2014/9/12,Paris SG,Toulouse,2,0,1213
+F1,2014/9/12,Reims,Montpellier,3,1,1213
+F1,2015/9/12,Evian Thonon Gaillard,Bastia,3,0,1213
+F1,2015/9/12,Nice,Brest,4,2,1213
+F1,2015/9/12,St Etienne,Sochaux,0,1,1213
+F1,2015/9/12,Troyes,Lille,1,1,1213
+F1,2015/9/12,Valenciennes,Bordeaux,0,0,1213
+F1,2016/9/12,Lyon,Ajaccio,2,0,1213
+F1,2016/9/12,Nancy,Marseille,0,1,1213
+F1,2016/9/12,Rennes,Lorient,1,2,1213
+F1,2021/9/12,Montpellier,St Etienne,1,1,1213
+F1,2022/9/12,Bastia,Paris SG,0,4,1213
+F1,2022/9/12,Brest,Valenciennes,2,1,1213
+F1,2022/9/12,Lorient,Nice,1,1,1213
+F1,2022/9/12,Reims,Nancy,2,0,1213
+F1,2022/9/12,Sochaux,Troyes,3,1,1213
+F1,2022/9/12,Toulouse,Rennes,2,2,1213
+F1,2023/9/12,Bordeaux,Ajaccio,2,2,1213
+F1,2023/9/12,Lille,Lyon,1,1,1213
+F1,2023/9/12,Marseille,Evian Thonon Gaillard,1,0,1213
+F1,2028/9/12,Rennes,Lille,2,0,1213
+F1,2029/9/12,Ajaccio,Brest,1,0,1213
+F1,2029/9/12,Evian Thonon Gaillard,Lorient,1,1,1213
+F1,2029/9/12,Nancy,Montpellier,0,2,1213
+F1,2029/9/12,Nice,Bastia,2,2,1213
+F1,2029/9/12,Paris SG,Sochaux,2,0,1213
+F1,2029/9/12,Troyes,Toulouse,0,2,1213
+F1,1930/9/12,Lyon,Bordeaux,0,2,1213
+F1,1930/9/12,St Etienne,Reims,0,0,1213
+F1,1930/9/12,Valenciennes,Marseille,4,1,1213
+F1,2005/10/12,St Etienne,Nancy,4,0,1213
+F1,2006/10/12,Bastia,Troyes,3,2,1213
+F1,2006/10/12,Lille,Ajaccio,2,0,1213
+F1,2006/10/12,Montpellier,Evian Thonon Gaillard,2,3,1213
+F1,2006/10/12,Reims,Nice,3,1,1213
+F1,2006/10/12,Sochaux,Rennes,0,1,1213
+F1,2006/10/12,Toulouse,Valenciennes,2,2,1213
+F1,2007/10/12,Brest,Bordeaux,1,1,1213
+F1,2007/10/12,Lorient,Lyon,1,1,1213
+F1,2007/10/12,Marseille,Paris SG,2,2,1213
+F1,2019/10/12,Bordeaux,Lille,1,1,1213
+F1,2020/10/12,Evian Thonon Gaillard,Toulouse,0,4,1213
+F1,2020/10/12,Nancy,Sochaux,1,1,1213
+F1,2020/10/12,Nice,St Etienne,1,1,1213
+F1,2020/10/12,Paris SG,Reims,1,0,1213
+F1,2020/10/12,Rennes,Montpellier,2,1,1213
+F1,2020/10/12,Valenciennes,Lorient,6,1,1213
+F1,2021/10/12,Ajaccio,Bastia,0,0,1213
+F1,2021/10/12,Lyon,Brest,1,0,1213
+F1,2021/10/12,Troyes,Marseille,1,0,1213
+F1,2026/10/12,St Etienne,Rennes,2,0,1213
+F1,2027/10/12,Lille,Valenciennes,2,1,1213
+F1,2027/10/12,Montpellier,Nice,3,1,1213
+F1,2027/10/12,Nancy,Paris SG,0,1,1213
+F1,2027/10/12,Reims,Troyes,1,1,1213
+F1,2027/10/12,Toulouse,Brest,3,1,1213
+F1,2028/10/12,Bastia,Bordeaux,3,1,1213
+F1,2028/10/12,Lorient,Ajaccio,4,4,1213
+F1,2002/11/12,Brest,Lorient,2,0,1213
+F1,2003/11/12,Evian Thonon Gaillard,Lille,0,2,1213
+F1,2003/11/12,Nice,Nancy,2,1,1213
+F1,2003/11/12,Paris SG,St Etienne,1,2,1213
+F1,2003/11/12,Rennes,Reims,1,0,1213
+F1,2003/11/12,Troyes,Montpellier,1,1,1213
+F1,2003/11/12,Valenciennes,Sochaux,3,1,1213
+F1,2004/11/12,Ajaccio,Marseille,0,2,1213
+F1,2004/11/12,Bordeaux,Toulouse,1,0,1213
+F1,2004/11/12,Lyon,Bastia,5,2,1213
+F1,2007/11/12,Sochaux,Evian Thonon Gaillard,2,1,1213
+F1,2009/11/12,Nancy,Rennes,1,3,1213
+F1,2010/11/12,Bastia,Valenciennes,2,3,1213
+F1,2010/11/12,Lille,Brest,1,0,1213
+F1,2010/11/12,Reims,Evian Thonon Gaillard,1,2,1213
+F1,2010/11/12,St Etienne,Troyes,2,0,1213
+F1,2010/11/12,Toulouse,Ajaccio,2,4,1213
+F1,2011/11/12,Lorient,Bordeaux,0,4,1213
+F1,2011/11/12,Marseille,Nice,2,2,1213
+F1,2011/11/12,Montpellier,Paris SG,1,1,1213
+F1,2011/11/12,Sochaux,Lyon,1,1,1213
+F1,2016/11/12,Lorient,Lille,2,0,1213
+F1,2017/11/12,Ajaccio,Sochaux,0,1,1213
+F1,2017/11/12,Brest,Bastia,3,0,1213
+F1,2017/11/12,Evian Thonon Gaillard,St Etienne,2,2,1213
+F1,2017/11/12,Paris SG,Rennes,1,2,1213
+F1,2017/11/12,Troyes,Nancy,3,3,1213
+F1,2017/11/12,Valenciennes,Montpellier,1,1,1213
+F1,2018/11/12,Bordeaux,Marseille,1,0,1213
+F1,2018/11/12,Lyon,Reims,3,0,1213
+F1,2018/11/12,Nice,Toulouse,1,0,1213
+F1,2023/11/12,St Etienne,Valenciennes,1,0,1213
+F1,2024/11/12,Bastia,Lorient,2,1,1213
+F1,2024/11/12,Nancy,Ajaccio,1,1,1213
+F1,2024/11/12,Paris SG,Troyes,4,0,1213
+F1,2024/11/12,Reims,Brest,0,0,1213
+F1,2024/11/12,Rennes,Evian Thonon Gaillard,0,1,1213
+F1,2024/11/12,Sochaux,Nice,0,1,1213
+F1,2025/11/12,Marseille,Lille,1,0,1213
+F1,2025/11/12,Montpellier,Bordeaux,1,0,1213
+F1,2025/11/12,Toulouse,Lyon,3,0,1213
+F1,2028/11/12,Marseille,Lyon,1,4,1213
+F1,1930/11/12,Ajaccio,St Etienne,0,0,1213
+F1,2001/12/12,Bordeaux,Sochaux,2,2,1213
+F1,2001/12/12,Evian Thonon Gaillard,Nancy,1,1,1213
+F1,2001/12/12,Lille,Bastia,0,0,1213
+F1,2001/12/12,Lyon,Montpellier,1,0,1213
+F1,2001/12/12,Nice,Paris SG,2,1,1213
+F1,2001/12/12,Valenciennes,Reims,1,0,1213
+F1,2002/12/12,Brest,Marseille,1,2,1213
+F1,2002/12/12,Lorient,Toulouse,1,0,1213
+F1,2002/12/12,Troyes,Rennes,2,3,1213
+F1,2007/12/12,Toulouse,Bastia,0,0,1213
+F1,2008/12/12,Montpellier,Ajaccio,3,0,1213
+F1,2008/12/12,Nancy,Valenciennes,1,1,1213
+F1,2008/12/12,Paris SG,Evian Thonon Gaillard,4,0,1213
+F1,2008/12/12,Rennes,Brest,2,2,1213
+F1,2008/12/12,Sochaux,Lille,1,1,1213
+F1,2008/12/12,Troyes,Nice,1,1,1213
+F1,2009/12/12,Marseille,Lorient,0,3,1213
+F1,2009/12/12,Reims,Bordeaux,0,0,1213
+F1,2009/12/12,St Etienne,Lyon,0,1,1213
+F1,2011/12/12,Lille,Toulouse,2,0,1213
+F1,2011/12/12,Nice,Rennes,1,0,1213
+F1,2011/12/12,Valenciennes,Paris SG,0,4,1213
+F1,2012/12/12,Ajaccio,Reims,2,0,1213
+F1,2012/12/12,Bastia,Marseille,1,2,1213
+F1,2012/12/12,Brest,Montpellier,1,2,1213
+F1,2012/12/12,Evian Thonon Gaillard,Troyes,2,0,1213
+F1,2012/12/12,Lorient,Sochaux,2,0,1213
+F1,2012/12/12,Lyon,Nancy,1,1,1213
+F1,2013/12/12,Bordeaux,St Etienne,0,0,1213
+F1,2014/12/12,Rennes,Valenciennes,2,0,1213
+F1,2015/12/12,Montpellier,Bastia,4,0,1213
+F1,2015/12/12,Nice,Evian Thonon Gaillard,3,2,1213
+F1,2015/12/12,Reims,Lille,1,1,1213
+F1,2015/12/12,Sochaux,Brest,1,2,1213
+F1,2015/12/12,Toulouse,Marseille,0,1,1213
+F1,2015/12/12,Troyes,Ajaccio,3,2,1213
+F1,2016/12/12,Nancy,Bordeaux,1,1,1213
+F1,2016/12/12,Paris SG,Lyon,1,0,1213
+F1,2016/12/12,St Etienne,Lorient,0,2,1213
+F1,2021/12/12,Brest,Paris SG,0,3,1213
+F1,2022/12/12,Ajaccio,Rennes,2,4,1213
+F1,2022/12/12,Bastia,Nancy,4,2,1213
+F1,2022/12/12,Bordeaux,Troyes,0,0,1213
+F1,2022/12/12,Lille,Montpellier,4,1,1213
+F1,2022/12/12,Lorient,Reims,2,2,1213
+F1,2022/12/12,Lyon,Nice,3,0,1213
+F1,2023/12/12,Marseille,St Etienne,1,0,1213
+F1,2023/12/12,Toulouse,Sochaux,2,0,1213
+F1,2023/12/12,Valenciennes,Evian Thonon Gaillard,2,1,1213
+F1,2011/1/13,Paris SG,Ajaccio,0,0,1213
+F1,2011/1/13,St Etienne,Toulouse,2,2,1213
+F1,2012/1/13,Evian Thonon Gaillard,Brest,0,2,1213
+F1,2012/1/13,Montpellier,Lorient,2,0,1213
+F1,2012/1/13,Nancy,Lille,2,2,1213
+F1,2012/1/13,Rennes,Bordeaux,0,2,1213
+F1,2012/1/13,Troyes,Lyon,1,2,1213
+F1,2013/1/13,Nice,Valenciennes,5,0,1213
+F1,2013/1/13,Reims,Bastia,1,2,1213
+F1,2013/1/13,Sochaux,Marseille,3,1,1213
+F1,2018/1/13,Lyon,Evian Thonon Gaillard,0,0,1213
+F1,2019/1/13,Ajaccio,Valenciennes,1,1,1213
+F1,2019/1/13,Brest,St Etienne,0,1,1213
+F1,2019/1/13,Lorient,Troyes,3,2,1213
+F1,2019/1/13,Marseille,Montpellier,3,2,1213
+F1,2019/1/13,Sochaux,Reims,1,0,1213
+F1,2019/1/13,Toulouse,Nancy,2,1,1213
+F1,2020/1/13,Bastia,Rennes,0,2,1213
+F1,2020/1/13,Bordeaux,Paris SG,0,1,1213
+F1,2020/1/13,Lille,Nice,0,2,1213
+F1,2025/1/13,Valenciennes,Lyon,0,2,1213
+F1,2026/1/13,Evian Thonon Gaillard,Ajaccio,1,1,1213
+F1,2026/1/13,Montpellier,Sochaux,2,0,1213
+F1,2026/1/13,Nancy,Lorient,2,1,1213
+F1,2026/1/13,Reims,Toulouse,1,1,1213
+F1,2026/1/13,Rennes,Marseille,2,2,1213
+F1,2026/1/13,Troyes,Brest,2,1,1213
+F1,2027/1/13,Nice,Bordeaux,0,1,1213
+F1,2027/1/13,Paris SG,Lille,1,0,1213
+F1,2027/1/13,St Etienne,Bastia,3,0,1213
+F1,2001/2/13,Toulouse,Paris SG,0,4,1213
+F1,2002/2/13,Bastia,Evian Thonon Gaillard,0,0,1213
+F1,2002/2/13,Bordeaux,Valenciennes,2,0,1213
+F1,2002/2/13,Brest,Nice,0,2,1213
+F1,2002/2/13,Lille,Troyes,1,1,1213
+F1,2002/2/13,Lorient,Rennes,2,2,1213
+F1,2002/2/13,Sochaux,St Etienne,1,2,1213
+F1,2003/2/13,Ajaccio,Lyon,3,1,1213
+F1,2003/2/13,Marseille,Nancy,0,1,1213
+F1,2003/2/13,Montpellier,Reims,3,1,1213
+F1,2008/2/13,Paris SG,Bastia,3,1,1213
+F1,2009/2/13,Ajaccio,Bordeaux,1,0,1213
+F1,2009/2/13,Nancy,Reims,1,2,1213
+F1,2009/2/13,Nice,Lorient,1,1,1213
+F1,2009/2/13,St Etienne,Montpellier,4,1,1213
+F1,2009/2/13,Troyes,Sochaux,0,0,1213
+F1,2009/2/13,Valenciennes,Brest,2,1,1213
+F1,2010/2/13,Evian Thonon Gaillard,Marseille,1,1,1213
+F1,2010/2/13,Lyon,Lille,1,3,1213
+F1,2010/2/13,Rennes,Toulouse,2,0,1213
+F1,2015/2/13,Lille,Rennes,2,0,1213
+F1,2016/2/13,Bastia,Nice,0,1,1213
+F1,2016/2/13,Brest,Ajaccio,1,1,1213
+F1,2016/2/13,Lorient,Evian Thonon Gaillard,2,1,1213
+F1,2016/2/13,Marseille,Valenciennes,1,0,1213
+F1,2016/2/13,Montpellier,Nancy,1,0,1213
+F1,2016/2/13,Toulouse,Troyes,2,2,1213
+F1,2017/2/13,Bordeaux,Lyon,0,4,1213
+F1,2017/2/13,Reims,St Etienne,1,1,1213
+F1,2017/2/13,Sochaux,Paris SG,3,2,1213
+F1,2022/2/13,Nice,Reims,2,0,1213
+F1,2023/2/13,Ajaccio,Lille,1,3,1213
+F1,2023/2/13,Evian Thonon Gaillard,Montpellier,0,1,1213
+F1,2023/2/13,Nancy,St Etienne,0,3,1213
+F1,2023/2/13,Rennes,Sochaux,2,2,1213
+F1,2023/2/13,Troyes,Bastia,0,0,1213
+F1,2023/2/13,Valenciennes,Toulouse,0,0,1213
+F1,2024/2/13,Bordeaux,Brest,0,2,1213
+F1,2024/2/13,Lyon,Lorient,3,1,1213
+F1,2024/2/13,Paris SG,Marseille,2,0,1213
+F1,2001/3/13,Montpellier,Rennes,2,0,1213
+F1,2002/3/13,Bastia,Ajaccio,1,0,1213
+F1,2002/3/13,Lorient,Valenciennes,1,1,1213
+F1,2002/3/13,Reims,Paris SG,1,0,1213
+F1,2002/3/13,Sochaux,Nancy,1,2,1213
+F1,2002/3/13,St Etienne,Nice,4,0,1213
+F1,2002/3/13,Toulouse,Evian Thonon Gaillard,0,0,1213
+F1,2003/3/13,Brest,Lyon,1,1,1213
+F1,2003/3/13,Lille,Bordeaux,2,1,1213
+F1,2003/3/13,Marseille,Troyes,2,1,1213
+F1,2008/3/13,Rennes,St Etienne,2,2,1213
+F1,2009/3/13,Ajaccio,Lorient,1,0,1213
+F1,2009/3/13,Brest,Toulouse,0,1,1213
+F1,2009/3/13,Evian Thonon Gaillard,Sochaux,5,1,1213
+F1,2009/3/13,Paris SG,Nancy,2,1,1213
+F1,2009/3/13,Troyes,Reims,4,2,1213
+F1,2009/3/13,Valenciennes,Lille,1,3,1213
+F1,2010/3/13,Bordeaux,Bastia,1,0,1213
+F1,2010/3/13,Lyon,Marseille,0,0,1213
+F1,2010/3/13,Nice,Montpellier,2,0,1213
+F1,2015/3/13,Marseille,Ajaccio,0,0,1213
+F1,2016/3/13,Bastia,Lyon,4,1,1213
+F1,2016/3/13,Lille,Evian Thonon Gaillard,1,2,1213
+F1,2016/3/13,Lorient,Brest,4,0,1213
+F1,2016/3/13,Montpellier,Troyes,1,1,1213
+F1,2016/3/13,Reims,Rennes,1,0,1213
+F1,2016/3/13,Sochaux,Valenciennes,1,1,1213
+F1,2017/3/13,Nancy,Nice,1,0,1213
+F1,2017/3/13,St Etienne,Paris SG,2,2,1213
+F1,2017/3/13,Toulouse,Bordeaux,0,0,1213
+F1,2029/3/13,Paris SG,Montpellier,1,0,1213
+F1,1930/3/13,Ajaccio,Toulouse,2,3,1213
+F1,1930/3/13,Bordeaux,Lorient,1,1,1213
+F1,1930/3/13,Evian Thonon Gaillard,Reims,2,2,1213
+F1,1930/3/13,Rennes,Nancy,0,2,1213
+F1,1930/3/13,Troyes,St Etienne,2,2,1213
+F1,1930/3/13,Valenciennes,Bastia,3,4,1213
+F1,1931/3/13,Brest,Lille,1,2,1213
+F1,1931/3/13,Lyon,Sochaux,1,2,1213
+F1,1931/3/13,Nice,Marseille,0,1,1213
+F1,2005/4/13,Marseille,Bordeaux,1,0,1213
+F1,2006/4/13,Bastia,Brest,4,0,1213
+F1,2006/4/13,Montpellier,Valenciennes,3,1,1213
+F1,2006/4/13,Nancy,Troyes,1,0,1213
+F1,2006/4/13,Rennes,Paris SG,0,2,1213
+F1,2006/4/13,Sochaux,Ajaccio,0,0,1213
+F1,2006/4/13,Toulouse,Nice,3,4,1213
+F1,2007/4/13,Lille,Lorient,5,0,1213
+F1,2007/4/13,Reims,Lyon,1,0,1213
+F1,2007/4/13,St Etienne,Evian Thonon Gaillard,1,0,1213
+F1,2012/4/13,Valenciennes,St Etienne,0,0,1213
+F1,2013/4/13,Ajaccio,Nancy,1,1,1213
+F1,2013/4/13,Bordeaux,Montpellier,4,2,1213
+F1,2013/4/13,Brest,Reims,0,2,1213
+F1,2013/4/13,Evian Thonon Gaillard,Rennes,4,2,1213
+F1,2013/4/13,Lorient,Bastia,4,1,1213
+F1,2013/4/13,Troyes,Paris SG,0,1,1213
+F1,2014/4/13,Lille,Marseille,0,0,1213
+F1,2014/4/13,Lyon,Toulouse,3,1,1213
+F1,2014/4/13,Nice,Sochaux,3,0,1213
+F1,2019/4/13,Montpellier,Lyon,1,2,1213
+F1,2020/4/13,Marseille,Brest,1,0,1213
+F1,2021/4/13,Bastia,Lille,1,2,1213
+F1,2021/4/13,Nancy,Evian Thonon Gaillard,3,1,1213
+F1,2021/4/13,Paris SG,Nice,3,0,1213
+F1,2021/4/13,Reims,Valenciennes,0,1,1213
+F1,2021/4/13,Sochaux,Bordeaux,2,2,1213
+F1,2021/4/13,Toulouse,Lorient,0,1,1213
+F1,2024/4/13,Rennes,Troyes,1,2,1213
+F1,2024/4/13,St Etienne,Ajaccio,4,2,1213
+F1,2026/4/13,Lille,Sochaux,3,3,1213
+F1,2027/4/13,Ajaccio,Montpellier,2,1,1213
+F1,2027/4/13,Bastia,Toulouse,0,0,1213
+F1,2027/4/13,Bordeaux,Reims,0,0,1213
+F1,2027/4/13,Brest,Rennes,0,2,1213
+F1,2027/4/13,Lorient,Marseille,0,1,1213
+F1,2027/4/13,Valenciennes,Nancy,0,0,1213
+F1,2028/4/13,Evian Thonon Gaillard,Paris SG,0,1,1213
+F1,2028/4/13,Lyon,St Etienne,1,1,1213
+F1,2028/4/13,Nice,Troyes,3,1,1213
+F1,2003/5/13,St Etienne,Bordeaux,0,0,1213
+F1,2004/5/13,Marseille,Bastia,2,1,1213
+F1,2004/5/13,Montpellier,Brest,2,1,1213
+F1,2004/5/13,Reims,Ajaccio,1,1,1213
+F1,2004/5/13,Sochaux,Lorient,1,0,1213
+F1,2004/5/13,Toulouse,Lille,4,2,1213
+F1,2004/5/13,Troyes,Evian Thonon Gaillard,1,0,1213
+F1,2005/5/13,Nancy,Lyon,0,3,1213
+F1,2005/5/13,Paris SG,Valenciennes,1,1,1213
+F1,2005/5/13,Rennes,Nice,0,3,1213
+F1,2010/5/13,Lille,Reims,3,0,1213
+F1,2011/5/13,Ajaccio,Troyes,0,1,1213
+F1,2011/5/13,Bastia,Montpellier,3,1,1213
+F1,2011/5/13,Bordeaux,Nancy,3,2,1213
+F1,2011/5/13,Brest,Sochaux,0,2,1213
+F1,2011/5/13,Marseille,Toulouse,2,1,1213
+F1,2011/5/13,Valenciennes,Rennes,4,1,1213
+F1,2012/5/13,Evian Thonon Gaillard,Nice,4,0,1213
+F1,2012/5/13,Lorient,St Etienne,3,1,1213
+F1,2012/5/13,Lyon,Paris SG,0,1,1213
+F1,2018/5/13,Evian Thonon Gaillard,Valenciennes,2,0,1213
+F1,2018/5/13,Montpellier,Lille,0,0,1213
+F1,2018/5/13,Nancy,Bastia,1,2,1213
+F1,2018/5/13,Paris SG,Brest,3,1,1213
+F1,2018/5/13,Reims,Lorient,1,0,1213
+F1,2018/5/13,Rennes,Ajaccio,1,1,1213
+F1,2018/5/13,Sochaux,Toulouse,1,2,1213
+F1,2018/5/13,St Etienne,Marseille,2,0,1213
+F1,2018/5/13,Troyes,Bordeaux,1,0,1213
+F1,2019/5/13,Nice,Lyon,1,1,1213
+F1,2026/5/13,Ajaccio,Nice,0,2,1213
+F1,2026/5/13,Bastia,Sochaux,0,0,1213
+F1,2026/5/13,Bordeaux,Evian Thonon Gaillard,2,1,1213
+F1,2026/5/13,Brest,Nancy,1,2,1213
+F1,2026/5/13,Lille,St Etienne,1,1,1213
+F1,2026/5/13,Lorient,Paris SG,1,3,1213
+F1,2026/5/13,Lyon,Rennes,2,0,1213
+F1,2026/5/13,Marseille,Reims,0,0,1213
+F1,2026/5/13,Toulouse,Montpellier,2,0,1213
+F1,2026/5/13,Valenciennes,Troyes,2,1,1213
+F1,2009/8/13,Montpellier,Paris SG,1,1,1314
+F1,2010/8/13,Bordeaux,Monaco,0,2,1314
+F1,2010/8/13,Evian Thonon Gaillard,Sochaux,1,1,1314
+F1,2010/8/13,Lille,Lorient,1,0,1314
+F1,2010/8/13,Lyon,Nice,4,0,1314
+F1,2010/8/13,Nantes,Bastia,2,0,1314
+F1,2010/8/13,Rennes,Reims,2,1,1314
+F1,2010/8/13,Valenciennes,Toulouse,3,0,1314
+F1,2011/8/13,Ajaccio,St Etienne,0,1,1314
+F1,2011/8/13,Guingamp,Marseille,1,3,1314
+F1,2016/8/13,Sochaux,Lyon,1,3,1314
+F1,2017/8/13,Bastia,Valenciennes,2,0,1314
+F1,2017/8/13,Marseille,Evian Thonon Gaillard,2,0,1314
+F1,2017/8/13,Nice,Rennes,2,1,1314
+F1,2017/8/13,Reims,Lille,2,1,1314
+F1,2017/8/13,St Etienne,Guingamp,1,0,1314
+F1,2017/8/13,Toulouse,Bordeaux,1,1,1314
+F1,2018/8/13,Lorient,Nantes,2,1,1314
+F1,2018/8/13,Monaco,Montpellier,4,1,1314
+F1,2018/8/13,Paris SG,Ajaccio,1,1,1314
+F1,2023/8/13,Monaco,Toulouse,0,0,1314
+F1,2024/8/13,Bordeaux,Bastia,1,0,1314
+F1,2024/8/13,Evian Thonon Gaillard,Rennes,1,2,1314
+F1,2024/8/13,Guingamp,Lorient,2,0,1314
+F1,2024/8/13,Lyon,Reims,0,1,1314
+F1,2024/8/13,Montpellier,Sochaux,2,1,1314
+F1,2024/8/13,Valenciennes,Marseille,0,1,1314
+F1,2025/8/13,Ajaccio,Nice,0,0,1314
+F1,2025/8/13,Lille,St Etienne,1,0,1314
+F1,2025/8/13,Nantes,Paris SG,1,2,1314
+F1,1931/8/13,Bastia,Toulouse,2,1,1314
+F1,1931/8/13,Evian Thonon Gaillard,Lyon,2,1,1314
+F1,1931/8/13,Lorient,Valenciennes,1,0,1314
+F1,1931/8/13,Paris SG,Guingamp,2,0,1314
+F1,1931/8/13,Reims,Nantes,0,0,1314
+F1,1931/8/13,Rennes,Lille,0,0,1314
+F1,1931/8/13,Sochaux,Ajaccio,0,0,1314
+F1,2001/9/13,Marseille,Monaco,1,2,1314
+F1,2001/9/13,Nice,Montpellier,2,2,1314
+F1,2001/9/13,St Etienne,Bordeaux,2,1,1314
+F1,2013/9/13,Bordeaux,Paris SG,0,2,1314
+F1,2014/9/13,Ajaccio,Evian Thonon Gaillard,2,3,1314
+F1,2014/9/13,Guingamp,Bastia,1,1,1314
+F1,2014/9/13,Montpellier,Reims,0,0,1314
+F1,2014/9/13,Nantes,Sochaux,1,0,1314
+F1,2014/9/13,Toulouse,Marseille,1,1,1314
+F1,2014/9/13,Valenciennes,St Etienne,1,3,1314
+F1,2015/9/13,Lille,Nice,0,2,1314
+F1,2015/9/13,Lyon,Rennes,0,0,1314
+F1,2015/9/13,Monaco,Lorient,1,0,1314
+F1,2020/9/13,St Etienne,Toulouse,1,2,1314
+F1,2021/9/13,Bastia,Marseille,0,0,1314
+F1,2021/9/13,Evian Thonon Gaillard,Montpellier,2,2,1314
+F1,2021/9/13,Reims,Guingamp,1,1,1314
+F1,2021/9/13,Rennes,Ajaccio,2,0,1314
+F1,2021/9/13,Sochaux,Lille,0,2,1314
+F1,2022/9/13,Lorient,Bordeaux,3,3,1314
+F1,2022/9/13,Lyon,Nantes,3,1,1314
+F1,2022/9/13,Nice,Valenciennes,4,0,1314
+F1,2022/9/13,Paris SG,Monaco,1,1,1314
+F1,2024/9/13,Lille,Evian Thonon Gaillard,3,0,1314
+F1,2024/9/13,Marseille,St Etienne,2,1,1314
+F1,2025/9/13,Ajaccio,Lyon,2,1,1314
+F1,2025/9/13,Bordeaux,Reims,0,0,1314
+F1,2025/9/13,Guingamp,Sochaux,5,1,1314
+F1,2025/9/13,Monaco,Bastia,3,0,1314
+F1,2025/9/13,Nantes,Nice,2,0,1314
+F1,2025/9/13,Toulouse,Lorient,1,0,1314
+F1,2025/9/13,Valenciennes,Paris SG,0,1,1314
+F1,2026/9/13,Montpellier,Rennes,0,0,1314
+F1,2028/9/13,Evian Thonon Gaillard,Bordeaux,1,1,1314
+F1,2028/9/13,Lorient,Marseille,0,2,1314
+F1,2028/9/13,Lyon,Lille,0,0,1314
+F1,2028/9/13,Nice,Guingamp,1,0,1314
+F1,2028/9/13,Paris SG,Toulouse,2,0,1314
+F1,2028/9/13,Sochaux,Valenciennes,2,0,1314
+F1,2028/9/13,St Etienne,Bastia,2,2,1314
+F1,2029/9/13,Ajaccio,Montpellier,1,1,1314
+F1,2029/9/13,Reims,Monaco,1,1,1314
+F1,2029/9/13,Rennes,Nantes,1,3,1314
+F1,2004/10/13,Bastia,Lorient,4,1,1314
+F1,2005/10/13,Guingamp,Rennes,2,0,1314
+F1,2005/10/13,Lille,Ajaccio,3,0,1314
+F1,2005/10/13,Monaco,St Etienne,2,1,1314
+F1,2005/10/13,Nantes,Evian Thonon Gaillard,3,0,1314
+F1,2005/10/13,Toulouse,Nice,1,0,1314
+F1,2005/10/13,Valenciennes,Reims,1,1,1314
+F1,2006/10/13,Bordeaux,Sochaux,4,1,1314
+F1,2006/10/13,Marseille,Paris SG,1,2,1314
+F1,2006/10/13,Montpellier,Lyon,5,1,1314
+F1,2018/10/13,Nice,Marseille,1,0,1314
+F1,2018/10/13,Reims,Toulouse,1,2,1314
+F1,2019/10/13,Ajaccio,Nantes,0,1,1314
+F1,2019/10/13,Evian Thonon Gaillard,Guingamp,1,2,1314
+F1,2019/10/13,Montpellier,Lille,0,1,1314
+F1,2019/10/13,Paris SG,Bastia,4,0,1314
+F1,2019/10/13,Rennes,Valenciennes,2,2,1314
+F1,2020/10/13,Lyon,Bordeaux,1,1,1314
+F1,2020/10/13,Sochaux,Monaco,2,2,1314
+F1,2020/10/13,St Etienne,Lorient,3,2,1314
+F1,2025/10/13,Nantes,Lille,0,1,1314
+F1,2026/10/13,Bastia,Nice,1,0,1314
+F1,2026/10/13,Guingamp,Ajaccio,2,1,1314
+F1,2026/10/13,Lorient,Sochaux,2,1,1314
+F1,2026/10/13,Marseille,Reims,2,3,1314
+F1,2026/10/13,Toulouse,Rennes,0,5,1314
+F1,2026/10/13,Valenciennes,Evian Thonon Gaillard,0,1,1314
+F1,2027/10/13,Bordeaux,Montpellier,2,0,1314
+F1,2027/10/13,Monaco,Lyon,2,1,1314
+F1,2027/10/13,St Etienne,Paris SG,2,2,1314
+F1,2001/11/13,Paris SG,Lorient,4,0,1314
+F1,2002/11/13,Ajaccio,Valenciennes,1,3,1314
+F1,2002/11/13,Evian Thonon Gaillard,Toulouse,2,1,1314
+F1,2002/11/13,Lyon,Guingamp,2,0,1314
+F1,2002/11/13,Reims,Bastia,4,2,1314
+F1,2002/11/13,Rennes,Marseille,1,1,1314
+F1,2002/11/13,Sochaux,St Etienne,0,0,1314
+F1,2003/11/13,Lille,Monaco,2,0,1314
+F1,2003/11/13,Montpellier,Nantes,1,1,1314
+F1,2003/11/13,Nice,Bordeaux,1,2,1314
+F1,2008/11/13,Monaco,Evian Thonon Gaillard,1,1,1314
+F1,2009/11/13,Bastia,Rennes,1,0,1314
+F1,2009/11/13,Guingamp,Lille,0,0,1314
+F1,2009/11/13,Lorient,Reims,0,0,1314
+F1,2009/11/13,Paris SG,Nice,3,1,1314
+F1,2009/11/13,Toulouse,Ajaccio,1,1,1314
+F1,2009/11/13,Valenciennes,Montpellier,1,1,1314
+F1,2010/11/13,Bordeaux,Nantes,0,3,1314
+F1,2010/11/13,Marseille,Sochaux,2,1,1314
+F1,2010/11/13,St Etienne,Lyon,1,2,1314
+F1,2022/11/13,Ajaccio,Marseille,1,3,1314
+F1,2023/11/13,Evian Thonon Gaillard,Lorient,0,4,1314
+F1,2023/11/13,Lyon,Valenciennes,1,1,1314
+F1,2023/11/13,Montpellier,Guingamp,1,1,1314
+F1,2023/11/13,Reims,Paris SG,0,3,1314
+F1,2023/11/13,Rennes,Bordeaux,1,1,1314
+F1,2023/11/13,Sochaux,Bastia,1,1,1314
+F1,2024/11/13,Lille,Toulouse,1,0,1314
+F1,2024/11/13,Nantes,Monaco,0,1,1314
+F1,2024/11/13,Nice,St Etienne,0,1,1314
+F1,2029/11/13,Marseille,Montpellier,2,0,1314
+F1,1930/11/13,Guingamp,Nantes,1,0,1314
+F1,1930/11/13,Lorient,Nice,3,0,1314
+F1,1930/11/13,Monaco,Rennes,2,0,1314
+F1,1930/11/13,St Etienne,Reims,4,0,1314
+F1,1930/11/13,Toulouse,Sochaux,5,1,1314
+F1,1930/11/13,Valenciennes,Lille,0,1,1314
+F1,2001/12/13,Bastia,Evian Thonon Gaillard,2,0,1314
+F1,2001/12/13,Bordeaux,Ajaccio,4,0,1314
+F1,2001/12/13,Paris SG,Lyon,4,0,1314
+F1,2003/12/13,Lille,Marseille,1,0,1314
+F1,2003/12/13,Nantes,Valenciennes,2,1,1314
+F1,2003/12/13,Nice,Monaco,0,3,1314
+F1,2004/12/13,Ajaccio,Bastia,1,1,1314
+F1,2004/12/13,Evian Thonon Gaillard,Paris SG,2,0,1314
+F1,2004/12/13,Guingamp,Bordeaux,0,1,1314
+F1,2004/12/13,Montpellier,Lorient,0,2,1314
+F1,2004/12/13,Rennes,St Etienne,3,1,1314
+F1,2004/12/13,Sochaux,Reims,0,2,1314
+F1,2005/12/13,Lyon,Toulouse,1,1,1314
+F1,2006/12/13,Marseille,Nantes,0,1,1314
+F1,2007/12/13,Lorient,Rennes,2,0,1314
+F1,2007/12/13,Paris SG,Sochaux,5,0,1314
+F1,2007/12/13,Reims,Nice,1,0,1314
+F1,2007/12/13,Valenciennes,Guingamp,1,1,1314
+F1,2008/12/13,Bastia,Lyon,1,3,1314
+F1,2008/12/13,Bordeaux,Lille,1,0,1314
+F1,2008/12/13,Monaco,Ajaccio,1,0,1314
+F1,2008/12/13,Toulouse,Montpellier,1,1,1314
+F1,2013/12/13,Montpellier,St Etienne,0,1,1314
+F1,2014/12/13,Ajaccio,Lorient,1,2,1314
+F1,2014/12/13,Evian Thonon Gaillard,Reims,1,1,1314
+F1,2014/12/13,Guingamp,Monaco,0,2,1314
+F1,2014/12/13,Nantes,Toulouse,1,2,1314
+F1,2014/12/13,Nice,Sochaux,1,0,1314
+F1,2014/12/13,Rennes,Paris SG,1,3,1314
+F1,2015/12/13,Bordeaux,Valenciennes,2,1,1314
+F1,2015/12/13,Lille,Bastia,2,1,1314
+F1,2015/12/13,Lyon,Marseille,2,2,1314
+F1,2020/12/13,Monaco,Valenciennes,1,2,1314
+F1,2021/12/13,Bastia,Montpellier,0,0,1314
+F1,2021/12/13,Nice,Evian Thonon Gaillard,3,1,1314
+F1,2021/12/13,Reims,Ajaccio,4,1,1314
+F1,2021/12/13,Sochaux,Rennes,2,1,1314
+F1,2021/12/13,St Etienne,Nantes,2,0,1314
+F1,2021/12/13,Toulouse,Guingamp,0,0,1314
+F1,2022/12/13,Lorient,Lyon,2,2,1314
+F1,2022/12/13,Marseille,Bordeaux,2,2,1314
+F1,2022/12/13,Paris SG,Lille,2,2,1314
+F1,2008/1/14,St Etienne,Evian Thonon Gaillard,1,0,1314
+F1,2010/1/14,Montpellier,Monaco,1,1,1314
+F1,2011/1/14,Ajaccio,Paris SG,1,2,1314
+F1,2011/1/14,Bordeaux,Toulouse,0,1,1314
+F1,2011/1/14,Guingamp,St Etienne,0,0,1314
+F1,2011/1/14,Lyon,Sochaux,2,0,1314
+F1,2011/1/14,Rennes,Nice,0,0,1314
+F1,2011/1/14,Valenciennes,Bastia,3,2,1314
+F1,2012/1/14,Evian Thonon Gaillard,Marseille,1,2,1314
+F1,2012/1/14,Lille,Reims,1,2,1314
+F1,2012/1/14,Nantes,Lorient,1,0,1314
+F1,2017/1/14,St Etienne,Lille,2,0,1314
+F1,2018/1/14,Bastia,Bordeaux,1,0,1314
+F1,2018/1/14,Lorient,Guingamp,2,0,1314
+F1,2018/1/14,Nice,Ajaccio,2,0,1314
+F1,2018/1/14,Rennes,Evian Thonon Gaillard,0,0,1314
+F1,2018/1/14,Sochaux,Montpellier,0,2,1314
+F1,2019/1/14,Paris SG,Nantes,5,0,1314
+F1,2019/1/14,Reims,Lyon,0,2,1314
+F1,2019/1/14,Toulouse,Monaco,0,2,1314
+F1,2024/1/14,Lille,Rennes,1,1,1314
+F1,2025/1/14,Ajaccio,Sochaux,1,1,1314
+F1,2025/1/14,Guingamp,Paris SG,1,1,1314
+F1,2025/1/14,Montpellier,Nice,3,1,1314
+F1,2025/1/14,Nantes,Reims,0,0,1314
+F1,2025/1/14,Valenciennes,Lorient,1,1,1314
+F1,2026/1/14,Bordeaux,St Etienne,2,0,1314
+F1,2026/1/14,Lyon,Evian Thonon Gaillard,3,0,1314
+F1,2026/1/14,Monaco,Marseille,2,0,1314
+F1,2029/1/14,Marseille,Valenciennes,2,1,1314
+F1,1931/1/14,Paris SG,Bordeaux,2,0,1314
+F1,2001/2/14,Bastia,Guingamp,3,2,1314
+F1,2001/2/14,Evian Thonon Gaillard,Ajaccio,1,1,1314
+F1,2001/2/14,Lorient,Monaco,2,2,1314
+F1,2001/2/14,Reims,Montpellier,2,4,1314
+F1,2001/2/14,Sochaux,Nantes,1,0,1314
+F1,2001/2/14,St Etienne,Valenciennes,3,0,1314
+F1,2002/2/14,Marseille,Toulouse,2,2,1314
+F1,2002/2/14,Nice,Lille,1,0,1314
+F1,2002/2/14,Rennes,Lyon,2,0,1314
+F1,2007/2/14,Toulouse,St Etienne,0,0,1314
+F1,2008/2/14,Ajaccio,Rennes,3,1,1314
+F1,2008/2/14,Guingamp,Reims,1,2,1314
+F1,2008/2/14,Lille,Sochaux,2,0,1314
+F1,2008/2/14,Marseille,Bastia,3,0,1314
+F1,2008/2/14,Montpellier,Evian Thonon Gaillard,1,1,1314
+F1,2008/2/14,Valenciennes,Nice,2,1,1314
+F1,2009/2/14,Monaco,Paris SG,1,1,1314
+F1,2009/2/14,Nantes,Lyon,1,2,1314
+F1,2011/2/14,Toulouse,Bastia,1,3,1314
+F1,2014/2/14,Paris SG,Valenciennes,3,0,1314
+F1,2015/2/14,Bastia,Monaco,0,2,1314
+F1,2015/2/14,Lorient,Toulouse,1,3,1314
+F1,2015/2/14,Nice,Nantes,0,0,1314
+F1,2015/2/14,Reims,Bordeaux,1,0,1314
+F1,2015/2/14,Rennes,Montpellier,2,2,1314
+F1,2015/2/14,Sochaux,Guingamp,1,0,1314
+F1,2016/2/14,Evian Thonon Gaillard,Lille,2,2,1314
+F1,2016/2/14,Lyon,Ajaccio,3,1,1314
+F1,2016/2/14,St Etienne,Marseille,1,1,1314
+F1,2021/2/14,Monaco,Reims,3,2,1314
+F1,2022/2/14,Bastia,St Etienne,0,2,1314
+F1,2022/2/14,Bordeaux,Evian Thonon Gaillard,2,1,1314
+F1,2022/2/14,Guingamp,Nice,1,0,1314
+F1,2022/2/14,Marseille,Lorient,1,0,1314
+F1,2022/2/14,Montpellier,Ajaccio,2,0,1314
+F1,2022/2/14,Valenciennes,Sochaux,2,2,1314
+F1,2023/2/14,Lille,Lyon,0,0,1314
+F1,2023/2/14,Nantes,Rennes,0,3,1314
+F1,2023/2/14,Toulouse,Paris SG,2,4,1314
+F1,2025/2/14,Bordeaux,Lorient,3,2,1314
+F1,2028/2/14,Evian Thonon Gaillard,Nantes,2,0,1314
+F1,2001/3/14,Lorient,Bastia,1,1,1314
+F1,2001/3/14,Nice,Toulouse,0,2,1314
+F1,2001/3/14,Reims,Valenciennes,3,1,1314
+F1,2001/3/14,Rennes,Guingamp,0,2,1314
+F1,2001/3/14,Sochaux,Bordeaux,2,0,1314
+F1,2001/3/14,St Etienne,Monaco,2,0,1314
+F1,2002/3/14,Ajaccio,Lille,2,3,1314
+F1,2002/3/14,Lyon,Montpellier,0,0,1314
+F1,2002/3/14,Paris SG,Marseille,2,0,1314
+F1,2007/3/14,Marseille,Nice,0,1,1314
+F1,2008/3/14,Bastia,Paris SG,0,3,1314
+F1,2008/3/14,Guingamp,Evian Thonon Gaillard,0,1,1314
+F1,2008/3/14,Monaco,Sochaux,2,1,1314
+F1,2008/3/14,Nantes,Ajaccio,2,2,1314
+F1,2008/3/14,Toulouse,Reims,3,2,1314
+F1,2008/3/14,Valenciennes,Rennes,2,1,1314
+F1,2009/3/14,Bordeaux,Lyon,1,2,1314
+F1,2009/3/14,Lille,Montpellier,2,0,1314
+F1,2009/3/14,Lorient,St Etienne,1,0,1314
+F1,2014/3/14,Reims,Marseille,1,1,1314
+F1,2015/3/14,Ajaccio,Guingamp,1,2,1314
+F1,2015/3/14,Evian Thonon Gaillard,Valenciennes,0,1,1314
+F1,2015/3/14,Lille,Nantes,0,0,1314
+F1,2015/3/14,Nice,Bastia,2,0,1314
+F1,2015/3/14,Rennes,Toulouse,2,3,1314
+F1,2015/3/14,Sochaux,Lorient,2,0,1314
+F1,2016/3/14,Lyon,Monaco,2,3,1314
+F1,2016/3/14,Montpellier,Bordeaux,1,1,1314
+F1,2016/3/14,Paris SG,St Etienne,2,0,1314
+F1,2021/3/14,Lorient,Paris SG,0,1,1314
+F1,2022/3/14,Bastia,Reims,2,0,1314
+F1,2022/3/14,Bordeaux,Nice,1,1,1314
+F1,2022/3/14,Marseille,Rennes,0,1,1314
+F1,2022/3/14,Nantes,Montpellier,2,1,1314
+F1,2022/3/14,Toulouse,Evian Thonon Gaillard,1,1,1314
+F1,2022/3/14,Valenciennes,Ajaccio,2,3,1314
+F1,2023/3/14,Guingamp,Lyon,0,1,1314
+F1,2023/3/14,Monaco,Lille,1,1,1314
+F1,2023/3/14,St Etienne,Sochaux,3,1,1314
+F1,2028/3/14,Nice,Paris SG,0,1,1314
+F1,2029/3/14,Ajaccio,Toulouse,2,2,1314
+F1,2029/3/14,Evian Thonon Gaillard,Monaco,1,0,1314
+F1,2029/3/14,Montpellier,Valenciennes,0,0,1314
+F1,2029/3/14,Nantes,Bordeaux,0,0,1314
+F1,2029/3/14,Reims,Lorient,1,1,1314
+F1,2029/3/14,Sochaux,Marseille,1,1,1314
+F1,1930/3/14,Lille,Guingamp,1,0,1314
+F1,1930/3/14,Lyon,St Etienne,1,2,1314
+F1,1930/3/14,Rennes,Bastia,3,0,1314
+F1,2004/4/14,Marseille,Ajaccio,3,1,1314
+F1,2005/4/14,Bastia,Sochaux,2,2,1314
+F1,2005/4/14,Bordeaux,Rennes,2,2,1314
+F1,2005/4/14,Guingamp,Montpellier,1,2,1314
+F1,2005/4/14,Lorient,Evian Thonon Gaillard,1,1,1314
+F1,2005/4/14,Paris SG,Reims,3,0,1314
+F1,2005/4/14,Toulouse,Lille,1,2,1314
+F1,2006/4/14,Monaco,Nantes,3,1,1314
+F1,2006/4/14,St Etienne,Nice,1,1,1314
+F1,2006/4/14,Valenciennes,Lyon,1,2,1314
+F1,2011/4/14,Montpellier,Marseille,2,3,1314
+F1,2012/4/14,Ajaccio,Bordeaux,1,1,1314
+F1,2012/4/14,Evian Thonon Gaillard,Bastia,2,1,1314
+F1,2012/4/14,Lille,Valenciennes,1,0,1314
+F1,2012/4/14,Nice,Lorient,1,2,1314
+F1,2012/4/14,Rennes,Monaco,0,1,1314
+F1,2012/4/14,Sochaux,Toulouse,2,0,1314
+F1,2013/4/14,Lyon,Paris SG,1,0,1314
+F1,2013/4/14,Nantes,Guingamp,1,0,1314
+F1,2013/4/14,Reims,St Etienne,2,2,1314
+F1,2018/4/14,St Etienne,Rennes,0,0,1314
+F1,2020/4/14,Bastia,Ajaccio,2,1,1314
+F1,2020/4/14,Bordeaux,Guingamp,5,1,1314
+F1,2020/4/14,Lorient,Montpellier,4,4,1314
+F1,2020/4/14,Marseille,Lille,0,0,1314
+F1,2020/4/14,Monaco,Nice,1,0,1314
+F1,2020/4/14,Reims,Sochaux,0,1,1314
+F1,2020/4/14,Valenciennes,Nantes,2,6,1314
+F1,2023/4/14,Paris SG,Evian Thonon Gaillard,1,0,1314
+F1,2023/4/14,Toulouse,Lyon,0,0,1314
+F1,2025/4/14,Nantes,Marseille,1,1,1314
+F1,2026/4/14,Ajaccio,Monaco,1,4,1314
+F1,2026/4/14,Evian Thonon Gaillard,St Etienne,1,2,1314
+F1,2026/4/14,Guingamp,Valenciennes,1,0,1314
+F1,2026/4/14,Montpellier,Toulouse,2,1,1314
+F1,2026/4/14,Nice,Reims,1,0,1314
+F1,2026/4/14,Rennes,Lorient,1,1,1314
+F1,2027/4/14,Lille,Bordeaux,2,1,1314
+F1,2027/4/14,Lyon,Bastia,4,1,1314
+F1,2027/4/14,Sochaux,Paris SG,1,1,1314
+F1,2002/5/14,Bastia,Lille,1,1,1314
+F1,2004/5/14,Lorient,Ajaccio,1,0,1314
+F1,2004/5/14,Marseille,Lyon,4,2,1314
+F1,2004/5/14,Reims,Evian Thonon Gaillard,1,0,1314
+F1,2004/5/14,Sochaux,Nice,2,0,1314
+F1,2004/5/14,St Etienne,Montpellier,2,0,1314
+F1,2004/5/14,Toulouse,Nantes,1,1,1314
+F1,2004/5/14,Valenciennes,Bordeaux,0,1,1314
+F1,2007/5/14,Monaco,Guingamp,1,1,1314
+F1,2007/5/14,Paris SG,Rennes,1,2,1314
+F1,2010/5/14,Ajaccio,Reims,2,1,1314
+F1,2010/5/14,Bordeaux,Marseille,1,1,1314
+F1,2010/5/14,Evian Thonon Gaillard,Nice,2,0,1314
+F1,2010/5/14,Guingamp,Toulouse,2,0,1314
+F1,2010/5/14,Lille,Paris SG,1,3,1314
+F1,2010/5/14,Lyon,Lorient,0,1,1314
+F1,2010/5/14,Montpellier,Bastia,0,2,1314
+F1,2010/5/14,Nantes,St Etienne,1,3,1314
+F1,2010/5/14,Rennes,Sochaux,1,2,1314
+F1,2010/5/14,Valenciennes,Monaco,1,2,1314
+F1,2017/5/14,Bastia,Nantes,0,0,1314
+F1,2017/5/14,Lorient,Lille,1,4,1314
+F1,2017/5/14,Marseille,Guingamp,1,0,1314
+F1,2017/5/14,Monaco,Bordeaux,1,1,1314
+F1,2017/5/14,Nice,Lyon,0,1,1314
+F1,2017/5/14,Paris SG,Montpellier,4,0,1314
+F1,2017/5/14,Reims,Rennes,1,3,1314
+F1,2017/5/14,Sochaux,Evian Thonon Gaillard,0,3,1314
+F1,2017/5/14,St Etienne,Ajaccio,3,1,1314
+F1,2017/5/14,Toulouse,Valenciennes,3,1,1314
+F1,2008/8/14,Reims,Paris SG,2,2,1415
+F1,2009/8/14,Bastia,Marseille,3,3,1415
+F1,2009/8/14,Evian Thonon Gaillard,Caen,0,3,1415
+F1,2009/8/14,Guingamp,St Etienne,0,2,1415
+F1,2009/8/14,Lille,Metz,0,0,1415
+F1,2009/8/14,Montpellier,Bordeaux,0,1,1415
+F1,2009/8/14,Nantes,Lens,1,0,1415
+F1,2009/8/14,Nice,Toulouse,3,2,1415
+F1,2010/8/14,Lyon,Rennes,2,0,1415
+F1,2010/8/14,Monaco,Lorient,1,2,1415
+F1,2015/8/14,Caen,Lille,0,1,1415
+F1,2016/8/14,Lens,Guingamp,0,1,1415
+F1,2016/8/14,Lorient,Nice,0,0,1415
+F1,2016/8/14,Metz,Nantes,1,1,1415
+F1,2016/8/14,Paris SG,Bastia,2,0,1415
+F1,2016/8/14,Rennes,Evian Thonon Gaillard,6,2,1415
+F1,2016/8/14,Toulouse,Lyon,2,1,1415
+F1,2017/8/14,Bordeaux,Monaco,4,1,1415
+F1,2017/8/14,Marseille,Montpellier,0,2,1415
+F1,2017/8/14,St Etienne,Reims,3,1,1415
+F1,2022/8/14,Evian Thonon Gaillard,Paris SG,0,0,1415
+F1,2023/8/14,Bastia,Toulouse,1,0,1415
+F1,2023/8/14,Guingamp,Marseille,0,1,1415
+F1,2023/8/14,Lille,Lorient,2,0,1415
+F1,2023/8/14,Montpellier,Metz,2,0,1415
+F1,2023/8/14,Nice,Bordeaux,1,3,1415
+F1,2023/8/14,Reims,Caen,0,2,1415
+F1,2024/8/14,Lyon,Lens,0,1,1415
+F1,2024/8/14,Nantes,Monaco,0,1,1415
+F1,2024/8/14,St Etienne,Rennes,0,0,1415
+F1,2029/8/14,Marseille,Nice,4,0,1415
+F1,1930/8/14,Caen,Rennes,0,1,1415
+F1,1930/8/14,Lens,Reims,4,2,1415
+F1,1930/8/14,Lorient,Guingamp,4,0,1415
+F1,1930/8/14,Monaco,Lille,1,1,1415
+F1,1930/8/14,Nantes,Montpellier,1,0,1415
+F1,1930/8/14,Toulouse,Evian Thonon Gaillard,1,0,1415
+F1,1931/8/14,Bordeaux,Bastia,1,1,1415
+F1,1931/8/14,Metz,Lyon,2,1,1415
+F1,1931/8/14,Paris SG,St Etienne,5,0,1415
+F1,2012/9/14,Lyon,Monaco,2,1,1415
+F1,2013/9/14,Bastia,Lens,1,1,1415
+F1,2013/9/14,Montpellier,Lorient,1,0,1415
+F1,2013/9/14,Nice,Metz,1,0,1415
+F1,2013/9/14,Reims,Toulouse,2,0,1415
+F1,2013/9/14,Rennes,Paris SG,1,1,1415
+F1,2013/9/14,St Etienne,Caen,1,0,1415
+F1,2014/9/14,Evian Thonon Gaillard,Marseille,1,3,1415
+F1,2014/9/14,Guingamp,Bordeaux,2,1,1415
+F1,2014/9/14,Lille,Nantes,2,0,1415
+F1,2019/9/14,Bordeaux,Evian Thonon Gaillard,2,1,1415
+F1,2020/9/14,Lorient,Reims,0,1,1415
+F1,2020/9/14,Marseille,Rennes,3,0,1415
+F1,2020/9/14,Metz,Bastia,3,1,1415
+F1,2020/9/14,Nantes,Nice,2,1,1415
+F1,2020/9/14,Toulouse,Caen,3,3,1415
+F1,2021/9/14,Lens,St Etienne,0,1,1415
+F1,2021/9/14,Lille,Montpellier,0,0,1415
+F1,2021/9/14,Monaco,Guingamp,1,0,1415
+F1,2021/9/14,Paris SG,Lyon,1,1,1415
+F1,2023/9/14,Reims,Marseille,0,5,1415
+F1,2023/9/14,Rennes,Toulouse,0,3,1415
+F1,2024/9/14,Bastia,Nantes,0,0,1415
+F1,2024/9/14,Caen,Paris SG,0,2,1415
+F1,2024/9/14,Evian Thonon Gaillard,Lens,2,1,1415
+F1,2024/9/14,Guingamp,Metz,0,1,1415
+F1,2024/9/14,Lyon,Lorient,4,0,1415
+F1,2024/9/14,Montpellier,Monaco,0,1,1415
+F1,2024/9/14,Nice,Lille,1,0,1415
+F1,2025/9/14,St Etienne,Bordeaux,1,1,1415
+F1,2027/9/14,Lille,Bastia,1,0,1415
+F1,2027/9/14,Lorient,Evian Thonon Gaillard,0,2,1415
+F1,2027/9/14,Metz,Reims,3,0,1415
+F1,2027/9/14,Monaco,Nice,0,1,1415
+F1,2027/9/14,Montpellier,Guingamp,2,1,1415
+F1,2027/9/14,Toulouse,Paris SG,1,1,1415
+F1,2028/9/14,Bordeaux,Rennes,2,1,1415
+F1,2028/9/14,Lens,Caen,0,0,1415
+F1,2028/9/14,Marseille,St Etienne,2,1,1415
+F1,2028/9/14,Nantes,Lyon,1,1,1415
+F1,2003/10/14,Reims,Bordeaux,1,0,1415
+F1,2004/10/14,Bastia,Lorient,0,2,1415
+F1,2004/10/14,Caen,Marseille,1,2,1415
+F1,2004/10/14,Evian Thonon Gaillard,Metz,3,0,1415
+F1,2004/10/14,Nice,Montpellier,1,1,1415
+F1,2004/10/14,Rennes,Lens,2,0,1415
+F1,2005/10/14,Guingamp,Nantes,0,1,1415
+F1,2005/10/14,Lyon,Lille,3,0,1415
+F1,2005/10/14,Paris SG,Monaco,1,1,1415
+F1,2005/10/14,St Etienne,Toulouse,0,1,1415
+F1,2017/10/14,Lens,Paris SG,1,3,1415
+F1,2018/10/14,Lille,Guingamp,1,2,1415
+F1,2018/10/14,Lorient,St Etienne,0,1,1415
+F1,2018/10/14,Metz,Rennes,0,0,1415
+F1,2018/10/14,Monaco,Evian Thonon Gaillard,2,0,1415
+F1,2018/10/14,Nantes,Reims,1,1,1415
+F1,2018/10/14,Nice,Bastia,0,1,1415
+F1,2019/10/14,Bordeaux,Caen,1,1,1415
+F1,2019/10/14,Lyon,Montpellier,5,1,1415
+F1,2019/10/14,Marseille,Toulouse,2,0,1415
+F1,2024/10/14,Toulouse,Lens,0,2,1415
+F1,2025/10/14,Bastia,Monaco,1,3,1415
+F1,2025/10/14,Caen,Lorient,2,1,1415
+F1,2025/10/14,Evian Thonon Gaillard,Nantes,0,2,1415
+F1,2025/10/14,Paris SG,Bordeaux,3,0,1415
+F1,2025/10/14,Reims,Montpellier,1,0,1415
+F1,2026/10/14,Guingamp,Nice,2,7,1415
+F1,2026/10/14,Lyon,Marseille,1,0,1415
+F1,2026/10/14,Rennes,Lille,2,0,1415
+F1,2026/10/14,St Etienne,Metz,1,0,1415
+F1,1931/10/14,Monaco,Reims,1,1,1415
+F1,2001/11/14,Guingamp,Bastia,1,0,1415
+F1,2001/11/14,Lille,St Etienne,1,1,1415
+F1,2001/11/14,Lorient,Paris SG,1,2,1415
+F1,2001/11/14,Metz,Caen,3,2,1415
+F1,2001/11/14,Montpellier,Evian Thonon Gaillard,2,0,1415
+F1,2001/11/14,Nice,Lyon,1,3,1415
+F1,2002/11/14,Bordeaux,Toulouse,2,1,1415
+F1,2002/11/14,Marseille,Lens,2,1,1415
+F1,2002/11/14,Nantes,Rennes,1,1,1415
+F1,2007/11/14,Rennes,Lorient,1,0,1415
+F1,2008/11/14,Bastia,Montpellier,2,0,1415
+F1,2008/11/14,Caen,Nantes,1,2,1415
+F1,2008/11/14,Evian Thonon Gaillard,Nice,1,0,1415
+F1,2008/11/14,Lens,Bordeaux,1,2,1415
+F1,2008/11/14,Toulouse,Metz,3,0,1415
+F1,2009/11/14,Lyon,Guingamp,3,1,1415
+F1,2009/11/14,Paris SG,Marseille,2,0,1415
+F1,2009/11/14,Reims,Lille,2,0,1415
+F1,2009/11/14,St Etienne,Monaco,1,1,1415
+F1,2021/11/14,Metz,Paris SG,2,3,1415
+F1,2022/11/14,Bastia,Lyon,0,0,1415
+F1,2022/11/14,Guingamp,Rennes,0,1,1415
+F1,2022/11/14,Lorient,Lens,1,0,1415
+F1,2022/11/14,Monaco,Caen,2,2,1415
+F1,2022/11/14,Nice,Reims,0,0,1415
+F1,2023/11/14,Marseille,Bordeaux,3,1,1415
+F1,2023/11/14,Montpellier,Toulouse,2,0,1415
+F1,2023/11/14,Nantes,St Etienne,0,0,1415
+F1,2028/11/14,Marseille,Nantes,2,0,1415
+F1,2029/11/14,Caen,Montpellier,1,1,1415
+F1,2029/11/14,Lens,Metz,2,0,1415
+F1,2029/11/14,Paris SG,Nice,1,0,1415
+F1,2029/11/14,Reims,Bastia,2,1,1415
+F1,2029/11/14,Rennes,Monaco,2,0,1415
+F1,2029/11/14,Toulouse,Lorient,2,3,1415
+F1,1930/11/14,Bordeaux,Lille,1,0,1415
+F1,1930/11/14,Evian Thonon Gaillard,Guingamp,2,0,1415
+F1,1930/11/14,St Etienne,Lyon,3,0,1415
+F1,2002/12/14,Lorient,Marseille,1,1,1415
+F1,2002/12/14,Monaco,Lens,2,0,1415
+F1,2002/12/14,Nantes,Toulouse,1,2,1415
+F1,2003/12/14,Bastia,Evian Thonon Gaillard,1,2,1415
+F1,2003/12/14,Guingamp,Caen,5,1,1415
+F1,2003/12/14,Lille,Paris SG,1,1,1415
+F1,2003/12/14,Metz,Bordeaux,0,0,1415
+F1,2003/12/14,Montpellier,St Etienne,0,2,1415
+F1,2003/12/14,Nice,Rennes,1,2,1415
+F1,2004/12/14,Lyon,Reims,2,1,1415
+F1,2005/12/14,Toulouse,Monaco,0,2,1415
+F1,2006/12/14,Bordeaux,Lorient,3,2,1415
+F1,2006/12/14,Caen,Nice,2,3,1415
+F1,2006/12/14,Paris SG,Nantes,2,1,1415
+F1,2006/12/14,Rennes,Montpellier,0,4,1415
+F1,2006/12/14,St Etienne,Bastia,1,0,1415
+F1,2007/12/14,Evian Thonon Gaillard,Lyon,2,3,1415
+F1,2007/12/14,Lens,Lille,1,1,1415
+F1,2007/12/14,Marseille,Metz,3,1,1415
+F1,2007/12/14,Reims,Guingamp,2,3,1415
+F1,2012/12/14,Lyon,Caen,3,0,1415
+F1,2013/12/14,Bastia,Rennes,2,0,1415
+F1,2013/12/14,Lorient,Metz,3,1,1415
+F1,2013/12/14,Montpellier,Lens,3,3,1415
+F1,2013/12/14,Nantes,Bordeaux,2,1,1415
+F1,2013/12/14,Reims,Evian Thonon Gaillard,3,2,1415
+F1,2014/12/14,Guingamp,Paris SG,1,0,1415
+F1,2014/12/14,Lille,Toulouse,3,0,1415
+F1,2014/12/14,Monaco,Marseille,1,0,1415
+F1,2014/12/14,Nice,St Etienne,0,0,1415
+F1,2019/12/14,Lens,Nice,2,0,1415
+F1,2020/12/14,Caen,Bastia,1,1,1415
+F1,2020/12/14,Lorient,Nantes,1,2,1415
+F1,2020/12/14,Metz,Monaco,0,1,1415
+F1,2020/12/14,Paris SG,Montpellier,0,0,1415
+F1,2020/12/14,Rennes,Reims,1,3,1415
+F1,2020/12/14,Toulouse,Guingamp,1,1,1415
+F1,2021/12/14,Bordeaux,Lyon,0,5,1415
+F1,2021/12/14,Marseille,Lille,2,1,1415
+F1,2021/12/14,St Etienne,Evian Thonon Gaillard,3,0,1415
+F1,2007/1/15,Lille,Evian Thonon Gaillard,1,0,1415
+F1,2009/1/15,Montpellier,Marseille,2,1,1415
+F1,2010/1/15,Bastia,Paris SG,4,2,1415
+F1,2010/1/15,Evian Thonon Gaillard,Rennes,1,1,1415
+F1,2010/1/15,Guingamp,Lens,2,0,1415
+F1,2010/1/15,Lille,Caen,1,0,1415
+F1,2010/1/15,Nice,Lorient,3,1,1415
+F1,2010/1/15,Reims,St Etienne,1,2,1415
+F1,2011/1/15,Lyon,Toulouse,3,0,1415
+F1,2011/1/15,Monaco,Bordeaux,0,0,1415
+F1,2011/1/15,Nantes,Metz,0,0,1415
+F1,2016/1/15,Bordeaux,Nice,1,2,1415
+F1,2017/1/15,Caen,Reims,4,1,1415
+F1,2017/1/15,Lens,Lyon,0,2,1415
+F1,2017/1/15,Lorient,Lille,1,0,1415
+F1,2017/1/15,Metz,Montpellier,2,3,1415
+F1,2017/1/15,Monaco,Nantes,1,0,1415
+F1,2017/1/15,Toulouse,Bastia,1,1,1415
+F1,2018/1/15,Marseille,Guingamp,2,1,1415
+F1,2018/1/15,Paris SG,Evian Thonon Gaillard,4,2,1415
+F1,2018/1/15,Rennes,St Etienne,0,0,1415
+F1,2023/1/15,Nice,Marseille,2,1,1415
+F1,2024/1/15,Bastia,Bordeaux,0,0,1415
+F1,2024/1/15,Guingamp,Lorient,3,2,1415
+F1,2024/1/15,Lille,Monaco,0,1,1415
+F1,2024/1/15,Montpellier,Nantes,4,0,1415
+F1,2025/1/15,Evian Thonon Gaillard,Toulouse,1,0,1415
+F1,2025/1/15,Lyon,Metz,2,0,1415
+F1,2025/1/15,Reims,Lens,0,0,1415
+F1,2025/1/15,Rennes,Caen,1,4,1415
+F1,2025/1/15,St Etienne,Paris SG,0,1,1415
+F1,1930/1/15,Paris SG,Rennes,1,0,1415
+F1,1931/1/15,Lens,Bastia,1,1,1415
+F1,1931/1/15,Lorient,Montpellier,0,0,1415
+F1,1931/1/15,Marseille,Evian Thonon Gaillard,1,0,1415
+F1,1931/1/15,Metz,Nice,0,0,1415
+F1,1931/1/15,Nantes,Lille,1,1,1415
+F1,1931/1/15,Toulouse,Reims,1,0,1415
+F1,2001/2/15,Bordeaux,Guingamp,1,1,1415
+F1,2001/2/15,Caen,St Etienne,1,0,1415
+F1,2001/2/15,Monaco,Lyon,0,0,1415
+F1,2006/2/15,St Etienne,Lens,3,3,1415
+F1,2007/2/15,Bastia,Metz,2,0,1415
+F1,2007/2/15,Caen,Toulouse,2,0,1415
+F1,2007/2/15,Evian Thonon Gaillard,Bordeaux,0,1,1415
+F1,2007/2/15,Montpellier,Lille,1,2,1415
+F1,2007/2/15,Reims,Lorient,1,3,1415
+F1,2007/2/15,Rennes,Marseille,1,1,1415
+F1,2008/2/15,Guingamp,Monaco,1,0,1415
+F1,2008/2/15,Lyon,Paris SG,1,1,1415
+F1,2008/2/15,Nice,Nantes,0,0,1415
+F1,2013/2/15,Marseille,Reims,2,2,1415
+F1,2014/2/15,Lens,Evian Thonon Gaillard,0,2,1415
+F1,2014/2/15,Lille,Nice,0,0,1415
+F1,2014/2/15,Nantes,Bastia,0,2,1415
+F1,2014/2/15,Paris SG,Caen,2,2,1415
+F1,2014/2/15,Toulouse,Rennes,2,1,1415
+F1,2015/2/15,Bordeaux,St Etienne,1,0,1415
+F1,2015/2/15,Lorient,Lyon,1,1,1415
+F1,2015/2/15,Metz,Guingamp,0,2,1415
+F1,2020/2/15,Nice,Monaco,0,1,1415
+F1,2021/2/15,Bastia,Lille,2,1,1415
+F1,2021/2/15,Caen,Lens,4,1,1415
+F1,2021/2/15,Paris SG,Toulouse,3,1,1415
+F1,2021/2/15,Rennes,Bordeaux,1,1,1415
+F1,2022/2/15,Guingamp,Montpellier,0,2,1415
+F1,2022/2/15,Lyon,Nantes,1,0,1415
+F1,2022/2/15,Reims,Metz,0,0,1415
+F1,2022/2/15,St Etienne,Marseille,2,2,1415
+F1,2027/2/15,Marseille,Caen,2,3,1415
+F1,2028/2/15,Bordeaux,Reims,1,1,1415
+F1,2028/2/15,Lens,Rennes,0,1,1415
+F1,2028/2/15,Lille,Lyon,2,1,1415
+F1,2028/2/15,Lorient,Bastia,2,0,1415
+F1,2028/2/15,Metz,Evian Thonon Gaillard,1,2,1415
+F1,2028/2/15,Toulouse,St Etienne,1,1,1415
+F1,2001/3/15,Monaco,Paris SG,0,0,1415
+F1,2001/3/15,Montpellier,Nice,2,1,1415
+F1,2001/3/15,Nantes,Guingamp,1,0,1415
+F1,2004/3/15,Evian Thonon Gaillard,Lorient,1,0,1415
+F1,2006/3/15,Toulouse,Marseille,1,6,1415
+F1,2007/3/15,Bastia,Nice,2,1,1415
+F1,2007/3/15,Caen,Bordeaux,1,2,1415
+F1,2007/3/15,Evian Thonon Gaillard,Monaco,1,3,1415
+F1,2007/3/15,Paris SG,Lens,4,1,1415
+F1,2007/3/15,Reims,Nantes,3,1,1415
+F1,2007/3/15,Rennes,Metz,1,0,1415
+F1,2008/3/15,Guingamp,Lille,0,1,1415
+F1,2008/3/15,Montpellier,Lyon,1,5,1415
+F1,2008/3/15,St Etienne,Lorient,2,0,1415
+F1,2013/3/15,Monaco,Bastia,3,0,1415
+F1,2013/3/15,Nice,Guingamp,1,2,1415
+F1,2014/3/15,Lens,Toulouse,1,0,1415
+F1,2014/3/15,Lorient,Caen,2,1,1415
+F1,2014/3/15,Metz,St Etienne,2,3,1415
+F1,2014/3/15,Montpellier,Reims,3,1,1415
+F1,2014/3/15,Nantes,Evian Thonon Gaillard,2,1,1415
+F1,2015/3/15,Bordeaux,Paris SG,3,2,1415
+F1,2015/3/15,Lille,Rennes,3,0,1415
+F1,2015/3/15,Marseille,Lyon,0,0,1415
+F1,2020/3/15,Paris SG,Lorient,3,1,1415
+F1,2021/3/15,Bastia,Guingamp,0,0,1415
+F1,2021/3/15,Caen,Metz,0,0,1415
+F1,2021/3/15,Evian Thonon Gaillard,Montpellier,1,0,1415
+F1,2021/3/15,Lyon,Nice,1,2,1415
+F1,2021/3/15,Rennes,Nantes,0,0,1415
+F1,2021/3/15,Toulouse,Bordeaux,2,1,1415
+F1,2022/3/15,Lens,Marseille,0,4,1415
+F1,2022/3/15,Reims,Monaco,1,3,1415
+F1,2022/3/15,St Etienne,Lille,2,0,1415
+F1,2003/4/15,Monaco,St Etienne,1,1,1415
+F1,2004/4/15,Guingamp,Lyon,1,3,1415
+F1,2004/4/15,Lille,Reims,3,1,1415
+F1,2004/4/15,Lorient,Rennes,0,3,1415
+F1,2004/4/15,Metz,Toulouse,3,2,1415
+F1,2004/4/15,Montpellier,Bastia,3,1,1415
+F1,2004/4/15,Nice,Evian Thonon Gaillard,2,2,1415
+F1,2005/4/15,Bordeaux,Lens,2,1,1415
+F1,2005/4/15,Marseille,Paris SG,2,3,1415
+F1,2005/4/15,Nantes,Caen,1,2,1415
+F1,2007/4/15,Monaco,Montpellier,0,0,1415
+F1,2010/4/15,Caen,Monaco,0,3,1415
+F1,2012/4/15,Bordeaux,Marseille,1,0,1415
+F1,2012/4/15,Evian Thonon Gaillard,Lille,0,1,1415
+F1,2012/4/15,Lens,Lorient,0,0,1415
+F1,2012/4/15,Reims,Nice,0,1,1415
+F1,2012/4/15,Rennes,Guingamp,1,0,1415
+F1,2012/4/15,St Etienne,Nantes,1,0,1415
+F1,2012/4/15,Toulouse,Montpellier,1,0,1415
+F1,2015/4/15,Lyon,Bastia,2,0,1415
+F1,2017/4/15,Nantes,Marseille,1,0,1415
+F1,2018/4/15,Bastia,Reims,1,2,1415
+F1,2018/4/15,Guingamp,Evian Thonon Gaillard,1,1,1415
+F1,2018/4/15,Lorient,Toulouse,0,1,1415
+F1,2018/4/15,Metz,Lens,3,1,1415
+F1,2018/4/15,Monaco,Rennes,1,1,1415
+F1,2018/4/15,Nice,Paris SG,1,3,1415
+F1,2019/4/15,Lille,Bordeaux,2,0,1415
+F1,2019/4/15,Lyon,St Etienne,2,2,1415
+F1,2019/4/15,Montpellier,Caen,1,0,1415
+F1,2024/4/15,Marseille,Lorient,3,5,1415
+F1,2025/4/15,Bordeaux,Metz,1,1,1415
+F1,2025/4/15,Caen,Guingamp,0,2,1415
+F1,2025/4/15,Evian Thonon Gaillard,Bastia,1,2,1415
+F1,2025/4/15,Paris SG,Lille,6,1,1415
+F1,2025/4/15,Rennes,Nice,2,1,1415
+F1,2025/4/15,Toulouse,Nantes,1,1,1415
+F1,2026/4/15,Lens,Monaco,0,3,1415
+F1,2026/4/15,Reims,Lyon,2,4,1415
+F1,2026/4/15,St Etienne,Montpellier,1,0,1415
+F1,2028/4/15,Paris SG,Metz,3,1,1415
+F1,2001/5/15,Metz,Marseille,0,2,1415
+F1,2002/5/15,Bastia,St Etienne,1,0,1415
+F1,2002/5/15,Guingamp,Reims,2,0,1415
+F1,2002/5/15,Lorient,Bordeaux,0,0,1415
+F1,2002/5/15,Lyon,Evian Thonon Gaillard,2,0,1415
+F1,2002/5/15,Montpellier,Rennes,0,0,1415
+F1,2002/5/15,Nice,Caen,1,1,1415
+F1,2003/5/15,Lille,Lens,3,1,1415
+F1,2003/5/15,Monaco,Toulouse,4,1,1415
+F1,2003/5/15,Nantes,Paris SG,0,2,1415
+F1,2008/5/15,Paris SG,Guingamp,6,0,1415
+F1,2009/5/15,Bordeaux,Nantes,2,1,1415
+F1,2009/5/15,Caen,Lyon,3,0,1415
+F1,2009/5/15,Evian Thonon Gaillard,Reims,2,3,1415
+F1,2009/5/15,Metz,Lorient,0,4,1415
+F1,2009/5/15,Rennes,Bastia,0,1,1415
+F1,2009/5/15,Toulouse,Lille,3,2,1415
+F1,2010/5/15,Lens,Montpellier,0,1,1415
+F1,2010/5/15,Marseille,Monaco,2,1,1415
+F1,2010/5/15,St Etienne,Nice,5,0,1415
+F1,2016/5/15,Bastia,Caen,1,1,1415
+F1,2016/5/15,Evian Thonon Gaillard,St Etienne,1,2,1415
+F1,2016/5/15,Guingamp,Toulouse,2,1,1415
+F1,2016/5/15,Lille,Marseille,0,4,1415
+F1,2016/5/15,Lyon,Bordeaux,1,1,1415
+F1,2016/5/15,Monaco,Metz,2,0,1415
+F1,2016/5/15,Montpellier,Paris SG,1,2,1415
+F1,2016/5/15,Nantes,Lorient,1,1,1415
+F1,2016/5/15,Nice,Lens,2,1,1415
+F1,2016/5/15,Reims,Rennes,1,0,1415
+F1,2023/5/15,Bordeaux,Montpellier,2,1,1415
+F1,2023/5/15,Caen,Evian Thonon Gaillard,3,2,1415
+F1,2023/5/15,Lens,Nantes,1,0,1415
+F1,2023/5/15,Lorient,Monaco,0,1,1415
+F1,2023/5/15,Marseille,Bastia,3,0,1415
+F1,2023/5/15,Metz,Lille,1,4,1415
+F1,2023/5/15,Paris SG,Reims,3,2,1415
+F1,2023/5/15,Rennes,Lyon,0,1,1415
+F1,2023/5/15,St Etienne,Guingamp,2,1,1415
+F1,2023/5/15,Toulouse,Nice,2,3,1415
+F1,2007/8/15,Lille,Paris SG,0,1,1516
+F1,2008/8/15,Bastia,Rennes,2,1,1516
+F1,2008/8/15,Marseille,Caen,0,1,1516
+F1,2008/8/15,Montpellier,Angers,0,2,1516
+F1,2008/8/15,Nantes,Guingamp,1,0,1516
+F1,2008/8/15,Nice,Monaco,1,2,1516
+F1,2008/8/15,Troyes,Ajaccio GFCO,0,0,1516
+F1,2009/8/15,Bordeaux,Reims,1,2,1516
+F1,2009/8/15,Lyon,Lorient,0,0,1516
+F1,2009/8/15,Toulouse,St Etienne,2,1,1516
+F1,2014/8/15,Monaco,Lille,0,0,1516
+F1,2015/8/15,Angers,Nantes,0,0,1516
+F1,2015/8/15,Caen,Toulouse,1,0,1516
+F1,2015/8/15,Guingamp,Lyon,0,1,1516
+F1,2015/8/15,Rennes,Montpellier,1,0,1516
+F1,2015/8/15,St Etienne,Bordeaux,1,1,1516
+F1,2015/8/15,Troyes,Nice,3,3,1516
+F1,2016/8/15,Lorient,Bastia,1,1,1516
+F1,2016/8/15,Paris SG,Ajaccio GFCO,2,0,1516
+F1,2016/8/15,Reims,Marseille,1,0,1516
+F1,2021/8/15,Montpellier,Paris SG,0,1,1516
+F1,2022/8/15,Ajaccio GFCO,Angers,0,2,1516
+F1,2022/8/15,Bastia,Guingamp,3,0,1516
+F1,2022/8/15,Lyon,Rennes,1,2,1516
+F1,2022/8/15,Nantes,Reims,1,0,1516
+F1,2022/8/15,Nice,Caen,2,1,1516
+F1,2022/8/15,Toulouse,Monaco,1,1,1516
+F1,2023/8/15,Lille,Bordeaux,0,0,1516
+F1,2023/8/15,Lorient,St Etienne,0,1,1516
+F1,2023/8/15,Marseille,Troyes,6,0,1516
+F1,2028/8/15,Guingamp,Marseille,2,0,1516
+F1,2029/8/15,Angers,Nice,1,1,1516
+F1,2029/8/15,Caen,Lyon,0,4,1516
+F1,2029/8/15,Lille,Ajaccio GFCO,1,0,1516
+F1,2029/8/15,Reims,Lorient,4,1,1516
+F1,2029/8/15,Rennes,Toulouse,3,1,1516
+F1,2029/8/15,Troyes,Montpellier,0,0,1516
+F1,1930/8/15,Bordeaux,Nantes,2,0,1516
+F1,1930/8/15,Monaco,Paris SG,0,3,1516
+F1,1930/8/15,St Etienne,Bastia,2,1,1516
+F1,2011/9/15,Paris SG,Bordeaux,2,2,1516
+F1,2012/9/15,Lorient,Angers,3,1,1516
+F1,2012/9/15,Lyon,Lille,0,0,1516
+F1,2012/9/15,Montpellier,St Etienne,1,2,1516
+F1,2012/9/15,Nice,Guingamp,0,1,1516
+F1,2012/9/15,Toulouse,Reims,2,2,1516
+F1,2012/9/15,Troyes,Caen,1,3,1516
+F1,2013/9/15,Ajaccio GFCO,Monaco,0,1,1516
+F1,2013/9/15,Marseille,Bastia,4,1,1516
+F1,2013/9/15,Nantes,Rennes,0,2,1516
+F1,2018/9/15,Rennes,Lille,1,1,1516
+F1,2019/9/15,Angers,Troyes,1,0,1516
+F1,2019/9/15,Bastia,Nice,1,3,1516
+F1,2019/9/15,Caen,Montpellier,2,1,1516
+F1,2019/9/15,Guingamp,Ajaccio GFCO,2,1,1516
+F1,2019/9/15,Reims,Paris SG,1,1,1516
+F1,2020/9/15,Bordeaux,Toulouse,1,1,1516
+F1,2020/9/15,Marseille,Lyon,1,1,1516
+F1,2020/9/15,Monaco,Lorient,2,3,1516
+F1,2020/9/15,St Etienne,Nantes,2,0,1516
+F1,2022/9/15,Angers,Reims,0,0,1516
+F1,2022/9/15,Paris SG,Guingamp,3,0,1516
+F1,2023/9/15,Ajaccio GFCO,Rennes,1,1,1516
+F1,2023/9/15,Lorient,Caen,2,0,1516
+F1,2023/9/15,Lyon,Bastia,2,0,1516
+F1,2023/9/15,Nice,Bordeaux,6,1,1516
+F1,2023/9/15,Toulouse,Marseille,1,1,1516
+F1,2023/9/15,Troyes,St Etienne,0,1,1516
+F1,2024/9/15,Montpellier,Monaco,2,3,1516
+F1,2025/9/15,Reims,Lille,1,0,1516
+F1,2026/9/15,Bastia,Toulouse,3,0,1516
+F1,2026/9/15,Bordeaux,Lyon,3,1,1516
+F1,2026/9/15,Caen,Ajaccio GFCO,2,0,1516
+F1,2026/9/15,Nantes,Paris SG,1,4,1516
+F1,2026/9/15,Rennes,Troyes,1,1,1516
+F1,2027/9/15,Guingamp,Monaco,3,3,1516
+F1,2027/9/15,Marseille,Angers,1,2,1516
+F1,2027/9/15,Montpellier,Lorient,2,1,1516
+F1,2027/9/15,St Etienne,Nice,1,4,1516
+F1,2029/9/15,Lille,Nantes,0,1,1516
+F1,2002/10/15,Lille,Montpellier,2,0,1516
+F1,2003/10/15,Ajaccio GFCO,Toulouse,2,2,1516
+F1,2003/10/15,Angers,Bastia,1,0,1516
+F1,2003/10/15,Lyon,Reims,1,0,1516
+F1,2003/10/15,Troyes,Guingamp,0,1,1516
+F1,2004/10/15,Caen,St Etienne,1,0,1516
+F1,2004/10/15,Lorient,Bordeaux,3,2,1516
+F1,2004/10/15,Monaco,Rennes,1,1,1516
+F1,2004/10/15,Paris SG,Marseille,2,1,1516
+F1,2016/10/15,Monaco,Lyon,1,1,1516
+F1,2017/10/15,Bastia,Paris SG,0,2,1516
+F1,2017/10/15,Guingamp,Lille,1,1,1516
+F1,2017/10/15,Nantes,Troyes,3,0,1516
+F1,2017/10/15,Reims,Caen,0,1,1516
+F1,2017/10/15,St Etienne,Ajaccio GFCO,2,0,1516
+F1,2017/10/15,Toulouse,Angers,1,2,1516
+F1,2018/10/15,Bordeaux,Montpellier,0,0,1516
+F1,2018/10/15,Marseille,Lorient,1,1,1516
+F1,2018/10/15,Rennes,Nice,1,4,1516
+F1,2023/10/15,Caen,Nantes,0,2,1516
+F1,2023/10/15,Lyon,Toulouse,3,0,1516
+F1,2024/10/15,Ajaccio GFCO,Nice,3,1,1516
+F1,2024/10/15,Angers,Guingamp,0,0,1516
+F1,2024/10/15,Lorient,Rennes,1,1,1516
+F1,2024/10/15,Montpellier,Bastia,2,0,1516
+F1,2025/10/15,Bordeaux,Troyes,1,0,1516
+F1,2025/10/15,Lille,Marseille,1,2,1516
+F1,2025/10/15,Paris SG,St Etienne,4,1,1516
+F1,2025/10/15,Reims,Monaco,0,1,1516
+F1,1930/10/15,Rennes,Paris SG,0,1,1516
+F1,1931/10/15,Ajaccio GFCO,Bordeaux,2,0,1516
+F1,1931/10/15,Bastia,Caen,1,0,1516
+F1,1931/10/15,Guingamp,Lorient,2,2,1516
+F1,1931/10/15,St Etienne,Reims,3,0,1516
+F1,1931/10/15,Toulouse,Montpellier,1,1,1516
+F1,1931/10/15,Troyes,Lyon,0,1,1516
+F1,2001/11/15,Monaco,Angers,1,0,1516
+F1,2001/11/15,Nantes,Marseille,0,1,1516
+F1,2001/11/15,Nice,Lille,0,0,1516
+F1,2004/11/15,Nice,Nantes,1,2,1516
+F1,2006/11/15,Angers,Rennes,0,2,1516
+F1,2007/11/15,Caen,Guingamp,2,1,1516
+F1,2007/11/15,Lille,Bastia,1,1,1516
+F1,2007/11/15,Lorient,Troyes,4,1,1516
+F1,2007/11/15,Montpellier,Nantes,2,1,1516
+F1,2007/11/15,Paris SG,Toulouse,5,0,1516
+F1,2007/11/15,Reims,Ajaccio GFCO,1,2,1516
+F1,2008/11/15,Bordeaux,Monaco,3,1,1516
+F1,2008/11/15,Lyon,St Etienne,3,0,1516
+F1,2008/11/15,Marseille,Nice,0,1,1516
+F1,2020/11/15,Nice,Lyon,3,0,1516
+F1,2021/11/15,Guingamp,Toulouse,2,0,1516
+F1,2021/11/15,Lorient,Paris SG,1,2,1516
+F1,2021/11/15,Monaco,Nantes,1,0,1516
+F1,2021/11/15,Montpellier,Reims,3,1,1516
+F1,2021/11/15,Troyes,Lille,1,1,1516
+F1,2022/11/15,Bastia,Ajaccio GFCO,1,2,1516
+F1,2022/11/15,Caen,Angers,0,0,1516
+F1,2022/11/15,Rennes,Bordeaux,2,2,1516
+F1,2022/11/15,St Etienne,Marseille,0,2,1516
+F1,2027/11/15,Lyon,Montpellier,2,4,1516
+F1,2028/11/15,Ajaccio GFCO,Lorient,1,1,1516
+F1,2028/11/15,Angers,Lille,2,0,1516
+F1,2028/11/15,Nantes,Bastia,0,0,1516
+F1,2028/11/15,Paris SG,Troyes,4,1,1516
+F1,2028/11/15,Reims,Rennes,2,2,1516
+F1,2028/11/15,Toulouse,Nice,2,0,1516
+F1,2029/11/15,Bordeaux,Caen,1,4,1516
+F1,2029/11/15,Marseille,Monaco,3,3,1516
+F1,2029/11/15,St Etienne,Guingamp,3,0,1516
+F1,2001/12/15,Angers,Paris SG,0,0,1516
+F1,2001/12/15,Lorient,Nice,0,0,1516
+F1,2001/12/15,Nantes,Lyon,0,0,1516
+F1,2002/12/15,Bastia,Bordeaux,1,0,1516
+F1,2002/12/15,Guingamp,Reims,1,2,1516
+F1,2002/12/15,Lille,St Etienne,1,0,1516
+F1,2002/12/15,Monaco,Caen,1,1,1516
+F1,2002/12/15,Montpellier,Ajaccio GFCO,0,2,1516
+F1,2002/12/15,Troyes,Toulouse,0,3,1516
+F1,2003/12/15,Rennes,Marseille,0,1,1516
+F1,2004/12/15,Nice,Paris SG,0,3,1516
+F1,2005/12/15,Ajaccio GFCO,Nantes,1,1,1516
+F1,2005/12/15,Bastia,Monaco,1,2,1516
+F1,2005/12/15,Caen,Lille,1,2,1516
+F1,2005/12/15,Lyon,Angers,0,2,1516
+F1,2005/12/15,Reims,Troyes,1,1,1516
+F1,2005/12/15,Toulouse,Lorient,2,3,1516
+F1,2006/12/15,Bordeaux,Guingamp,1,0,1516
+F1,2006/12/15,Marseille,Montpellier,2,2,1516
+F1,2006/12/15,St Etienne,Rennes,1,1,1516
+F1,2011/12/15,Rennes,Caen,1,1,1516
+F1,2012/12/15,Lille,Lorient,3,0,1516
+F1,2012/12/15,Montpellier,Guingamp,2,1,1516
+F1,2012/12/15,Nantes,Toulouse,1,1,1516
+F1,2012/12/15,Reims,Nice,1,1,1516
+F1,2012/12/15,Troyes,Bastia,1,1,1516
+F1,2013/12/15,Angers,Bordeaux,1,1,1516
+F1,2013/12/15,Marseille,Ajaccio GFCO,1,1,1516
+F1,2013/12/15,Monaco,St Etienne,1,0,1516
+F1,2013/12/15,Paris SG,Lyon,5,1,1516
+F1,2018/12/15,Nice,Montpellier,1,0,1516
+F1,2019/12/15,Bastia,Reims,2,0,1516
+F1,2019/12/15,Caen,Paris SG,0,3,1516
+F1,2019/12/15,Guingamp,Rennes,0,2,1516
+F1,2019/12/15,Lorient,Nantes,0,0,1516
+F1,2019/12/15,Toulouse,Lille,1,1,1516
+F1,2019/12/15,Troyes,Monaco,0,0,1516
+F1,2020/12/15,Ajaccio GFCO,Lyon,2,1,1516
+F1,2020/12/15,Bordeaux,Marseille,1,1,1516
+F1,2020/12/15,St Etienne,Angers,1,0,1516
+F1,2008/1/16,Paris SG,Bastia,2,0,1516
+F1,2009/1/16,Angers,Caen,2,0,1516
+F1,2009/1/16,Lyon,Troyes,4,1,1516
+F1,2009/1/16,Monaco,Ajaccio GFCO,2,2,1516
+F1,2009/1/16,Montpellier,Bordeaux,0,1,1516
+F1,2009/1/16,Reims,Toulouse,1,3,1516
+F1,2009/1/16,Rennes,Lorient,2,2,1516
+F1,2010/1/16,Lille,Nice,1,1,1516
+F1,2010/1/16,Marseille,Guingamp,0,0,1516
+F1,2010/1/16,Nantes,St Etienne,2,1,1516
+F1,2015/1/16,Nice,Angers,2,1,1516
+F1,2016/1/16,Ajaccio GFCO,Reims,2,2,1516
+F1,2016/1/16,Bastia,Montpellier,1,0,1516
+F1,2016/1/16,Bordeaux,Lille,1,0,1516
+F1,2016/1/16,Guingamp,Nantes,2,2,1516
+F1,2016/1/16,Toulouse,Paris SG,0,1,1516
+F1,2016/1/16,Troyes,Rennes,2,4,1516
+F1,2017/1/16,Caen,Marseille,1,3,1516
+F1,2017/1/16,Lorient,Monaco,0,2,1516
+F1,2017/1/16,St Etienne,Lyon,1,0,1516
+F1,2022/1/16,Rennes,Ajaccio GFCO,1,0,1516
+F1,2023/1/16,Guingamp,Bastia,1,0,1516
+F1,2023/1/16,Lille,Troyes,1,3,1516
+F1,2023/1/16,Montpellier,Caen,1,2,1516
+F1,2023/1/16,Nantes,Bordeaux,2,2,1516
+F1,2023/1/16,Nice,Lorient,2,1,1516
+F1,2023/1/16,Paris SG,Angers,5,1,1516
+F1,2024/1/16,Lyon,Marseille,1,1,1516
+F1,2024/1/16,Monaco,Toulouse,4,0,1516
+F1,2024/1/16,Reims,St Etienne,1,1,1516
+F1,2029/1/16,Marseille,Lille,1,1,1516
+F1,1930/1/16,Ajaccio GFCO,Montpellier,0,4,1516
+F1,1930/1/16,Angers,Monaco,3,0,1516
+F1,1930/1/16,Bastia,Lyon,1,0,1516
+F1,1930/1/16,Lorient,Reims,2,0,1516
+F1,1930/1/16,Toulouse,Guingamp,1,2,1516
+F1,1930/1/16,Troyes,Nantes,0,1,1516
+F1,1931/1/16,Bordeaux,Rennes,4,0,1516
+F1,1931/1/16,Caen,Nice,2,0,1516
+F1,1931/1/16,St Etienne,Paris SG,0,2,1516
+F1,2002/2/16,Monaco,Bastia,2,0,1516
+F1,2002/2/16,Montpellier,Marseille,0,1,1516
+F1,2003/2/16,Guingamp,Troyes,4,0,1516
+F1,2003/2/16,Lille,Caen,1,0,1516
+F1,2003/2/16,Lyon,Bordeaux,3,0,1516
+F1,2003/2/16,Nantes,Ajaccio GFCO,3,1,1516
+F1,2003/2/16,Nice,Toulouse,1,0,1516
+F1,2003/2/16,Paris SG,Lorient,3,1,1516
+F1,2003/2/16,Reims,Angers,2,1,1516
+F1,2004/2/16,Rennes,St Etienne,0,1,1516
+F1,2006/2/16,Ajaccio GFCO,Guingamp,0,0,1516
+F1,2006/2/16,Angers,Lyon,0,3,1516
+F1,2006/2/16,Bastia,Troyes,2,0,1516
+F1,2006/2/16,Caen,Reims,0,2,1516
+F1,2006/2/16,Lorient,Montpellier,1,1,1516
+F1,2006/2/16,Monaco,Nice,1,0,1516
+F1,2006/2/16,Toulouse,Nantes,0,0,1516
+F1,2007/2/16,Bordeaux,St Etienne,1,4,1516
+F1,2007/2/16,Lille,Rennes,1,1,1516
+F1,2007/2/16,Marseille,Paris SG,1,2,1516
+F1,2012/2/16,Rennes,Angers,1,0,1516
+F1,2013/2/16,Ajaccio GFCO,Troyes,2,3,1516
+F1,2013/2/16,Guingamp,Bordeaux,2,4,1516
+F1,2013/2/16,Montpellier,Toulouse,2,0,1516
+F1,2013/2/16,Nantes,Lorient,2,1,1516
+F1,2013/2/16,Paris SG,Lille,0,0,1516
+F1,2013/2/16,Reims,Bastia,0,1,1516
+F1,2014/2/16,Lyon,Caen,4,1,1516
+F1,2014/2/16,Nice,Marseille,1,1,1516
+F1,2014/2/16,St Etienne,Monaco,1,1,1516
+F1,2019/2/16,Bordeaux,Nice,0,0,1516
+F1,2020/2/16,Angers,Montpellier,2,3,1516
+F1,2020/2/16,Lorient,Guingamp,4,3,1516
+F1,2020/2/16,Monaco,Troyes,3,1,1516
+F1,2020/2/16,Paris SG,Reims,4,1,1516
+F1,2020/2/16,Toulouse,Ajaccio GFCO,1,1,1516
+F1,2021/2/16,Caen,Rennes,1,0,1516
+F1,2021/2/16,Lille,Lyon,1,0,1516
+F1,2021/2/16,Marseille,St Etienne,1,1,1516
+F1,2026/2/16,Nice,Bastia,0,2,1516
+F1,2027/2/16,Guingamp,Angers,2,2,1516
+F1,2027/2/16,Montpellier,Lille,3,0,1516
+F1,2027/2/16,Reims,Bordeaux,4,1,1516
+F1,2027/2/16,Toulouse,Rennes,1,2,1516
+F1,2027/2/16,Troyes,Lorient,0,1,1516
+F1,2028/2/16,Lyon,Paris SG,2,1,1516
+F1,2028/2/16,Nantes,Monaco,0,0,1516
+F1,2028/2/16,St Etienne,Caen,1,2,1516
+F1,2004/3/16,Caen,Monaco,2,2,1516
+F1,2005/3/16,Angers,St Etienne,0,0,1516
+F1,2005/3/16,Bastia,Lorient,0,0,1516
+F1,2005/3/16,Bordeaux,Ajaccio GFCO,1,1,1516
+F1,2005/3/16,Lille,Reims,2,0,1516
+F1,2005/3/16,Nice,Troyes,2,1,1516
+F1,2005/3/16,Paris SG,Montpellier,0,0,1516
+F1,2006/3/16,Lyon,Guingamp,5,1,1516
+F1,2006/3/16,Marseille,Toulouse,1,1,1516
+F1,2006/3/16,Rennes,Nantes,4,1,1516
+F1,2009/3/16,Ajaccio GFCO,Marseille,1,1,1516
+F1,2009/3/16,Bastia,Nantes,0,0,1516
+F1,2011/3/16,Monaco,Reims,2,2,1516
+F1,2012/3/16,Ajaccio GFCO,Caen,1,0,1516
+F1,2012/3/16,Bastia,Lille,1,2,1516
+F1,2012/3/16,Guingamp,St Etienne,2,0,1516
+F1,2012/3/16,Lorient,Marseille,1,1,1516
+F1,2012/3/16,Montpellier,Nice,0,2,1516
+F1,2012/3/16,Toulouse,Bordeaux,4,0,1516
+F1,2013/3/16,Nantes,Angers,2,0,1516
+F1,2013/3/16,Rennes,Lyon,2,2,1516
+F1,2013/3/16,Troyes,Paris SG,0,9,1516
+F1,2018/3/16,Marseille,Rennes,2,5,1516
+F1,2019/3/16,Angers,Lorient,5,1,1516
+F1,2019/3/16,Caen,Troyes,2,1,1516
+F1,2019/3/16,Lille,Toulouse,1,0,1516
+F1,2019/3/16,Lyon,Nantes,2,0,1516
+F1,2019/3/16,Reims,Guingamp,0,1,1516
+F1,2019/3/16,St Etienne,Montpellier,3,0,1516
+F1,2020/3/16,Bordeaux,Bastia,1,1,1516
+F1,2020/3/16,Nice,Ajaccio GFCO,3,0,1516
+F1,2020/3/16,Paris SG,Monaco,0,2,1516
+F1,2001/4/16,Monaco,Bordeaux,1,2,1516
+F1,2002/4/16,Ajaccio GFCO,St Etienne,0,2,1516
+F1,2002/4/16,Guingamp,Montpellier,2,2,1516
+F1,2002/4/16,Paris SG,Nice,4,1,1516
+F1,2002/4/16,Rennes,Reims,3,1,1516
+F1,2002/4/16,Toulouse,Caen,2,0,1516
+F1,2002/4/16,Troyes,Angers,0,1,1516
+F1,2003/4/16,Bastia,Marseille,2,1,1516
+F1,2003/4/16,Lorient,Lyon,1,3,1516
+F1,2003/4/16,Nantes,Lille,0,3,1516
+F1,2008/4/16,Montpellier,Lyon,0,2,1516
+F1,2009/4/16,Angers,Ajaccio GFCO,0,0,1516
+F1,2009/4/16,Caen,Lorient,1,2,1516
+F1,2009/4/16,Guingamp,Paris SG,0,2,1516
+F1,2009/4/16,Reims,Nantes,2,1,1516
+F1,2009/4/16,St Etienne,Troyes,1,0,1516
+F1,2009/4/16,Toulouse,Bastia,4,0,1516
+F1,2010/4/16,Lille,Monaco,4,1,1516
+F1,2010/4/16,Marseille,Bordeaux,0,0,1516
+F1,2010/4/16,Nice,Rennes,3,0,1516
+F1,2015/4/16,Lyon,Nice,1,1,1516
+F1,2016/4/16,Ajaccio GFCO,Lille,2,4,1516
+F1,2016/4/16,Bastia,St Etienne,0,1,1516
+F1,2016/4/16,Bordeaux,Angers,1,3,1516
+F1,2016/4/16,Lorient,Toulouse,1,1,1516
+F1,2016/4/16,Paris SG,Caen,6,0,1516
+F1,2016/4/16,Troyes,Reims,2,1,1516
+F1,2017/4/16,Monaco,Marseille,2,1,1516
+F1,2017/4/16,Nantes,Montpellier,0,2,1516
+F1,2017/4/16,Rennes,Guingamp,0,3,1516
+F1,2022/4/16,Nice,Reims,2,0,1516
+F1,2023/4/16,Toulouse,Lyon,2,3,1516
+F1,2024/4/16,Ajaccio GFCO,Bastia,3,2,1516
+F1,2024/4/16,Guingamp,Caen,1,1,1516
+F1,2024/4/16,Marseille,Nantes,1,1,1516
+F1,2024/4/16,Montpellier,Troyes,4,1,1516
+F1,2024/4/16,Rennes,Monaco,1,1,1516
+F1,2024/4/16,St Etienne,Lorient,2,0,1516
+F1,2027/4/16,Lille,Angers,0,0,1516
+F1,2029/4/16,Paris SG,Rennes,4,0,1516
+F1,1930/4/16,Caen,Bastia,0,0,1516
+F1,1930/4/16,Lorient,Lille,0,1,1516
+F1,1930/4/16,Lyon,Ajaccio GFCO,2,1,1516
+F1,1930/4/16,Monaco,Guingamp,3,2,1516
+F1,1930/4/16,Nantes,Nice,1,0,1516
+F1,1930/4/16,Reims,Montpellier,2,3,1516
+F1,1930/4/16,St Etienne,Toulouse,0,0,1516
+F1,1930/4/16,Troyes,Bordeaux,2,4,1516
+F1,2001/5/16,Angers,Marseille,0,1,1516
+F1,2007/5/16,Ajaccio GFCO,Paris SG,0,4,1516
+F1,2007/5/16,Bastia,Angers,1,0,1516
+F1,2007/5/16,Bordeaux,Lorient,3,0,1516
+F1,2007/5/16,Lille,Guingamp,0,0,1516
+F1,2007/5/16,Lyon,Monaco,6,1,1516
+F1,2007/5/16,Marseille,Reims,1,0,1516
+F1,2007/5/16,Montpellier,Rennes,2,0,1516
+F1,2007/5/16,Nantes,Caen,1,2,1516
+F1,2007/5/16,Nice,St Etienne,2,0,1516
+F1,2007/5/16,Toulouse,Troyes,1,0,1516
+F1,2011/5/16,Bordeaux,Paris SG,1,1,1516
+F1,2014/5/16,Angers,Toulouse,2,3,1516
+F1,2014/5/16,Caen,Bordeaux,1,0,1516
+F1,2014/5/16,Guingamp,Nice,2,3,1516
+F1,2014/5/16,Lorient,Ajaccio GFCO,1,0,1516
+F1,2014/5/16,Monaco,Montpellier,2,0,1516
+F1,2014/5/16,Paris SG,Nantes,4,0,1516
+F1,2014/5/16,Reims,Lyon,4,1,1516
+F1,2014/5/16,Rennes,Bastia,1,2,1516
+F1,2014/5/16,St Etienne,Lille,0,1,1516
+F1,2014/5/16,Troyes,Marseille,1,1,1516
+F1,2012/8/16,Bastia,Paris SG,0,1,1617
+F1,2012/8/16,Monaco,Guingamp,2,2,1617
+F1,2013/8/16,Bordeaux,St Etienne,3,2,1617
+F1,2013/8/16,Caen,Lorient,3,2,1617
+F1,2013/8/16,Dijon,Nantes,0,1,1617
+F1,2013/8/16,Metz,Lille,3,2,1617
+F1,2013/8/16,Montpellier,Angers,1,0,1617
+F1,2014/8/16,Marseille,Toulouse,0,0,1617
+F1,2014/8/16,Nancy,Lyon,0,3,1617
+F1,2014/8/16,Nice,Rennes,1,0,1617
+F1,2019/8/16,Lyon,Caen,2,0,1617
+F1,2020/8/16,Angers,Nice,0,1,1617
+F1,2020/8/16,Lille,Dijon,1,0,1617
+F1,2020/8/16,Lorient,Bastia,0,3,1617
+F1,2020/8/16,Nantes,Monaco,0,1,1617
+F1,2020/8/16,Rennes,Nancy,2,0,1617
+F1,2020/8/16,Toulouse,Bordeaux,4,1,1617
+F1,2021/8/16,Guingamp,Marseille,2,1,1617
+F1,2021/8/16,Paris SG,Metz,3,0,1617
+F1,2021/8/16,St Etienne,Montpellier,3,1,1617
+F1,2026/8/16,Marseille,Lorient,2,0,1617
+F1,2027/8/16,Caen,Bastia,2,0,1617
+F1,2027/8/16,Dijon,Lyon,4,2,1617
+F1,2027/8/16,Metz,Angers,2,0,1617
+F1,2027/8/16,Montpellier,Rennes,1,1,1617
+F1,2027/8/16,Nancy,Guingamp,0,2,1617
+F1,2027/8/16,Nice,Lille,1,1,1617
+F1,2028/8/16,Bordeaux,Nantes,1,0,1617
+F1,2028/8/16,Monaco,Paris SG,3,1,1617
+F1,2028/8/16,St Etienne,Toulouse,0,0,1617
+F1,2009/9/16,Paris SG,St Etienne,1,1,1617
+F1,2010/9/16,Angers,Dijon,3,1,1617
+F1,2010/9/16,Bastia,Toulouse,2,1,1617
+F1,2010/9/16,Guingamp,Montpellier,1,1,1617
+F1,2010/9/16,Lille,Monaco,1,4,1617
+F1,2010/9/16,Lorient,Nancy,0,2,1617
+F1,2010/9/16,Lyon,Bordeaux,1,3,1617
+F1,2011/9/16,Nantes,Metz,0,3,1617
+F1,2011/9/16,Nice,Marseille,3,2,1617
+F1,2011/9/16,Rennes,Caen,2,0,1617
+F1,2016/9/16,Caen,Paris SG,0,6,1617
+F1,2017/9/16,Bordeaux,Angers,0,1,1617
+F1,2017/9/16,Dijon,Metz,0,0,1617
+F1,2017/9/16,Lorient,Lille,1,0,1617
+F1,2017/9/16,Monaco,Rennes,3,0,1617
+F1,2017/9/16,Nancy,Nantes,1,1,1617
+F1,2017/9/16,Toulouse,Guingamp,2,1,1617
+F1,2018/9/16,Marseille,Lyon,0,0,1617
+F1,2018/9/16,Montpellier,Nice,1,1,1617
+F1,2018/9/16,St Etienne,Bastia,1,0,1617
+F1,2020/9/16,Lille,Toulouse,1,2,1617
+F1,2020/9/16,Paris SG,Dijon,3,0,1617
+F1,2021/9/16,Angers,Caen,2,1,1617
+F1,2021/9/16,Bastia,Nancy,0,0,1617
+F1,2021/9/16,Guingamp,Lorient,1,0,1617
+F1,2021/9/16,Lyon,Montpellier,5,1,1617
+F1,2021/9/16,Metz,Bordeaux,0,3,1617
+F1,2021/9/16,Nantes,St Etienne,0,0,1617
+F1,2021/9/16,Nice,Monaco,4,0,1617
+F1,2021/9/16,Rennes,Marseille,3,2,1617
+F1,2023/9/16,Toulouse,Paris SG,2,0,1617
+F1,2024/9/16,Bastia,Guingamp,1,0,1617
+F1,2024/9/16,Bordeaux,Caen,0,0,1617
+F1,2024/9/16,Dijon,Rennes,3,0,1617
+F1,2024/9/16,Lorient,Lyon,1,0,1617
+F1,2024/9/16,Monaco,Angers,2,1,1617
+F1,2024/9/16,Montpellier,Metz,0,1,1617
+F1,2025/9/16,Marseille,Nantes,2,1,1617
+F1,2025/9/16,Nancy,Nice,0,1,1617
+F1,2025/9/16,St Etienne,Lille,3,1,1617
+F1,1930/9/16,Rennes,Guingamp,1,0,1617
+F1,2001/10/16,Caen,Toulouse,1,0,1617
+F1,2001/10/16,Dijon,Montpellier,3,3,1617
+F1,2001/10/16,Lille,Nancy,1,0,1617
+F1,2001/10/16,Metz,Monaco,0,7,1617
+F1,2001/10/16,Nantes,Bastia,1,0,1617
+F1,2001/10/16,Paris SG,Bordeaux,2,0,1617
+F1,2002/10/16,Angers,Marseille,1,1,1617
+F1,2002/10/16,Lyon,St Etienne,2,0,1617
+F1,2002/10/16,Nice,Lorient,2,1,1617
+F1,2014/10/16,Nice,Lyon,2,0,1617
+F1,2014/10/16,Toulouse,Monaco,3,1,1617
+F1,2015/10/16,Bastia,Angers,1,2,1617
+F1,2015/10/16,Guingamp,Lille,1,0,1617
+F1,2015/10/16,Lorient,Nantes,1,2,1617
+F1,2015/10/16,Montpellier,Caen,3,2,1617
+F1,2015/10/16,Nancy,Paris SG,1,2,1617
+F1,2016/10/16,Marseille,Metz,1,0,1617
+F1,2016/10/16,Rennes,Bordeaux,1,1,1617
+F1,2016/10/16,St Etienne,Dijon,1,1,1617
+F1,2021/10/16,Monaco,Montpellier,6,2,1617
+F1,2022/10/16,Angers,Toulouse,0,0,1617
+F1,2022/10/16,Bordeaux,Nancy,1,1,1617
+F1,2022/10/16,Dijon,Lorient,1,0,1617
+F1,2022/10/16,Lille,Bastia,2,1,1617
+F1,2022/10/16,Lyon,Guingamp,1,3,1617
+F1,2022/10/16,Nantes,Rennes,1,2,1617
+F1,2023/10/16,Caen,St Etienne,0,2,1617
+F1,2023/10/16,Metz,Nice,2,4,1617
+F1,2023/10/16,Paris SG,Marseille,0,0,1617
+F1,2028/10/16,Lille,Paris SG,0,1,1617
+F1,2029/10/16,Bastia,Dijon,0,0,1617
+F1,2029/10/16,Guingamp,Angers,1,0,1617
+F1,2029/10/16,Lorient,Montpellier,2,2,1617
+F1,2029/10/16,Nancy,Caen,2,0,1617
+F1,2029/10/16,St Etienne,Monaco,1,1,1617
+F1,2029/10/16,Toulouse,Lyon,1,2,1617
+F1,1930/10/16,Marseille,Bordeaux,0,0,1617
+F1,1930/10/16,Nice,Nantes,4,1,1617
+F1,1930/10/16,Rennes,Metz,1,0,1617
+F1,2004/11/16,Montpellier,Marseille,3,1,1617
+F1,2005/11/16,Angers,Lille,1,0,1617
+F1,2005/11/16,Bordeaux,Lorient,2,1,1617
+F1,2005/11/16,Dijon,Guingamp,3,3,1617
+F1,2005/11/16,Lyon,Bastia,2,1,1617
+F1,2005/11/16,Monaco,Nancy,6,0,1617
+F1,2005/11/16,Nantes,Toulouse,1,1,1617
+F1,2006/11/16,Caen,Nice,1,0,1617
+F1,2006/11/16,Metz,St Etienne,0,0,1617
+F1,2006/11/16,Paris SG,Rennes,4,0,1617
+F1,2018/11/16,Lille,Lyon,0,1,1617
+F1,2018/11/16,Lorient,Monaco,0,3,1617
+F1,2019/11/16,Bastia,Montpellier,1,1,1617
+F1,2019/11/16,Nancy,Dijon,1,0,1617
+F1,2019/11/16,Paris SG,Nantes,2,0,1617
+F1,2019/11/16,Rennes,Angers,1,1,1617
+F1,2019/11/16,Toulouse,Metz,1,2,1617
+F1,2020/11/16,Guingamp,Bordeaux,1,1,1617
+F1,2020/11/16,Marseille,Caen,1,0,1617
+F1,2020/11/16,St Etienne,Nice,0,1,1617
+F1,2025/11/16,Rennes,Toulouse,1,0,1617
+F1,2026/11/16,Bordeaux,Dijon,3,2,1617
+F1,2026/11/16,Caen,Guingamp,1,1,1617
+F1,2026/11/16,Metz,Lorient,3,3,1617
+F1,2026/11/16,Monaco,Marseille,4,0,1617
+F1,2026/11/16,Montpellier,Nancy,0,0,1617
+F1,2026/11/16,Nantes,Lille,0,0,1617
+F1,2027/11/16,Angers,St Etienne,1,2,1617
+F1,2027/11/16,Lyon,Paris SG,1,2,1617
+F1,2027/11/16,Nice,Bastia,1,1,1617
+F1,2029/11/16,Dijon,Monaco,1,1,1617
+F1,2029/11/16,Lille,Caen,4,2,1617
+F1,2029/11/16,Lorient,Rennes,2,1,1617
+F1,1930/11/16,Bastia,Bordeaux,1,1,1617
+F1,1930/11/16,Guingamp,Nice,0,1,1617
+F1,1930/11/16,Nancy,Metz,4,0,1617
+F1,1930/11/16,Nantes,Lyon,0,6,1617
+F1,1930/11/16,Paris SG,Angers,2,0,1617
+F1,1930/11/16,St Etienne,Marseille,0,0,1617
+F1,1930/11/16,Toulouse,Montpellier,1,0,1617
+F1,2002/12/16,Caen,Dijon,3,3,1617
+F1,2003/12/16,Angers,Lorient,2,2,1617
+F1,2003/12/16,Bordeaux,Lille,0,1,1617
+F1,2003/12/16,Guingamp,Nantes,2,0,1617
+F1,2003/12/16,Monaco,Bastia,5,0,1617
+F1,2003/12/16,Montpellier,Paris SG,3,0,1617
+F1,2004/12/16,Marseille,Nancy,3,0,1617
+F1,2004/12/16,Nice,Toulouse,3,0,1617
+F1,2004/12/16,Rennes,St Etienne,2,0,1617
+F1,2010/12/16,Bastia,Metz,2,0,1617
+F1,2010/12/16,Bordeaux,Monaco,0,4,1617
+F1,2010/12/16,Dijon,Marseille,1,2,1617
+F1,2010/12/16,Lille,Montpellier,2,1,1617
+F1,2010/12/16,Nancy,Angers,2,0,1617
+F1,2010/12/16,Toulouse,Lorient,3,2,1617
+F1,2011/12/16,Lyon,Rennes,1,0,1617
+F1,2011/12/16,Paris SG,Nice,2,2,1617
+F1,2011/12/16,St Etienne,Guingamp,1,0,1617
+F1,2016/12/16,Angers,Nantes,0,2,1617
+F1,2017/12/16,Guingamp,Paris SG,2,1,1617
+F1,2017/12/16,Lorient,St Etienne,2,1,1617
+F1,2017/12/16,Montpellier,Bordeaux,4,0,1617
+F1,2017/12/16,Rennes,Bastia,1,2,1617
+F1,2017/12/16,Toulouse,Nancy,1,1,1617
+F1,2018/12/16,Caen,Metz,3,0,1617
+F1,2018/12/16,Marseille,Lille,2,0,1617
+F1,2018/12/16,Monaco,Lyon,1,3,1617
+F1,2018/12/16,Nice,Dijon,2,1,1617
+F1,2021/12/16,Bastia,Marseille,1,2,1617
+F1,2021/12/16,Bordeaux,Nice,0,0,1617
+F1,2021/12/16,Dijon,Toulouse,2,0,1617
+F1,2021/12/16,Lille,Rennes,1,1,1617
+F1,2021/12/16,Lyon,Angers,2,0,1617
+F1,2021/12/16,Metz,Guingamp,2,2,1617
+F1,2021/12/16,Monaco,Caen,2,1,1617
+F1,2021/12/16,Nantes,Montpellier,1,0,1617
+F1,2021/12/16,Paris SG,Lorient,5,0,1617
+F1,2021/12/16,St Etienne,Nancy,0,0,1617
+F1,2013/1/17,Lille,St Etienne,1,1,1617
+F1,2014/1/17,Angers,Bordeaux,1,1,1617
+F1,2014/1/17,Lorient,Guingamp,3,1,1617
+F1,2014/1/17,Montpellier,Dijon,1,1,1617
+F1,2014/1/17,Nancy,Bastia,1,0,1617
+F1,2014/1/17,Rennes,Paris SG,0,1,1617
+F1,2014/1/17,Toulouse,Nantes,0,1,1617
+F1,2015/1/17,Caen,Lyon,3,2,1617
+F1,2015/1/17,Marseille,Monaco,1,4,1617
+F1,2015/1/17,Nice,Metz,0,0,1617
+F1,2018/1/17,Nantes,Caen,1,0,1617
+F1,2020/1/17,Bastia,Nice,1,1,1617
+F1,2021/1/17,Bordeaux,Toulouse,1,0,1617
+F1,2021/1/17,Dijon,Lille,0,0,1617
+F1,2021/1/17,Guingamp,Rennes,1,1,1617
+F1,2021/1/17,Metz,Montpellier,2,0,1617
+F1,2021/1/17,Nantes,Paris SG,0,2,1617
+F1,2022/1/17,Lyon,Marseille,3,1,1617
+F1,2022/1/17,Monaco,Lorient,4,0,1617
+F1,2022/1/17,St Etienne,Angers,2,1,1617
+F1,2027/1/17,Marseille,Montpellier,5,1,1617
+F1,2028/1/17,Angers,Metz,2,1,1617
+F1,2028/1/17,Bastia,Caen,1,1,1617
+F1,2028/1/17,Lorient,Dijon,2,3,1617
+F1,2028/1/17,Lyon,Lille,1,2,1617
+F1,2028/1/17,Nancy,Bordeaux,0,2,1617
+F1,2028/1/17,Rennes,Nantes,1,1,1617
+F1,2029/1/17,Nice,Guingamp,3,1,1617
+F1,2029/1/17,Paris SG,Monaco,1,1,1617
+F1,2029/1/17,Toulouse,St Etienne,0,3,1617
+F1,2003/2/17,Metz,Marseille,1,0,1617
+F1,2004/2/17,Bordeaux,Rennes,1,1,1617
+F1,2004/2/17,Dijon,Paris SG,1,3,1617
+F1,2004/2/17,Guingamp,Caen,0,1,1617
+F1,2004/2/17,Lille,Lorient,0,1,1617
+F1,2004/2/17,Monaco,Nice,3,0,1617
+F1,2004/2/17,Montpellier,Bastia,2,1,1617
+F1,2005/2/17,Nantes,Nancy,0,2,1617
+F1,2005/2/17,St Etienne,Lyon,2,0,1617
+F1,2005/2/17,Toulouse,Angers,4,0,1617
+F1,2007/2/17,Caen,Bordeaux,0,4,1617
+F1,2007/2/17,Montpellier,Monaco,1,2,1617
+F1,2007/2/17,Paris SG,Lille,2,1,1617
+F1,2008/2/17,Angers,Rennes,0,0,1617
+F1,2008/2/17,Lorient,Toulouse,1,1,1617
+F1,2008/2/17,Lyon,Nancy,4,0,1617
+F1,2008/2/17,Marseille,Guingamp,2,0,1617
+F1,2008/2/17,Metz,Dijon,2,1,1617
+F1,2008/2/17,Nice,St Etienne,1,0,1617
+F1,2010/2/17,Bordeaux,Paris SG,0,3,1617
+F1,2011/2/17,Dijon,Caen,2,0,1617
+F1,2011/2/17,Guingamp,Lyon,2,1,1617
+F1,2011/2/17,Lille,Angers,1,2,1617
+F1,2011/2/17,Monaco,Metz,5,0,1617
+F1,2011/2/17,Nancy,Montpellier,0,3,1617
+F1,2011/2/17,Toulouse,Bastia,4,1,1617
+F1,2012/2/17,Nantes,Marseille,3,2,1617
+F1,2012/2/17,Rennes,Nice,2,2,1617
+F1,2012/2/17,St Etienne,Lorient,4,0,1617
+F1,2017/2/17,Bastia,Monaco,1,1,1617
+F1,2018/2/17,Angers,Nancy,1,0,1617
+F1,2018/2/17,Caen,Lille,0,1,1617
+F1,2018/2/17,Lorient,Nice,0,1,1617
+F1,2018/2/17,Marseille,Rennes,2,0,1617
+F1,2018/2/17,Metz,Nantes,1,1,1617
+F1,2019/2/17,Bordeaux,Guingamp,3,0,1617
+F1,2019/2/17,Lyon,Dijon,4,2,1617
+F1,2019/2/17,Montpellier,St Etienne,2,1,1617
+F1,2019/2/17,Paris SG,Toulouse,0,0,1617
+F1,2021/2/17,Caen,Nancy,1,0,1617
+F1,2024/2/17,Nantes,Dijon,3,1,1617
+F1,2024/2/17,Nice,Montpellier,2,1,1617
+F1,2025/2/17,Angers,Bastia,3,0,1617
+F1,2025/2/17,Guingamp,Monaco,1,2,1617
+F1,2025/2/17,Lille,Bordeaux,2,3,1617
+F1,2025/2/17,Nancy,Toulouse,0,0,1617
+F1,2025/2/17,Rennes,Lorient,1,0,1617
+F1,2026/2/17,Lyon,Metz,5,0,1617
+F1,2026/2/17,Marseille,Paris SG,1,5,1617
+F1,2026/2/17,St Etienne,Caen,0,1,1617
+F1,2001/3/17,Bastia,Nantes,2,2,1617
+F1,2003/3/17,Bordeaux,Lyon,1,1,1617
+F1,2004/3/17,Bastia,St Etienne,0,0,1617
+F1,2004/3/17,Caen,Angers,2,3,1617
+F1,2004/3/17,Dijon,Nice,0,1,1617
+F1,2004/3/17,Metz,Rennes,1,1,1617
+F1,2004/3/17,Montpellier,Guingamp,1,1,1617
+F1,2004/3/17,Paris SG,Nancy,1,0,1617
+F1,2005/3/17,Lorient,Marseille,1,4,1617
+F1,2005/3/17,Monaco,Nantes,4,0,1617
+F1,2005/3/17,Toulouse,Lille,1,1,1617
+F1,2010/3/17,Marseille,Angers,3,0,1617
+F1,2010/3/17,Nice,Caen,2,2,1617
+F1,2011/3/17,Guingamp,Bastia,5,0,1617
+F1,2011/3/17,Monaco,Bordeaux,2,1,1617
+F1,2011/3/17,Montpellier,Nantes,2,3,1617
+F1,2011/3/17,Nancy,Lille,1,2,1617
+F1,2011/3/17,Rennes,Dijon,1,1,1617
+F1,2012/3/17,Lorient,Paris SG,1,2,1617
+F1,2012/3/17,Lyon,Toulouse,4,0,1617
+F1,2012/3/17,St Etienne,Metz,2,2,1617
+F1,2017/3/17,Lille,Marseille,0,0,1617
+F1,2017/3/17,Metz,Bastia,1,0,1617
+F1,2018/3/17,Angers,Guingamp,3,0,1617
+F1,2018/3/17,Bordeaux,Montpellier,5,1,1617
+F1,2018/3/17,Nancy,Lorient,2,3,1617
+F1,2018/3/17,Nantes,Nice,1,1,1617
+F1,2018/3/17,Toulouse,Rennes,0,0,1617
+F1,2019/3/17,Caen,Monaco,0,3,1617
+F1,2019/3/17,Dijon,St Etienne,0,1,1617
+F1,2019/3/17,Paris SG,Lyon,2,1,1617
+F1,1931/3/17,Guingamp,Nancy,1,0,1617
+F1,2001/4/17,Bastia,Lille,0,1,1617
+F1,2001/4/17,Marseille,Dijon,1,1,1617
+F1,2002/4/17,Lorient,Caen,1,0,1617
+F1,2002/4/17,Montpellier,Toulouse,0,1,1617
+F1,2002/4/17,Nantes,Angers,2,1,1617
+F1,2002/4/17,Nice,Bordeaux,2,1,1617
+F1,2002/4/17,Rennes,Lyon,1,1,1617
+F1,2005/4/17,Metz,Lyon,0,3,1617
+F1,2007/4/17,Lille,Nice,1,2,1617
+F1,2008/4/17,Angers,Monaco,0,1,1617
+F1,2008/4/17,Bordeaux,Metz,3,0,1617
+F1,2008/4/17,Caen,Montpellier,0,2,1617
+F1,2008/4/17,Dijon,Bastia,1,2,1617
+F1,2008/4/17,Lyon,Lorient,1,4,1617
+F1,2008/4/17,Nancy,Rennes,3,0,1617
+F1,2009/4/17,Paris SG,Guingamp,4,0,1617
+F1,2009/4/17,St Etienne,Nantes,1,1,1617
+F1,2009/4/17,Toulouse,Marseille,0,0,1617
+F1,2014/4/17,Angers,Paris SG,0,2,1617
+F1,2015/4/17,Guingamp,Toulouse,2,1,1617
+F1,2015/4/17,Metz,Caen,2,2,1617
+F1,2015/4/17,Monaco,Dijon,2,1,1617
+F1,2015/4/17,Montpellier,Lorient,2,0,1617
+F1,2015/4/17,Nice,Nancy,3,1,1617
+F1,2015/4/17,Rennes,Lille,2,0,1617
+F1,2016/4/17,Bastia,Lyon,0,3,1617
+F1,2016/4/17,Marseille,St Etienne,4,0,1617
+F1,2016/4/17,Nantes,Bordeaux,0,1,1617
+F1,2018/4/17,Metz,Paris SG,2,3,1617
+F1,2021/4/17,Nancy,Marseille,0,0,1617
+F1,2022/4/17,Bordeaux,Bastia,2,0,1617
+F1,2022/4/17,Caen,Nantes,0,2,1617
+F1,2022/4/17,Dijon,Angers,3,2,1617
+F1,2022/4/17,Lille,Guingamp,3,0,1617
+F1,2022/4/17,Lorient,Metz,5,1,1617
+F1,2022/4/17,Paris SG,Montpellier,2,0,1617
+F1,2023/4/17,Lyon,Monaco,1,2,1617
+F1,2023/4/17,St Etienne,Rennes,1,1,1617
+F1,2023/4/17,Toulouse,Nice,1,1,1617
+F1,2028/4/17,Angers,Lyon,1,2,1617
+F1,2029/4/17,Bastia,Rennes,1,0,1617
+F1,2029/4/17,Guingamp,St Etienne,0,2,1617
+F1,2029/4/17,Metz,Nancy,2,1,1617
+F1,2029/4/17,Monaco,Toulouse,3,1,1617
+F1,2029/4/17,Montpellier,Lille,0,3,1617
+F1,2029/4/17,Nantes,Lorient,1,0,1617
+F1,1930/4/17,Caen,Marseille,1,5,1617
+F1,1930/4/17,Dijon,Bordeaux,0,0,1617
+F1,1930/4/17,Nice,Paris SG,3,1,1617
+F1,2005/5/17,St Etienne,Bordeaux,2,2,1617
+F1,2006/5/17,Guingamp,Dijon,4,0,1617
+F1,2006/5/17,Lille,Metz,0,2,1617
+F1,2006/5/17,Lorient,Angers,1,1,1617
+F1,2006/5/17,Nancy,Monaco,0,3,1617
+F1,2006/5/17,Paris SG,Bastia,5,0,1617
+F1,2006/5/17,Toulouse,Caen,0,1,1617
+F1,2007/5/17,Lyon,Nantes,3,2,1617
+F1,2007/5/17,Marseille,Nice,2,1,1617
+F1,2007/5/17,Rennes,Montpellier,1,0,1617
+F1,2014/5/17,Bastia,Lorient,2,0,1617
+F1,2014/5/17,Bordeaux,Marseille,1,1,1617
+F1,2014/5/17,Caen,Rennes,0,1,1617
+F1,2014/5/17,Dijon,Nancy,2,0,1617
+F1,2014/5/17,Metz,Toulouse,1,1,1617
+F1,2014/5/17,Monaco,Lille,4,0,1617
+F1,2014/5/17,Montpellier,Lyon,1,3,1617
+F1,2014/5/17,Nantes,Guingamp,4,1,1617
+F1,2014/5/17,Nice,Angers,0,2,1617
+F1,2014/5/17,St Etienne,Paris SG,0,5,1617
+F1,2017/5/17,Monaco,St Etienne,2,0,1617
+F1,2020/5/17,Angers,Montpellier,2,0,1617
+F1,2020/5/17,Guingamp,Metz,1,0,1617
+F1,2020/5/17,Lille,Nantes,3,0,1617
+F1,2020/5/17,Lorient,Bordeaux,1,1,1617
+F1,2020/5/17,Lyon,Nice,3,3,1617
+F1,2020/5/17,Marseille,Bastia,1,0,1617
+F1,2020/5/17,Nancy,St Etienne,3,1,1617
+F1,2020/5/17,Paris SG,Caen,1,1,1617
+F1,2020/5/17,Rennes,Monaco,2,3,1617
+F1,2020/5/17,Toulouse,Dijon,0,0,1617
+F1,2004/8/17,Monaco,Toulouse,3,2,1718
+F1,2005/8/17,Lyon,Strasbourg,4,0,1718
+F1,2005/8/17,Metz,Guingamp,1,3,1718
+F1,2005/8/17,Montpellier,Caen,1,0,1718
+F1,2005/8/17,Paris SG,Amiens,2,0,1718
+F1,2005/8/17,St Etienne,Nice,1,0,1718
+F1,2005/8/17,Troyes,Rennes,1,1,1718
+F1,2006/8/17,Angers,Bordeaux,2,2,1718
+F1,2006/8/17,Lille,Nantes,3,0,1718
+F1,2006/8/17,Marseille,Dijon,3,0,1718
+F1,2011/8/17,Nice,Troyes,1,2,1718
+F1,2011/8/17,Rennes,Lyon,1,2,1718
+F1,2012/8/17,Amiens,Angers,0,2,1718
+F1,2012/8/17,Bordeaux,Metz,2,0,1718
+F1,2012/8/17,Caen,St Etienne,0,1,1718
+F1,2012/8/17,Nantes,Marseille,0,1,1718
+F1,2012/8/17,Toulouse,Montpellier,1,0,1718
+F1,2013/8/17,Dijon,Monaco,1,4,1718
+F1,2013/8/17,Guingamp,Paris SG,0,3,1718
+F1,2013/8/17,Strasbourg,Lille,3,0,1718
+F1,2018/8/17,Metz,Monaco,0,1,1718
+F1,2019/8/17,Lyon,Bordeaux,3,3,1718
+F1,2019/8/17,Montpellier,Strasbourg,1,1,1718
+F1,2019/8/17,Nice,Guingamp,2,0,1718
+F1,2019/8/17,Rennes,Dijon,2,2,1718
+F1,2019/8/17,St Etienne,Amiens,3,0,1718
+F1,2019/8/17,Troyes,Nantes,0,1,1718
+F1,2020/8/17,Lille,Caen,0,2,1718
+F1,2020/8/17,Marseille,Angers,1,1,1718
+F1,2020/8/17,Paris SG,Toulouse,6,2,1718
+F1,2025/8/17,Paris SG,St Etienne,3,0,1718
+F1,2026/8/17,Amiens,Nice,3,0,1718
+F1,2026/8/17,Bordeaux,Troyes,2,1,1718
+F1,2026/8/17,Caen,Metz,1,0,1718
+F1,2026/8/17,Dijon,Montpellier,2,1,1718
+F1,2026/8/17,Nantes,Lyon,0,0,1718
+F1,2026/8/17,Toulouse,Rennes,3,2,1718
+F1,2027/8/17,Angers,Lille,1,1,1718
+F1,2027/8/17,Guingamp,Strasbourg,2,0,1718
+F1,2027/8/17,Monaco,Marseille,6,1,1718
+F1,2008/9/17,Lille,Bordeaux,0,0,1718
+F1,2008/9/17,Metz,Paris SG,1,5,1718
+F1,2009/9/17,Caen,Dijon,2,1,1718
+F1,2009/9/17,Montpellier,Nantes,0,1,1718
+F1,2009/9/17,Nice,Monaco,4,0,1718
+F1,2009/9/17,Strasbourg,Amiens,0,1,1718
+F1,2009/9/17,Troyes,Toulouse,0,0,1718
+F1,2010/9/17,Lyon,Guingamp,2,1,1718
+F1,2010/9/17,Marseille,Rennes,1,3,1718
+F1,2010/9/17,St Etienne,Angers,1,1,1718
+F1,2015/9/17,Toulouse,Bordeaux,0,1,1718
+F1,2016/9/17,Dijon,St Etienne,0,1,1718
+F1,2016/9/17,Guingamp,Lille,1,0,1718
+F1,2016/9/17,Monaco,Strasbourg,3,0,1718
+F1,2016/9/17,Nantes,Caen,1,0,1718
+F1,2016/9/17,Troyes,Montpellier,0,1,1718
+F1,2017/9/17,Amiens,Marseille,0,2,1718
+F1,2017/9/17,Angers,Metz,0,1,1718
+F1,2017/9/17,Paris SG,Lyon,2,0,1718
+F1,2017/9/17,Rennes,Nice,0,1,1718
+F1,2022/9/17,Lille,Monaco,0,4,1718
+F1,2022/9/17,Nice,Angers,2,2,1718
+F1,2023/9/17,Bordeaux,Guingamp,3,1,1718
+F1,2023/9/17,Caen,Amiens,1,0,1718
+F1,2023/9/17,Lyon,Dijon,3,3,1718
+F1,2023/9/17,Metz,Troyes,0,1,1718
+F1,2023/9/17,Montpellier,Paris SG,0,0,1718
+F1,2024/9/17,Marseille,Toulouse,2,0,1718
+F1,2024/9/17,St Etienne,Rennes,2,2,1718
+F1,2024/9/17,Strasbourg,Nantes,1,2,1718
+F1,2029/9/17,Monaco,Montpellier,1,1,1718
+F1,1930/9/17,Dijon,Strasbourg,1,1,1718
+F1,1930/9/17,Guingamp,Toulouse,1,1,1718
+F1,1930/9/17,Nantes,Metz,1,0,1718
+F1,1930/9/17,Paris SG,Bordeaux,6,2,1718
+F1,1930/9/17,Rennes,Caen,0,1,1718
+F1,2001/10/17,Angers,Lyon,3,3,1718
+F1,2001/10/17,Nice,Marseille,2,4,1718
+F1,2001/10/17,Troyes,St Etienne,2,1,1718
+F1,2013/10/17,Lyon,Monaco,3,2,1718
+F1,2014/10/17,Caen,Angers,0,2,1718
+F1,2014/10/17,Dijon,Paris SG,1,2,1718
+F1,2014/10/17,Guingamp,Rennes,2,0,1718
+F1,2014/10/17,Lille,Troyes,2,2,1718
+F1,2014/10/17,St Etienne,Metz,3,1,1718
+F1,2014/10/17,Toulouse,Amiens,1,0,1718
+F1,2015/10/17,Bordeaux,Nantes,1,1,1718
+F1,2015/10/17,Montpellier,Nice,2,0,1718
+F1,2015/10/17,Strasbourg,Marseille,3,3,1718
+F1,2020/10/17,St Etienne,Montpellier,0,1,1718
+F1,2021/10/17,Amiens,Bordeaux,1,0,1718
+F1,2021/10/17,Angers,Toulouse,0,1,1718
+F1,2021/10/17,Metz,Dijon,1,2,1718
+F1,2021/10/17,Monaco,Caen,2,0,1718
+F1,2021/10/17,Nantes,Guingamp,2,1,1718
+F1,2021/10/17,Rennes,Lille,1,0,1718
+F1,2022/10/17,Marseille,Paris SG,2,2,1718
+F1,2022/10/17,Nice,Strasbourg,1,2,1718
+F1,2022/10/17,Troyes,Lyon,0,5,1718
+F1,2027/10/17,Paris SG,Nice,3,0,1718
+F1,2028/10/17,Bordeaux,Monaco,0,2,1718
+F1,2028/10/17,Caen,Troyes,1,0,1718
+F1,2028/10/17,Dijon,Nantes,1,0,1718
+F1,2028/10/17,Guingamp,Amiens,1,1,1718
+F1,2028/10/17,Montpellier,Rennes,0,1,1718
+F1,2028/10/17,Strasbourg,Angers,2,2,1718
+F1,2029/10/17,Lille,Marseille,0,1,1718
+F1,2029/10/17,Lyon,Metz,2,0,1718
+F1,2029/10/17,Toulouse,St Etienne,0,0,1718
+F1,2003/11/17,Rennes,Bordeaux,1,0,1718
+F1,2004/11/17,Angers,Paris SG,0,5,1718
+F1,2004/11/17,Monaco,Guingamp,6,0,1718
+F1,2004/11/17,Montpellier,Amiens,1,1,1718
+F1,2004/11/17,Nantes,Toulouse,2,1,1718
+F1,2004/11/17,Troyes,Strasbourg,3,0,1718
+F1,2005/11/17,Marseille,Caen,5,0,1718
+F1,2005/11/17,Metz,Lille,0,3,1718
+F1,2005/11/17,Nice,Dijon,1,0,1718
+F1,2005/11/17,St Etienne,Lyon,0,5,1718
+F1,2017/11/17,Amiens,Monaco,1,1,1718
+F1,2017/11/17,Lille,St Etienne,3,1,1718
+F1,2018/11/17,Dijon,Troyes,3,1,1718
+F1,2018/11/17,Guingamp,Angers,1,1,1718
+F1,2018/11/17,Paris SG,Nantes,4,1,1718
+F1,2018/11/17,Strasbourg,Rennes,2,1,1718
+F1,2018/11/17,Toulouse,Metz,0,0,1718
+F1,2019/11/17,Bordeaux,Marseille,1,1,1718
+F1,2019/11/17,Caen,Nice,1,1,1718
+F1,2019/11/17,Lyon,Montpellier,0,0,1718
+F1,2020/11/17,Amiens,Lille,3,0,1718
+F1,2024/11/17,St Etienne,Strasbourg,2,2,1718
+F1,2025/11/17,Caen,Bordeaux,1,0,1718
+F1,2025/11/17,Dijon,Toulouse,3,1,1718
+F1,2025/11/17,Metz,Amiens,0,2,1718
+F1,2025/11/17,Montpellier,Lille,3,0,1718
+F1,2025/11/17,Rennes,Nantes,2,1,1718
+F1,2025/11/17,Troyes,Angers,3,0,1718
+F1,2026/11/17,Marseille,Guingamp,1,0,1718
+F1,2026/11/17,Monaco,Paris SG,1,2,1718
+F1,2026/11/17,Nice,Lyon,0,5,1718
+F1,2028/11/17,Amiens,Dijon,2,1,1718
+F1,2028/11/17,Bordeaux,St Etienne,3,0,1718
+F1,2028/11/17,Strasbourg,Caen,0,0,1718
+F1,2029/11/17,Angers,Rennes,1,2,1718
+F1,2029/11/17,Guingamp,Montpellier,0,0,1718
+F1,2029/11/17,Lyon,Lille,1,2,1718
+F1,2029/11/17,Metz,Marseille,0,3,1718
+F1,2029/11/17,Nantes,Monaco,1,0,1718
+F1,2029/11/17,Paris SG,Troyes,2,0,1718
+F1,2029/11/17,Toulouse,Nice,1,2,1718
+F1,2001/12/17,Dijon,Bordeaux,3,2,1718
+F1,2002/12/17,Lille,Toulouse,1,0,1718
+F1,2002/12/17,Monaco,Angers,1,0,1718
+F1,2002/12/17,Nice,Metz,3,1,1718
+F1,2002/12/17,Rennes,Amiens,2,0,1718
+F1,2002/12/17,Strasbourg,Paris SG,2,1,1718
+F1,2002/12/17,Troyes,Guingamp,0,1,1718
+F1,2003/12/17,Caen,Lyon,1,2,1718
+F1,2003/12/17,Montpellier,Marseille,1,1,1718
+F1,2003/12/17,St Etienne,Nantes,1,1,1718
+F1,2008/12/17,Bordeaux,Strasbourg,0,3,1718
+F1,2009/12/17,Angers,Montpellier,1,1,1718
+F1,2009/12/17,Guingamp,Dijon,4,0,1718
+F1,2009/12/17,Metz,Rennes,1,1,1718
+F1,2009/12/17,Monaco,Troyes,3,2,1718
+F1,2009/12/17,Paris SG,Lille,3,1,1718
+F1,2009/12/17,Toulouse,Caen,2,0,1718
+F1,2010/12/17,Amiens,Lyon,1,2,1718
+F1,2010/12/17,Marseille,St Etienne,3,0,1718
+F1,2010/12/17,Nantes,Nice,1,2,1718
+F1,2015/12/17,St Etienne,Monaco,0,4,1718
+F1,2016/12/17,Caen,Guingamp,0,0,1718
+F1,2016/12/17,Dijon,Lille,3,0,1718
+F1,2016/12/17,Montpellier,Metz,1,3,1718
+F1,2016/12/17,Rennes,Paris SG,1,4,1718
+F1,2016/12/17,Strasbourg,Toulouse,2,1,1718
+F1,2016/12/17,Troyes,Amiens,1,0,1718
+F1,2017/12/17,Lyon,Marseille,2,0,1718
+F1,2017/12/17,Nantes,Angers,1,0,1718
+F1,2017/12/17,Nice,Bordeaux,1,0,1718
+F1,2020/12/17,Amiens,Nantes,0,1,1718
+F1,2020/12/17,Angers,Dijon,2,1,1718
+F1,2020/12/17,Bordeaux,Montpellier,0,2,1718
+F1,2020/12/17,Guingamp,St Etienne,2,1,1718
+F1,2020/12/17,Lille,Nice,1,1,1718
+F1,2020/12/17,Marseille,Troyes,3,1,1718
+F1,2020/12/17,Metz,Strasbourg,3,0,1718
+F1,2020/12/17,Monaco,Rennes,2,1,1718
+F1,2020/12/17,Paris SG,Caen,3,1,1718
+F1,2020/12/17,Toulouse,Lyon,1,2,1718
+F1,2012/1/18,Strasbourg,Guingamp,0,2,1718
+F1,2013/1/18,Caen,Lille,0,1,1718
+F1,2013/1/18,Dijon,Metz,1,1,1718
+F1,2013/1/18,Montpellier,Monaco,0,0,1718
+F1,2013/1/18,Nice,Amiens,1,0,1718
+F1,2013/1/18,Rennes,Marseille,0,3,1718
+F1,2013/1/18,Troyes,Bordeaux,0,1,1718
+F1,2014/1/18,Lyon,Angers,1,1,1718
+F1,2014/1/18,Nantes,Paris SG,0,1,1718
+F1,2014/1/18,St Etienne,Toulouse,2,0,1718
+F1,2016/1/18,Bordeaux,Caen,0,2,1718
+F1,2016/1/18,Marseille,Strasbourg,2,0,1718
+F1,2016/1/18,Monaco,Nice,2,2,1718
+F1,2017/1/18,Amiens,Montpellier,1,1,1718
+F1,2017/1/18,Angers,Troyes,3,1,1718
+F1,2017/1/18,Guingamp,Lyon,0,2,1718
+F1,2017/1/18,Lille,Rennes,1,2,1718
+F1,2017/1/18,Metz,St Etienne,3,0,1718
+F1,2017/1/18,Paris SG,Dijon,8,0,1718
+F1,2017/1/18,Toulouse,Nantes,1,1,1718
+F1,2019/1/18,Caen,Marseille,0,2,1718
+F1,2020/1/18,Amiens,Guingamp,3,1,1718
+F1,2020/1/18,Montpellier,Toulouse,2,1,1718
+F1,2020/1/18,Nantes,Bordeaux,0,1,1718
+F1,2020/1/18,Rennes,Angers,1,0,1718
+F1,2020/1/18,Strasbourg,Dijon,3,2,1718
+F1,2020/1/18,Troyes,Lille,1,0,1718
+F1,2021/1/18,Lyon,Paris SG,2,1,1718
+F1,2021/1/18,Monaco,Metz,3,1,1718
+F1,2021/1/18,Nice,St Etienne,1,0,1718
+F1,2026/1/18,Dijon,Rennes,2,1,1718
+F1,2027/1/18,Angers,Amiens,1,0,1718
+F1,2027/1/18,Guingamp,Nantes,0,3,1718
+F1,2027/1/18,Metz,Nice,2,1,1718
+F1,2027/1/18,Paris SG,Montpellier,4,0,1718
+F1,2027/1/18,St Etienne,Caen,2,1,1718
+F1,2027/1/18,Toulouse,Troyes,1,0,1718
+F1,2028/1/18,Bordeaux,Lyon,3,1,1718
+F1,2028/1/18,Lille,Strasbourg,2,1,1718
+F1,2028/1/18,Marseille,Monaco,2,2,1718
+F1,2002/2/18,Marseille,Metz,6,3,1718
+F1,2003/2/18,Amiens,St Etienne,0,2,1718
+F1,2003/2/18,Lille,Paris SG,0,3,1718
+F1,2003/2/18,Montpellier,Angers,2,1,1718
+F1,2003/2/18,Nice,Toulouse,0,1,1718
+F1,2003/2/18,Strasbourg,Bordeaux,0,2,1718
+F1,2004/2/18,Caen,Nantes,3,2,1718
+F1,2004/2/18,Monaco,Lyon,3,2,1718
+F1,2004/2/18,Rennes,Guingamp,0,1,1718
+F1,2009/2/18,St Etienne,Marseille,2,2,1718
+F1,2010/2/18,Angers,Monaco,0,4,1718
+F1,2010/2/18,Bordeaux,Amiens,3,2,1718
+F1,2010/2/18,Dijon,Nice,3,2,1718
+F1,2010/2/18,Guingamp,Caen,0,0,1718
+F1,2010/2/18,Metz,Montpellier,0,1,1718
+F1,2010/2/18,Toulouse,Paris SG,0,1,1718
+F1,2011/2/18,Lyon,Rennes,0,2,1718
+F1,2011/2/18,Nantes,Lille,2,2,1718
+F1,2011/2/18,Strasbourg,Troyes,2,1,1718
+F1,2016/2/18,Monaco,Dijon,4,0,1718
+F1,2017/2/18,Amiens,Toulouse,0,0,1718
+F1,2017/2/18,Angers,St Etienne,0,1,1718
+F1,2017/2/18,Caen,Rennes,2,2,1718
+F1,2017/2/18,Montpellier,Guingamp,1,1,1718
+F1,2017/2/18,Paris SG,Strasbourg,5,2,1718
+F1,2017/2/18,Troyes,Metz,1,0,1718
+F1,2018/2/18,Lille,Lyon,2,2,1718
+F1,2018/2/18,Marseille,Bordeaux,1,0,1718
+F1,2018/2/18,Nice,Nantes,1,1,1718
+F1,2020/2/18,Troyes,Dijon,0,0,1718
+F1,2023/2/18,Strasbourg,Montpellier,0,0,1718
+F1,2024/2/18,Dijon,Caen,2,0,1718
+F1,2024/2/18,Guingamp,Metz,2,2,1718
+F1,2024/2/18,Lille,Angers,1,2,1718
+F1,2024/2/18,Nantes,Amiens,0,1,1718
+F1,2024/2/18,Rennes,Troyes,2,0,1718
+F1,2024/2/18,Toulouse,Monaco,3,3,1718
+F1,2025/2/18,Bordeaux,Nice,0,0,1718
+F1,2025/2/18,Lyon,St Etienne,1,1,1718
+F1,2025/2/18,Paris SG,Marseille,3,0,1718
+F1,2002/3/18,Monaco,Bordeaux,2,1,1718
+F1,2002/3/18,Nice,Lille,2,1,1718
+F1,2003/3/18,Amiens,Rennes,0,2,1718
+F1,2003/3/18,Angers,Guingamp,3,0,1718
+F1,2003/3/18,Metz,Toulouse,1,1,1718
+F1,2003/3/18,St Etienne,Dijon,2,2,1718
+F1,2003/3/18,Troyes,Paris SG,0,2,1718
+F1,2004/3/18,Caen,Strasbourg,2,0,1718
+F1,2004/3/18,Marseille,Nantes,1,1,1718
+F1,2004/3/18,Montpellier,Lyon,1,1,1718
+F1,2009/3/18,Strasbourg,Monaco,1,3,1718
+F1,2010/3/18,Bordeaux,Angers,0,0,1718
+F1,2010/3/18,Dijon,Amiens,1,1,1718
+F1,2010/3/18,Lille,Montpellier,1,1,1718
+F1,2010/3/18,Nantes,Troyes,1,0,1718
+F1,2010/3/18,Paris SG,Metz,5,0,1718
+F1,2010/3/18,Rennes,St Etienne,1,1,1718
+F1,2011/3/18,Guingamp,Nice,2,5,1718
+F1,2011/3/18,Lyon,Caen,1,0,1718
+F1,2011/3/18,Toulouse,Marseille,1,2,1718
+F1,2014/3/18,Paris SG,Angers,2,1,1718
+F1,2016/3/18,Monaco,Lille,2,1,1718
+F1,2017/3/18,Amiens,Troyes,1,1,1718
+F1,2017/3/18,Angers,Caen,3,0,1718
+F1,2017/3/18,Bordeaux,Rennes,0,2,1718
+F1,2017/3/18,Montpellier,Dijon,2,2,1718
+F1,2017/3/18,Toulouse,Strasbourg,2,2,1718
+F1,2018/3/18,Marseille,Lyon,2,3,1718
+F1,2018/3/18,Metz,Nantes,1,1,1718
+F1,2018/3/18,Nice,Paris SG,1,2,1718
+F1,2018/3/18,St Etienne,Guingamp,2,0,1718
+F1,1931/3/18,Dijon,Marseille,1,3,1718
+F1,2001/4/18,Caen,Montpellier,1,3,1718
+F1,2001/4/18,Guingamp,Bordeaux,2,1,1718
+F1,2001/4/18,Lille,Amiens,0,1,1718
+F1,2001/4/18,Lyon,Toulouse,2,0,1718
+F1,2001/4/18,Nantes,St Etienne,0,3,1718
+F1,2001/4/18,Strasbourg,Metz,2,2,1718
+F1,2001/4/18,Troyes,Nice,0,2,1718
+F1,2004/4/18,Rennes,Monaco,1,1,1718
+F1,2006/4/18,St Etienne,Paris SG,1,1,1718
+F1,2007/4/18,Amiens,Caen,3,0,1718
+F1,2007/4/18,Angers,Strasbourg,1,1,1718
+F1,2007/4/18,Bordeaux,Lille,2,1,1718
+F1,2007/4/18,Guingamp,Troyes,4,0,1718
+F1,2007/4/18,Monaco,Nantes,2,1,1718
+F1,2007/4/18,Toulouse,Dijon,0,1,1718
+F1,2008/4/18,Marseille,Montpellier,0,0,1718
+F1,2008/4/18,Metz,Lyon,0,5,1718
+F1,2008/4/18,Nice,Rennes,1,1,1718
+F1,2013/4/18,Angers,Nice,1,1,1718
+F1,2014/4/18,Lille,Guingamp,2,2,1718
+F1,2014/4/18,Lyon,Amiens,3,0,1718
+F1,2014/4/18,Nantes,Dijon,1,1,1718
+F1,2014/4/18,Rennes,Metz,1,2,1718
+F1,2014/4/18,Strasbourg,St Etienne,0,1,1718
+F1,2015/4/18,Montpellier,Bordeaux,1,3,1718
+F1,2015/4/18,Paris SG,Monaco,7,1,1718
+F1,2015/4/18,Troyes,Marseille,2,3,1718
+F1,2020/4/18,Dijon,Lyon,2,5,1718
+F1,2020/4/18,Nantes,Rennes,1,1,1718
+F1,2021/4/18,Amiens,Strasbourg,3,1,1718
+F1,2021/4/18,Guingamp,Monaco,3,1,1718
+F1,2021/4/18,Marseille,Lille,5,1,1718
+F1,2021/4/18,Metz,Caen,1,1,1718
+F1,2021/4/18,Toulouse,Angers,2,0,1718
+F1,2022/4/18,Bordeaux,Paris SG,0,1,1718
+F1,2022/4/18,Nice,Montpellier,1,0,1718
+F1,2022/4/18,St Etienne,Troyes,2,1,1718
+F1,2025/4/18,Caen,Toulouse,0,0,1718
+F1,2027/4/18,Montpellier,St Etienne,0,1,1718
+F1,2028/4/18,Bordeaux,Dijon,3,1,1718
+F1,2028/4/18,Lille,Metz,3,1,1718
+F1,2028/4/18,Lyon,Nantes,2,0,1718
+F1,2028/4/18,Monaco,Amiens,0,0,1718
+F1,2028/4/18,Strasbourg,Nice,1,1,1718
+F1,2028/4/18,Troyes,Caen,3,1,1718
+F1,2029/4/18,Angers,Marseille,1,1,1718
+F1,2029/4/18,Paris SG,Guingamp,2,2,1718
+F1,2029/4/18,Rennes,Toulouse,2,1,1718
+F1,2004/5/18,Amiens,Paris SG,2,2,1718
+F1,2006/5/18,Caen,Monaco,1,2,1718
+F1,2006/5/18,Dijon,Guingamp,3,1,1718
+F1,2006/5/18,Lyon,Troyes,3,0,1718
+F1,2006/5/18,Marseille,Nice,2,1,1718
+F1,2006/5/18,Metz,Angers,1,2,1718
+F1,2006/5/18,Nantes,Montpellier,0,2,1718
+F1,2006/5/18,Rennes,Strasbourg,2,1,1718
+F1,2006/5/18,St Etienne,Bordeaux,1,3,1718
+F1,2006/5/18,Toulouse,Lille,2,3,1718
+F1,2011/5/18,Guingamp,Marseille,3,3,1718
+F1,2012/5/18,Amiens,Metz,2,0,1718
+F1,2012/5/18,Angers,Nantes,0,2,1718
+F1,2012/5/18,Bordeaux,Toulouse,4,2,1718
+F1,2012/5/18,Lille,Dijon,2,1,1718
+F1,2012/5/18,Monaco,St Etienne,1,0,1718
+F1,2012/5/18,Montpellier,Troyes,1,1,1718
+F1,2012/5/18,Nice,Caen,4,1,1718
+F1,2012/5/18,Paris SG,Rennes,0,2,1718
+F1,2012/5/18,Strasbourg,Lyon,3,2,1718
+F1,2019/5/18,Caen,Paris SG,0,0,1718
+F1,2019/5/18,Dijon,Angers,2,1,1718
+F1,2019/5/18,Lyon,Nice,3,2,1718
+F1,2019/5/18,Marseille,Amiens,2,1,1718
+F1,2019/5/18,Metz,Bordeaux,0,4,1718
+F1,2019/5/18,Nantes,Strasbourg,1,0,1718
+F1,2019/5/18,Rennes,Montpellier,1,1,1718
+F1,2019/5/18,St Etienne,Lille,5,0,1718
+F1,2019/5/18,Toulouse,Guingamp,2,1,1718
+F1,2019/5/18,Troyes,Monaco,0,3,1718
+F1,2010/8/18,Marseille,Toulouse,4,0,1819
+F1,2011/8/18,Angers,Nimes,3,4,1819
+F1,2011/8/18,Lille,Rennes,3,1,1819
+F1,2011/8/18,Montpellier,Dijon,1,2,1819
+F1,2011/8/18,Nantes,Monaco,1,3,1819
+F1,2011/8/18,Nice,Reims,0,1,1819
+F1,2011/8/18,St Etienne,Guingamp,2,1,1819
+F1,2012/8/18,Bordeaux,Strasbourg,0,2,1819
+F1,2012/8/18,Lyon,Amiens,2,0,1819
+F1,2012/8/18,Paris SG,Caen,3,0,1819
+F1,2017/8/18,Reims,Lyon,1,0,1819
+F1,2018/8/18,Amiens,Montpellier,1,2,1819
+F1,2018/8/18,Caen,Nice,1,1,1819
+F1,2018/8/18,Dijon,Nantes,2,0,1819
+F1,2018/8/18,Guingamp,Paris SG,1,3,1819
+F1,2018/8/18,Monaco,Lille,0,0,1819
+F1,2018/8/18,Rennes,Angers,1,0,1819
+F1,2019/8/18,Nimes,Marseille,3,1,1819
+F1,2019/8/18,Strasbourg,St Etienne,1,1,1819
+F1,2019/8/18,Toulouse,Bordeaux,2,1,1819
+F1,2024/8/18,Lyon,Strasbourg,2,0,1819
+F1,2025/8/18,Amiens,Reims,4,1,1819
+F1,2025/8/18,Montpellier,St Etienne,0,0,1819
+F1,2025/8/18,Nantes,Caen,1,1,1819
+F1,2025/8/18,Nice,Dijon,0,4,1819
+F1,2025/8/18,Paris SG,Angers,3,1,1819
+F1,2025/8/18,Toulouse,Nimes,1,0,1819
+F1,2026/8/18,Bordeaux,Monaco,2,1,1819
+F1,2026/8/18,Lille,Guingamp,3,0,1819
+F1,2026/8/18,Marseille,Rennes,2,2,1819
+F1,1931/8/18,Lyon,Nice,0,1,1819
+F1,2001/9/18,Angers,Lille,1,0,1819
+F1,2001/9/18,Dijon,Caen,0,2,1819
+F1,2001/9/18,Guingamp,Toulouse,1,2,1819
+F1,2001/9/18,Nimes,Paris SG,2,4,1819
+F1,2001/9/18,Reims,Montpellier,0,1,1819
+F1,2001/9/18,Strasbourg,Nantes,2,3,1819
+F1,2002/9/18,Monaco,Marseille,2,3,1819
+F1,2002/9/18,Rennes,Bordeaux,2,0,1819
+F1,2002/9/18,St Etienne,Amiens,0,0,1819
+F1,2014/9/18,Nice,Rennes,2,1,1819
+F1,2014/9/18,Paris SG,St Etienne,4,0,1819
+F1,2015/9/18,Amiens,Lille,2,3,1819
+F1,2015/9/18,Caen,Lyon,2,2,1819
+F1,2015/9/18,Dijon,Angers,1,3,1819
+F1,2015/9/18,Montpellier,Strasbourg,1,1,1819
+F1,2015/9/18,Toulouse,Monaco,1,1,1819
+F1,2016/9/18,Bordeaux,Nimes,3,3,1819
+F1,2016/9/18,Marseille,Guingamp,4,0,1819
+F1,2016/9/18,Nantes,Reims,0,0,1819
+F1,2021/9/18,Monaco,Nimes,1,1,1819
+F1,2022/9/18,Angers,Toulouse,0,0,1819
+F1,2022/9/18,Lille,Nantes,2,1,1819
+F1,2022/9/18,Montpellier,Nice,1,0,1819
+F1,2022/9/18,Reims,Dijon,0,0,1819
+F1,2022/9/18,St Etienne,Caen,2,1,1819
+F1,2022/9/18,Strasbourg,Amiens,3,1,1819
+F1,2023/9/18,Guingamp,Bordeaux,1,3,1819
+F1,2023/9/18,Lyon,Marseille,4,2,1819
+F1,2023/9/18,Rennes,Paris SG,1,3,1819
+F1,2025/9/18,Monaco,Angers,0,1,1819
+F1,2025/9/18,Nantes,Nice,1,2,1819
+F1,2025/9/18,Toulouse,St Etienne,2,3,1819
+F1,2026/9/18,Amiens,Rennes,2,1,1819
+F1,2026/9/18,Bordeaux,Lille,1,0,1819
+F1,2026/9/18,Caen,Montpellier,2,2,1819
+F1,2026/9/18,Dijon,Lyon,0,3,1819
+F1,2026/9/18,Marseille,Strasbourg,3,2,1819
+F1,2026/9/18,Nimes,Guingamp,0,0,1819
+F1,2026/9/18,Paris SG,Reims,4,1,1819
+F1,2028/9/18,St Etienne,Monaco,2,0,1819
+F1,2029/9/18,Angers,Guingamp,0,1,1819
+F1,2029/9/18,Caen,Amiens,1,0,1819
+F1,2029/9/18,Lyon,Nantes,1,1,1819
+F1,2029/9/18,Nice,Paris SG,0,3,1819
+F1,2029/9/18,Reims,Bordeaux,0,0,1819
+F1,2029/9/18,Strasbourg,Dijon,3,0,1819
+F1,1930/9/18,Lille,Marseille,3,0,1819
+F1,1930/9/18,Montpellier,Nimes,3,0,1819
+F1,1930/9/18,Rennes,Toulouse,1,1,1819
+F1,2005/10/18,Toulouse,Nice,1,1,1819
+F1,2006/10/18,Amiens,Dijon,1,0,1819
+F1,2006/10/18,Angers,Strasbourg,2,2,1819
+F1,2006/10/18,Guingamp,Montpellier,1,1,1819
+F1,2006/10/18,Lille,St Etienne,3,1,1819
+F1,2006/10/18,Nimes,Reims,0,0,1819
+F1,2007/10/18,Bordeaux,Nantes,3,0,1819
+F1,2007/10/18,Marseille,Caen,2,0,1819
+F1,2007/10/18,Monaco,Rennes,1,2,1819
+F1,2007/10/18,Paris SG,Lyon,5,0,1819
+F1,2019/10/18,Lyon,Nimes,2,0,1819
+F1,2020/10/18,Caen,Guingamp,0,0,1819
+F1,2020/10/18,Dijon,Lille,1,2,1819
+F1,2020/10/18,Nantes,Toulouse,4,0,1819
+F1,2020/10/18,Paris SG,Amiens,5,0,1819
+F1,2020/10/18,Reims,Angers,1,1,1819
+F1,2020/10/18,Strasbourg,Monaco,2,1,1819
+F1,2021/10/18,Montpellier,Bordeaux,2,0,1819
+F1,2021/10/18,Nice,Marseille,0,1,1819
+F1,2021/10/18,St Etienne,Rennes,1,1,1819
+F1,2026/10/18,Nimes,St Etienne,1,1,1819
+F1,2027/10/18,Amiens,Nantes,1,2,1819
+F1,2027/10/18,Angers,Lyon,1,2,1819
+F1,2027/10/18,Guingamp,Strasbourg,1,1,1819
+F1,2027/10/18,Lille,Caen,1,0,1819
+F1,2027/10/18,Monaco,Dijon,2,2,1819
+F1,2027/10/18,Toulouse,Montpellier,0,3,1819
+F1,2028/10/18,Bordeaux,Nice,0,1,1819
+F1,2028/10/18,Marseille,Paris SG,0,2,1819
+F1,2028/10/18,Rennes,Reims,0,2,1819
